@@ -4,7 +4,6 @@
 using namespace std;
 
 vector<int> emps[1000000];
-
 void dfs(vector<int> *point,int st){
     for(int ii:emps[st]){
         point->at(ii)+=point->at(st);
@@ -24,9 +23,7 @@ int main(){
     }
     
     int emp,p;
-    for(int
-    
-     i=0; i<m; i++){
+    for(int i=0; i<m; i++){
         cin>>emp>>p;
         point[emp-1]+=p;
     }
