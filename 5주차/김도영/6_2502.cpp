@@ -2,33 +2,28 @@
 
 using namespace std;
 
-int d, n;
-int dp[100];
-bool flag = true;
-
-void DFS(int idx){
-    if(idx == 1){
-        flag = false;
-        return;
-    }
-    
-    int b = dp[idx];
-    int a = dp[idx+1] - b;
-    if(a <= b){
-        dp[idx-1] = a;
-        DFS(idx-1);
-    }
-}
+int d, k;
+int a[31];
+int b[31];
 
 int main(){
-    cin >> d >> n;
+    cin >> d >> k;
 
-    dp[d] = n;
-    int rice_cake = (n+1)/2;
-    for(; rice_cake<=n && flag; rice_cake++){
-        dp[d-1] = rice_cake;
-        DFS(d-1);
+    a[1] = 1;
+    a[2] = 0;
+
+    b[1] = 0;
+    b[2] = 1;
+
+    for(int i=3; i<31; i++){
+        a[i] = a[i-1] + a[i-2];
+        b[i] = b[i-1] + b[i-2];
     }
 
-    cout << dp[1] << "\n" << dp[2];
+    for(int x=1; x<=k; x++){
+        if((k-a[d]*x)%b[d] == 0){
+            cout << x << "\n" << (k-a[d]*x)/b[d];
+            break;
+        }
+    }
 }
