@@ -3,18 +3,17 @@
 
 using namespace std;
 
-int n, a, ans = 0;
+int n, ans = 0;
 vector<int> v;
-vector<int> temp;
 
 int main(){
     cin >> n;
     for(int i=0; i<n; i++){
-        cin >> a;
+        int a; cin >> a;
         v.push_back(a);
     }
     
-    while(v.size() != 0){
+    while(v.size() != 1){
         int idx = 0, Max = 0;
         for(int i = 0; i<v.size(); i++){
             if(Max < v[i]){
@@ -29,7 +28,7 @@ int main(){
             ans += v[idx] - v[idx-1];
         else
             ans += (v[idx] - max(v[idx-1], v[idx+1]));
-            
+
         v.erase(v.begin()+idx);
     }
 
