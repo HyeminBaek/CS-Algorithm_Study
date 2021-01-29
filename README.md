@@ -14,7 +14,7 @@
 
 <br>
 
-|　  <p style="color:red;">SUN</p>　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
+|　  <b style="color:red;">SUN</b>　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |    31    |    1    |    2    |    3    |    4    |    5    |    6    |
 | <div><p><b>알고리즘 주제</b> 정렬</p> <p><b>코딩인터뷰 주제</b> 최적화(BUD) 및 문제 풀이 기술 </p></div>  |   |   |   |   |||
