@@ -3,8 +3,8 @@
 
 ### 스터디원
 
-[김 도 영](https://github.com/kimdy003) [김 보 연](https://github.com/bwowby) [백 혜 민](https://github.com/HyeminBaek)
-[이 정 혁](https://github.com/wjdgurrj) [오 현 식](https://github.com/guppy-bluegrass)
+[김도영](https://github.com/kimdy003) [김보연](https://github.com/bwowby) [백혜민](https://github.com/HyeminBaek)
+[이정혁](https://github.com/wjdgurrj) [오현식](https://github.com/guppy-bluegrass)
 
 
 <br> 📌 시작: 2020-12-27 
