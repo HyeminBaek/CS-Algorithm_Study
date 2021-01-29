@@ -1,4 +1,4 @@
-# CS-Algorithm_Study
+# CS&&Algorithm&&SQL&&Coding Interview Study
 <blockquote>스터디를 하면서 풀었던 문제나 이전 주차 과제 코드를 공유하는 레포지토리입니다.</blockquote>
 
 ### 스터디원
