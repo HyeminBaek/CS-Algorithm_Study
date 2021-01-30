@@ -84,11 +84,9 @@ int main(int argc, const char * argv[]) {
     sort(colleagues.begin(),colleagues.end(),compare);
     maximumGap = getGap(colleagues[colleagues.size()-1],colleagues[0]);
     answer = colleagues[0];
-    //cout<<colleagues[colleagues.size()-1].month<<"-"<<colleagues[colleagues.size()-1].day<<","<<colleagues[0].month<<"-"<<colleagues[0].day<<" "<<maximumGap<<endl;//
     for(int i=1;i<colleagues.size();i++)
     {
         int gap =  getGap(colleagues[i-1],colleagues[i]);
-        //cout<<colleagues[i-1].month<<"-"<<colleagues[i-1].day<<","<<colleagues[i].month<<"-"<<colleagues[i].day<<" "<<gap<<endl;//
         if(gap>maximumGap)
         {
             maximumGap = gap;
