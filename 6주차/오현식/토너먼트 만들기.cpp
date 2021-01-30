@@ -25,7 +25,6 @@ int solve(int left, int right)
             winner[left][right] = min(winner[left][i], winner[i+1][right]);
         }
     }
-    //cout<<"left: "<<left<<" "<<"right: "<<right<<" "<<dp[left][right]<<endl;//
     return dp[left][right];
 }
 
