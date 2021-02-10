@@ -25,3 +25,5 @@
 | 28 |
 | <div><p><b>알고리즘 주제</b> </p> <p><b>코딩인터뷰 주제</b></p></div>  |
 
+https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46802
+https://recruit.truefriend.com/announcementView?_ev=FZ4xaPTqnN38ijABgYcYp%2BH5eL4Baz9sllJp5lKZuJ8j9kPSfcDEbJzFu0Lws6IP3Nh0PfHpqrTHqGIK%2FVpnSEz52D5GpZM0j8Az%2BGvmVXy1N0WDEU5RoNgbxWBZVblbv2EvFNooLfT6frSQj4ZmK4ddRZUBVj34QbwkzsczvpHTmm8LnrC0ce94umiVclsiwdm%2FdwDFg3FPJ51h9Nfs2WEtOlxt25W%2B9KIYcuSJ6jlG%2BhDu%2FmhVt6C%2BCnqUXT3zKA76iR3v6nbXvWfO3rHP3pPTAaLc%2FSlvvSUwGMgXfSJ41o6vnVoaC%2FadwdbdbG%2FcaK4XlKOA2jXsJjc4wobmiw%3D%3D&_ec=7JxGafmVVUAaZ3820fdzMg72sZZ8OI6teLaE3Hhp2%2Fc%3D
