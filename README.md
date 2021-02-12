@@ -26,9 +26,14 @@
 | <div><p><b>알고리즘 주제</b> </p> <p><b>코딩인터뷰 주제</b></p></div>  |
 
 ** 수시채용 인재풀 등록
+
 태웅로직스 http://www.jobkorea.co.kr/Recruit/GI_Read/33863154?Oem_Code=C&sc=68
+
 현대오토에버 http://www.jobkorea.co.kr/Recruit/GI_Read/33620223?Oem_Code=C1
 
-한국투자https://recruit.truefriend.com/announcementView?_ev=FZ4xaPTqnN38ijABgYcYp%2BH5eL4Baz9sllJp5lKZuJ8j9kPSfcDEbJzFu0Lws6IP3Nh0PfHpqrTHqGIK%2FVpnSEz52D5GpZM0j8Az%2BGvmVXy1N0WDEU5RoNgbxWBZVblbv2EvFNooLfT6frSQj4ZmK4ddRZUBVj34QbwkzsczvpHTmm8LnrC0ce94umiVclsiwdm%2FdwDFg3FPJ51h9Nfs2WEtOlxt25W%2B9KIYcuSJ6jlG%2BhDu%2FmhVt6C%2BCnqUXT3zKA76iR3v6nbXvWfO3rHP3pPTAaLc%2FSlvvSUwGMgXfSJ41o6vnVoaC%2FadwdbdbG%2FcaK4XlKOA2jXsJjc4wobmiw%3D%3D&_ec=7JxGafmVVUAaZ3820fdzMg72sZZ8OI6teLaE3Hhp2%2Fc%3D
+** 기타 등등
+LG CNS http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
-로그인된 사용자만 접근 가능하기 위해서 로그인 요청(POST/login)에서의 상태유지(세션) -> 21강에 백엔드 코드 있음
+현대 엠엔소프트 https://hyundai-mnsoft.recruiter.co.kr/app/jobnotice/list
+
+한국투자 https://recruit.truefriend.com/announcementView?_ev=FZ4xaPTqnN38ijABgYcYp%2BH5eL4Baz9sllJp5lKZuJ8j9kPSfcDEbJzFu0Lws6IP3Nh0PfHpqrTHqGIK%2FVpnSEz52D5GpZM0j8Az%2BGvmVXy1N0WDEU5RoNgbxWBZVblbv2EvFNooLfT6frSQj4ZmK4ddRZUBVj34QbwkzsczvpHTmm8LnrC0ce94umiVclsiwdm%2FdwDFg3FPJ51h9Nfs2WEtOlxt25W%2B9KIYcuSJ6jlG%2BhDu%2FmhVt6C%2BCnqUXT3zKA76iR3v6nbXvWfO3rHP3pPTAaLc%2FSlvvSUwGMgXfSJ41o6vnVoaC%2FadwdbdbG%2FcaK4XlKOA2jXsJjc4wobmiw%3D%3D&_ec=7JxGafmVVUAaZ3820fdzMg72sZZ8OI6teLaE3Hhp2%2Fc%3D
