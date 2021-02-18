@@ -31,7 +31,6 @@
 
 태웅로직스 http://www.jobkorea.co.kr/Recruit/GI_Read/33863154?Oem_Code=C&sc=68
 
-현대오토에버 http://www.jobkorea.co.kr/Recruit/GI_Read/33620223?Oem_Code=C1
 
 ** 기타 등등
 LG CNS http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
