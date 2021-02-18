@@ -47,3 +47,7 @@ wins https://wins21.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobno
 https://www.woorifcapital.com/intro/hrImagery.do?menuNo=000000000000000000000000000603
 
 ~21년 3월 1일 라인 핀테크 https://careers.linecorp.com/ko/jobs/275
+
+보안 관제란?
+https://blog.naver.com/ridesafe/222233188518
+https://terms.naver.com/entry.nhn?docId=865205&cid=50376&categoryId=50376
