@@ -10,7 +10,7 @@
 <br> 💻 문제 선정: 백준,LeetCode
 
 ✏️ `이번주 문제(백준)` : [별 찍기10(2447)](https://www.acmicpc.net/problem/2447) [석판 자르기(2339)](https://www.acmicpc.net/problem/2339) [Moo 게임(5904)](https://www.acmicpc.net/problem/5904) [쿼드 트리(6580)](https://www.acmicpc.net/problem/6580) [행렬 제곱(10830)](https://www.acmicpc.net/problem/10830) 
-[마법사 상어와 파이어볼(20056)](https://www.acmicpc.net/problem/20056)
+[마법사 상어와 파이어볼(20056)](https://www.acmicpc.net/problem/20056) [행성 터널] [알고스팟] [플로이드] [웜홀]
 
 <h3> 📅 2월 </h3>
 
