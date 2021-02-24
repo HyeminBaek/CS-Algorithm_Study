@@ -62,5 +62,5 @@ https://apply.likelion.org/
 라인 신입 채용 예정
 03.02~03.15
 
-
-
+LIG 넥스원
+https://2021-lignex1.com/
