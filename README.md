@@ -59,5 +59,8 @@ https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=
 멋사 9기
 https://apply.likelion.org/
 
+라인 신입 채용 예정
+03.02~03.15
+
 
 
