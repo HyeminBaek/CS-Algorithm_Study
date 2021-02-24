@@ -10,7 +10,7 @@
 <br> 💻 문제 선정: 백준,LeetCode
 
 ✏️ `이번주 문제(백준)` : [별 찍기10(2447)](https://www.acmicpc.net/problem/2447) [석판 자르기(2339)](https://www.acmicpc.net/problem/2339) [Moo 게임(5904)](https://www.acmicpc.net/problem/5904) [쿼드 트리(6580)](https://www.acmicpc.net/problem/6580) [행렬 제곱(10830)](https://www.acmicpc.net/problem/10830) 
-[마법사 상어와 파이어볼(20056)](https://www.acmicpc.net/problem/20056) [행성 터널] [알고스팟] [플로이드] [웜홀]
+[마법사 상어와 파이어볼(20056)](https://www.acmicpc.net/problem/20056) [행성 터널(2887)](https://www.acmicpc.net/problem/2887) [알고스팟(1261)](https://www.acmicpc.net/problem/1261) [플로이드(11404)](https://www.acmicpc.net/problem/11404) [웜홀(1865)](https://www.acmicpc.net/problem/1865)
 
 <h3> 📅 2월 </h3>
 
@@ -25,8 +25,8 @@
 | <p><b>알고리즘 주제</b> 위상 정렬과 LCA </p> <p><b>코딩인터뷰 주제</b> 트리</p> ||||||  |
 | 21 |      22        |       23       |         24              |  25  |  26  |  27  |
 | <p><b>코딩인터뷰 주제</b> 그래프</p>||<p>KIS 정보통신 서류 마감</p>|<p><b>알고리즘 주제</b> 분할정복과 그래프</p>||<p>LG CNS,유안타증권 서류 접수 마감일</p>|      |
-| 28 |
-| <div><p><b>알고리즘 주제</b> </p> <p><b>코딩인터뷰 주제</b></p></div>  |
+| 28 |1|2|3|4|5|6|
+| <b>코딩인터뷰 주제</b>  |||<b>알고리즘 주제</b>||||
 
 ** 수시채용 인재풀 등록
 
@@ -36,27 +36,31 @@
 ** 기타 등등
 LG CNS http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
-현대 엠엔소프트 https://hyundai-mnsoft.recruiter.co.kr/app/jobnotice/list
-
 한국투자 https://recruit.truefriend.com/announcementView?_ev=FZ4xaPTqnN38ijABgYcYp%2BH5eL4Baz9sllJp5lKZuJ8j9kPSfcDEbJzFu0Lws6IP3Nh0PfHpqrTHqGIK%2FVpnSEz52D5GpZM0j8Az%2BGvmVXy1N0WDEU5RoNgbxWBZVblbv2EvFNooLfT6frSQj4ZmK4ddRZUBVj34QbwkzsczvpHTmm8LnrC0ce94umiVclsiwdm%2FdwDFg3FPJ51h9Nfs2WEtOlxt25W%2B9KIYcuSJ6jlG%2BhDu%2FmhVt6C%2BCnqUXT3zKA76iR3v6nbXvWfO3rHP3pPTAaLc%2FSlvvSUwGMgXfSJ41o6vnVoaC%2FadwdbdbG%2FcaK4XlKOA2jXsJjc4wobmiw%3D%3D&_ec=7JxGafmVVUAaZ3820fdzMg72sZZ8OI6teLaE3Hhp2%2Fc%3D
 
 KIS 정보통신 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981
 
-wins https://wins21.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS1&jobnoticeSn=25219
-
 우리금융캐피탈 http://www.jobkorea.co.kr/Recruit/GI_Read/33927975?Oem_Code=C&sc=68
 https://www.woorifcapital.com/intro/hrImagery.do?menuNo=000000000000000000000000000603
 
-~21년 3월 1일 라인 핀테크 https://careers.linecorp.com/ko/jobs/275
 
-보안 관제란?
-https://blog.naver.com/ridesafe/222233188518
-
-https://terms.naver.com/entry.nhn?docId=865205&cid=50376&categoryId=50376
-KB 생명보험, NH 22일
 유안타증권 26일
 
 졸업 증명서,성적 증명서, 자격증,공인어학시험 성적 증명서,기타 증빙서류
 
+
 2021 춘계 SW개발 채용전제형 인턴 모집
 - 지원 기간 : ~3/7(일)
+https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=
+
+KDB산업은행 2021년 1차 청년인턴 채용공고 ~3.9
+https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020
+
+멋사 9기
+https://apply.likelion.org/
+
+라인 신입 채용 예정
+03.02~03.15
+
+
+
