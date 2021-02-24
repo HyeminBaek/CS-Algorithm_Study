@@ -63,4 +63,5 @@ https://apply.likelion.org/
 03.02~03.15
 
 LIG 넥스원
+02.19~03.14
 https://2021-lignex1.com/
