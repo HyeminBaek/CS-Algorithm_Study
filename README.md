@@ -23,7 +23,7 @@
 | 14 |      15       |      16       |      17       |     18     |     19     |20|
 | <p><b>알고리즘 주제</b> 위상 정렬과 LCA </p> <p><b>코딩인터뷰 주제</b> 트리</p> ||||||  |
 | 21 |      22        |       23       |         24              |  25  |  26  |  27  |
-| <p><b>코딩인터뷰 주제</b> 그래프</p>||<p>KIS 정보통신 서류 마감</p>|<p><b>알고리즘 주제</b> 분할정복과 그래프</p>||<p>LG CNS,유안타증권 서류 접수 마감일</p>|      |
+| <p><b>코딩인터뷰 주제</b> 그래프</p>||<p>KIS 정보통신 서류 마감</p>|<p><b>알고리즘 주제</b> 분할정복과 그래프</p>||<p>유안타증권 서류 접수 마감일</p>|      |
 | 28 |1|2|3|4|5|6|
 | <b>코딩인터뷰 주제</b>  |||<b>알고리즘 주제</b>||||
 
@@ -33,11 +33,6 @@
 
 
 ** 기타 등등
-LG CNS http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
-
-한국투자 https://recruit.truefriend.com/announcementView?_ev=FZ4xaPTqnN38ijABgYcYp%2BH5eL4Baz9sllJp5lKZuJ8j9kPSfcDEbJzFu0Lws6IP3Nh0PfHpqrTHqGIK%2FVpnSEz52D5GpZM0j8Az%2BGvmVXy1N0WDEU5RoNgbxWBZVblbv2EvFNooLfT6frSQj4ZmK4ddRZUBVj34QbwkzsczvpHTmm8LnrC0ce94umiVclsiwdm%2FdwDFg3FPJ51h9Nfs2WEtOlxt25W%2B9KIYcuSJ6jlG%2BhDu%2FmhVt6C%2BCnqUXT3zKA76iR3v6nbXvWfO3rHP3pPTAaLc%2FSlvvSUwGMgXfSJ41o6vnVoaC%2FadwdbdbG%2FcaK4XlKOA2jXsJjc4wobmiw%3D%3D&_ec=7JxGafmVVUAaZ3820fdzMg72sZZ8OI6teLaE3Hhp2%2Fc%3D
-
-KIS 정보통신 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981
 
 우리금융캐피탈 http://www.jobkorea.co.kr/Recruit/GI_Read/33927975?Oem_Code=C&sc=68
 https://www.woorifcapital.com/intro/hrImagery.do?menuNo=000000000000000000000000000603
@@ -47,6 +42,7 @@ https://www.woorifcapital.com/intro/hrImagery.do?menuNo=000000000000000000000000
 
 졸업 증명서,성적 증명서, 자격증,공인어학시험 성적 증명서,기타 증빙서류
 
+LG CNS ~3월 1일 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
 2021 춘계 SW개발 채용전제형 인턴 모집
 - 지원 기간 : ~3/7(일)
@@ -69,5 +65,5 @@ https://2021-lignex1.com/
 
 
 *배개민 메모장( 지울거임 )
-1. KIS 정보통신: 서류 제출
+1. [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981): 서류 제출
 
