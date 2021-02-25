@@ -65,3 +65,10 @@ https://apply.likelion.org/
 LIG 넥스원
 02.19~03.14
 https://2021-lignex1.com/
+
+신세계 아이앤씨 ~03.10
+
+
+*배개민 메모장( 지울거임 )
+1. KIS 정보통신: 서류 제출
+
