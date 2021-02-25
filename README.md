@@ -7,9 +7,10 @@
 
 
 <br> 📌 시작: 2020-12-27 
-<br> 💻 문제 선정: 백준,LeetCode
+<br> 💻 문제 선정: 백준,프로그래머스,LeetCode
 
-✏️ `이번주 문제(백준)` : [
+✏️ `이번주 문제(백준)` : [마법사 상어와 파이어스톰(20058)](https://www.acmicpc.net/problem/20058), [마법사 상어와 토네이도(20057)](https://www.acmicpc.net/problem/20057)
+[연속합 2(13398)](https://www.acmicpc.net/problem/20057)
 
 <h3> 📅 2월 & 3월 </h3>
 
