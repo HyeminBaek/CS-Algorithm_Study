@@ -10,7 +10,7 @@
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode
 
 ✏️ `이번주 문제(백준)` : [마법사 상어와 파이어스톰(20058)](https://www.acmicpc.net/problem/20058), [마법사 상어와 토네이도(20057)](https://www.acmicpc.net/problem/20057)
-[연속합 2(13398)](https://www.acmicpc.net/problem/20057)
+[연속합 2(13398)](https://www.acmicpc.net/problem/20057) [트리의 순회(2263)](https://www.acmicpc.net/problem/2263)
 
 <h3> 📅 2월 & 3월 </h3>
 
@@ -41,7 +41,7 @@ https://www.woorifcapital.com/intro/hrImagery.do?menuNo=000000000000000000000000
 
 유안타증권 26일
 
-졸업 증명서,성적 증명서, 자격증,공인어학시험 성적 증명서,기타 증빙서류
+자격증,기타 증빙서류
 
 LG CNS ~3월 1일 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
