@@ -13,7 +13,7 @@
 [연속합 2(13398)](https://www.acmicpc.net/problem/20057) [단어 암기(18119)](https://www.acmicpc.net/problem/18119) [수들의 합 2(2003)](https://www.acmicpc.net/problem/2003)
 [트리의 순회(2263)](https://www.acmicpc.net/problem/2263)
 
-<h3> 📅 2월 & 3월 </h3>
+<h3> 📅 3월 </h3>
 
 
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
