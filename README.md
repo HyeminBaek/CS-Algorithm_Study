@@ -21,7 +21,7 @@
 |    28    |    1    |    2    |    3    |    4    |    5    |    6    |
 |<b>코딩인터뷰 주제</b> 비트 조작|<p></p>|<p></p> |<p><b>알고리즘 주제</b> 삼성기출,DP,투포인터,트리,비트마스킹</p>  | <p></p>  |||
 | 7 |      8      |      9      |     10     |    11     |     12     | 13 |
-|<p><b>코딩인터뷰 주제</b></p><p>nts 춘계 SW개발 인턴 서류 마감</p>  |<p></p>||<p><b>알고리즘 주제</b> </p>|||    |
+|<p><b>코딩인터뷰 주제</b></p><p>nts 춘계 SW개발 인턴 서류 마감</p>  |<p></p>|KDB산업은행 청년인턴 서류 마감|<p><b>알고리즘 주제</b> </p>|||    |
 | 14 |      15       |      16       |      17       |     18     |     19     |20|
 | <p><b>코딩인터뷰 주제</b></p> |||<p><b>알고리즘 주제</b> </p>|||  |
 | 21 |      22        |       23       |         24              |  25  |  26  |  27  |
@@ -59,4 +59,5 @@ https://2021-lignex1.com/
 
 *배개민 메모장( 지울거임 )
 1. [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981): 서류 제출
+2. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=): 서류 제출
 
