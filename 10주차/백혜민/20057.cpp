@@ -77,6 +77,5 @@ int main()
 	tornado();
 
 	cout << answer;
-
 	return 0;
 }
