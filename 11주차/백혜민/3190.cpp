@@ -116,6 +116,5 @@ int main()
 {
 	init();
 	cout << bfs();
-	
 	return 0;
 }
