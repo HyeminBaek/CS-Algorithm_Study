@@ -10,8 +10,8 @@
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode
 
 ✏️ `이번주 문제(백준)` : [아기 상어(16236)](https://www.acmicpc.net/problem/16236), [뱀(3190)](https://www.acmicpc.net/problem/3190)
-[스타트링크 타워(1089)](https://www.acmicpc.net/problem/1089) [단어 암기(18119)](https://www.acmicpc.net/problem/18119) [수들의 합 2(2003)](https://www.acmicpc.net/problem/2003)
-[트리의 순회(2263)](https://www.acmicpc.net/problem/2263)
+[스타트링크 타워(1089)](https://www.acmicpc.net/problem/1089) [내려가기(2096)](https://www.acmicpc.net/problem/2096) [미로만들기(2665)](https://www.acmicpc.net/problem/2665)
+[알약(4811)](https://www.acmicpc.net/problem/4811), [마라톤 2(10653)](https://www.acmicpc.net/problem/10653)
 
 <h3> 📅 3월 </h3>
 
