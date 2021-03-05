@@ -59,6 +59,8 @@ https://2021-lignex1.com/
 
 네페스 https://nepes.saramin.co.kr/_service/zlight/apply_site/apply/intro.asp
 
+토스 https://toss.im/career/jobs
+
 *배개민 메모장( 지울거임 )
 1. [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981): 서류 제출
 2. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=): 서류 제출
