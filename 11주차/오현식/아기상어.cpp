@@ -31,8 +31,6 @@ struct BabyShark{
     
     BabyShark():sizeOfBabyShark(2),lifetime(0),numOfFishBabySharkAte(0){}
     bool move(void){
-        int distOfNearestFish=INT_MAX;
-        Pos posOfNearestFish=Pos(INT_MAX,INT_MAX);
         bool visited[21][21] = {false,};
         priority_queue<State,vector<State>,compare> que;
         visited[pos.first][pos.second]=true;
@@ -43,8 +41,6 @@ struct BabyShark{
             int currentDist = que.top().second;
             que.pop();
             if(isEdible(currentPos)){
-                distOfNearestFish = currentDist;
-                posOfNearestFish = currentPos;
                 fishbowl[currentPos.first][currentPos.second] = 0;
                 lifetime += currentDist;
                 numOfFishBabySharkAte++;
