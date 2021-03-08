@@ -39,8 +39,8 @@ int main(int argc, const char * argv[]) {
                 candidate.push_back(j);
             }
         }
-        for(int j=0;j<candidate.size();j++) sumOfCandidate+=candidate[j]*pow(10,N-i);
-        if(candidate.size()!=0) ans += sumOfCandidate/candidate.size();
+        for(int j=0;j<candidate.size();j++) sumOfCandidate+=candidate[j];
+        if(candidate.size()!=0) ans += sumOfCandidate/candidate.size()*pow(10,N-i);
         if(!isPossible){
             cout<<-1;
             return 0;
