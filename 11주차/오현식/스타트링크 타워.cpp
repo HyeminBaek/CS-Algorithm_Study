@@ -10,15 +10,6 @@ int numOfCases[10]; // idx:1~9
 int numOfAllCases=1;
 double ans;
 
-string decToBin(int dec){
-    string bin;
-    for(int i=0;i<32;i++){
-        bin = to_string(dec%2) + bin;
-        dec/=2;
-    }
-    return bin;
-}
-
 int getbitOfNthNum(int n){
     int pos=14;
     int bitOfNthNum=0;
