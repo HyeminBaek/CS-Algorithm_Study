@@ -31,9 +31,6 @@
 
 ** 채용 공고
 
-KDB산업은행 2021년 1차 청년인턴 채용공고 ~3.9
-https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020
-
 라인 신입 채용 03.02~03.15 https://careers.linecorp.com/ko/2021_1st
 
 LIG 넥스원
@@ -52,11 +49,12 @@ https://2021-lignex1.com/
 
 토스 https://toss.im/career/jobs
 
-*배개민 메모장( 지울거임 )
+*배개민 메모장
 1. [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981): 서류 제출
 2. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=): 서류 제출
-3. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=)
-4. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=)
+3. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=): 서류 제출
+4. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=): 서류 제출
+5. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020)
 
 자격증,기타 증빙서류
 제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
