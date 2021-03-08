@@ -23,7 +23,7 @@
 | 7 |      8      |      9      |     10     |    11     |     12     | 13 |
 |<p><b>코딩인터뷰 주제</b> 수학</p><p>nts 춘계 SW개발 인턴 서류 마감</p>  |<p></p>|KDB산업은행 청년인턴 서류 마감|<p><b>알고리즘 주제</b> 삼성기출,DP,String,BFS</p><p>신세계 아이앤씨 서류 마감</p>||nts 춘계 SW개발 채용전제형 인턴십 코딩 테스트|    |
 | 14 |      15       |      16       |      17       |     18     |     19     |20|
-| <p><b>코딩인터뷰 주제</b></p> |미래에셋 대우 서류 마감<p>라인 서류 마감</p>||<p><b>알고리즘 주제</b> </p>|||  |
+| <p><b>코딩인터뷰 주제</b> DP</p> |미래에셋 대우, LINE 서류 마감||<p><b>알고리즘 주제</b> </p>|||  |
 | 21 |      22        |       23       |         24              |  25  |  26  |  27  |
 | <p><b>코딩인터뷰 주제</b></p>||<p></p>|<p><b>알고리즘 주제</b> </p>||<p></p>|      |
 | 28 |29|30|31||||
@@ -57,4 +57,6 @@ https://2021-lignex1.com/
 2. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=): 서류 제출
 3. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=)
 4. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=)
+
 자격증,기타 증빙서류
+제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
