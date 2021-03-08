@@ -41,6 +41,8 @@ https://2021-lignex1.com/
 
 미래에셋 대우 ~03.15
 
+NICE ~03.15 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=49772 
+
 넥슨 https://career.nexon.com/
 
 포스코 그룹 http://gorecruit.posco.net/
