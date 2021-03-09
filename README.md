@@ -37,9 +37,9 @@ LIG 넥스원
 02.19~03.14
 https://2021-lignex1.com/
 
-신세계 아이앤씨 ~03.10
+신세계 아이앤씨 ~03.10 http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422
 
-미래에셋 대우 ~03.15
+미래에셋 대우 ~03.15 https://recruit.miraeassetdaewoo.com/
 
 NICE ~03.15 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=49772 
 
