@@ -37,11 +37,11 @@ LIG 넥스원
 02.19~03.14
 https://2021-lignex1.com/
 
-신세계 아이앤씨 ~03.10 http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422
-
 미래에셋 대우 ~03.15 https://recruit.miraeassetdaewoo.com/
 
 NICE ~03.15 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=49772 
+
+신세계 아이앤씨 ~03.18 http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422
 
 KB증권 ~03.18 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?t_ref=calendar&rec_idx=39723621&view_type=public-recruit
 
