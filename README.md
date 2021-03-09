@@ -52,13 +52,14 @@ KB증권 ~03.18 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?t_ref=cale
 토스 https://toss.im/career/jobs
 
 *배개민 메모장
-1. [DB 금융투자 체험형 인턴십](http://www.jobkorea.co.kr/Recruit/GI_Read/33838831?rPageCode=SL) 
-2. [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981)
-3. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=): 서류 제출
-4. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=) 
-5. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=)
-6. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020)
-7. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st)
+1.  [Kakao 추천팀 봄 인턴](https://careers.kakao.com/jobs/P-11901) 
+2.  [DB 금융투자 체험형 인턴십](http://www.jobkorea.co.kr/Recruit/GI_Read/33838831?rPageCode=SL)
+3. [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981)
+4. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=): 서류 제출
+5. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=) 
+6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=)
+7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020): 서류 제출
+8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st): 서류 제출
 
 자격증,기타 증빙서류
 제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
