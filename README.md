@@ -9,7 +9,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode
 
-✏️ `이번주 문제(백준)` : [아기 상어(16236)](https://www.acmicpc.net/problem/16236), [뱀(3190)](https://www.acmicpc.net/problem/3190)
+✏️ `이번주 문제(백준)` : [2048(Easy)(12100)](https://www.acmicpc.net/problem/12100), [뱀(3190)](https://www.acmicpc.net/problem/3190)
 [스타트링크 타워(1089)](https://www.acmicpc.net/problem/1089) [내려가기(2096)](https://www.acmicpc.net/problem/2096) [미로만들기(2665)](https://www.acmicpc.net/problem/2665)
 [알약(4811)](https://www.acmicpc.net/problem/4811), [마라톤 2(10653)](https://www.acmicpc.net/problem/10653)
 
@@ -57,7 +57,7 @@ KB증권 ~03.18 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?t_ref=cale
 3.  [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981)
 4. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=) V
 5. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=) 
-6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=)
+6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=) V
 7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020): 서류 제출
 8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st): 서류 제출
 
