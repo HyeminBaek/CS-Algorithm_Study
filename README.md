@@ -31,10 +31,6 @@
 
 ** 채용 공고
 
-LIG 넥스원
-02.19~03.14
-https://2021-lignex1.com/
-
 미래에셋 대우 ~03.15 https://recruit.miraeassetdaewoo.com/
 
 NICE ~03.15 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=49772 
@@ -43,9 +39,9 @@ NICE ~03.15 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&
 
 KB증권 ~03.18 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?t_ref=calendar&rec_idx=39723621&view_type=public-recruit
 
-넥슨 https://career.nexon.com/
+삼성 그룹 ~03.22  https://www.samsungcareers.com
 
-포스코 그룹 http://gorecruit.posco.net/
+KT 채용전환형 인턴 ~03.29 recruit.kt.com
 
 네페스 https://nepes.saramin.co.kr/_service/zlight/apply_site/apply/intro.asp
 
