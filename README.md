@@ -10,8 +10,8 @@
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode
 
 ✏️ `이번주 문제(백준)` : [2048(Easy)(12100)](https://www.acmicpc.net/problem/12100), [주사위()](https://www.acmicpc.net/problem/3190)
-[게임 개발()](https://www.acmicpc.net/problem/1089) [내려가기(2096)](https://www.acmicpc.net/problem/2096) [미로만들기(2665)](https://www.acmicpc.net/problem/2665)
-[알약(4811)](https://www.acmicpc.net/problem/4811), [마라톤 2(10653)](https://www.acmicpc.net/problem/10653)
+[게임 개발()](https://www.acmicpc.net/problem/1089) [내리막 길()](https://www.acmicpc.net/problem/2096) [카드 정렬하기()](https://www.acmicpc.net/problem/2665)
+[좋은수열()](https://www.acmicpc.net/problem/4811), [청소년 상어()](https://www.acmicpc.net/problem/10653)
 
 <h3> 📅 3월 </h3>
 
@@ -23,7 +23,7 @@
 | 7 |      8      |      9      |     10     |    11     |     12     | 13 |
 |<p><b>코딩인터뷰 주제</b> 수학</p><p>nts 춘계 SW개발 인턴 서류 마감</p>  |<p></p>|KDB산업은행 청년인턴 서류 마감|<p><b>알고리즘 주제</b> 삼성기출,DP,String,BFS</p><p></p>||nts 춘계 SW개발 채용전제형 인턴십 코딩 테스트|    |
 | 14 |      15       |      16       |      17       |     18     |     19     |20|
-| <p><b>코딩인터뷰 주제</b> DP</p> |미래에셋 대우,NICE, LINE 서류 마감||<p><b>알고리즘 주제</b> </p>|KB증권,신세계 아이앤씨 서류 마감||LINE 신입 코딩 테스트|
+| <p><b>코딩인터뷰 주제</b> DP</p> |LINE 서류 마감||<p><b>알고리즘 주제</b>삼성기출,위상정렬,DP,PQ,백트래킹 </p>|KB증권,신세계 아이앤씨 서류 마감||LINE 신입 코딩 테스트|
 | 21 |      22        |       23       |         24              |  25  |  26  |  27  |
 | <p><b>코딩인터뷰 주제</b></p>||<p></p>|<p><b>알고리즘 주제</b> </p>||<p></p>|      |
 | 28 |29|30|31||||
@@ -31,9 +31,6 @@
 
 ** 채용 공고
 
-미래에셋 대우 ~03.15 https://recruit.miraeassetdaewoo.com/
-
-NICE ~03.15 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=49772 
 
 신세계 아이앤씨 ~03.18 http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422
 
@@ -41,7 +38,7 @@ KB증권 ~03.18 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?t_ref=cale
 
 삼성 그룹 ~03.22  https://www.samsungcareers.com
 
-KT 채용전환형 인턴 ~03.29 recruit.kt.com
+KT 채용전환형 인턴 ~03.29 http://recruit.kt.com
 
 네페스 https://nepes.saramin.co.kr/_service/zlight/apply_site/apply/intro.asp
 
