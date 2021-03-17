@@ -31,9 +31,6 @@
 
 ** 채용 공고
 
-
-신세계 아이앤씨 ~03.18 http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422
-
 KB증권 ~03.18 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?t_ref=calendar&rec_idx=39723621&view_type=public-recruit
 
 삼성 그룹 ~03.22  https://www.samsungcareers.com
@@ -53,6 +50,7 @@ KT 채용전환형 인턴 ~03.29 http://recruit.kt.com
 6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=) V
 7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020): 서류 제출
 8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st): 서류 제출
+9. [신세계 I&C](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422): 서류 제출
 
 자격증,기타 증빙서류
 제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
