@@ -3,15 +3,13 @@
 
 ### 스터디원
 
-[김도영](https://github.com/kimdy003) [백혜민](https://github.com/HyeminBaek) [이정혁](https://github.com/wjdgurrj) [오현식](https://github.com/guppy-bluegrass)
+[김도영](https://github.com/kimdy003) [백혜민](https://github.com/HyeminBaek) [이정혁](https://github.com/wjdgurrj)
 
 
 <br> 📌 시작: 2020-12-27 
-<br> 💻 문제 선정: 백준,프로그래머스,LeetCode
+<br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [2048(Easy)(12100)](https://www.acmicpc.net/problem/12100), [주사위()](https://www.acmicpc.net/problem/3190)
-[게임 개발()](https://www.acmicpc.net/problem/1089) [내리막 길()](https://www.acmicpc.net/problem/2096) [카드 정렬하기()](https://www.acmicpc.net/problem/2665)
-[좋은수열()](https://www.acmicpc.net/problem/4811), [청소년 상어()](https://www.acmicpc.net/problem/10653)
+✏️ `이번주 문제(백준)` : 
 
 <h3> 📅 3월 </h3>
 
@@ -25,7 +23,7 @@
 | 14 |      15       |      16       |      17       |     18     |     19     |20|
 | <p><b>코딩인터뷰 주제</b> DP</p> |LINE 서류 마감||<p><b>알고리즘 주제</b>삼성기출,위상정렬,DP,PQ,백트래킹 </p>|신세계 아이앤씨 서류 마감||LINE 신입 코딩 테스트|
 | 21 |      22        |       23       |         24              |  25  |  26  |  27  |
-| <p><b>코딩인터뷰 주제</b></p>|삼성 그룹 서류 마감|<p></p>|<p><b>알고리즘 주제</b> </p>||<p></p>|      |
+| <p><b>코딩인터뷰 주제</b> 정렬</p>|삼성 그룹 서류 마감|<p></p>|<p><b>알고리즘 주제</b> </p>||<p></p>|      |
 | 28 |29|30|31||||
 | <p><b>코딩인터뷰 주제</b></p>|KT 채용전환형 인턴 서류 마감||<b>알고리즘 주제</b>||||
 
