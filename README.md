@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[김도영](https://github.com/kimdy003) [김병연](https://github.com/KBY-TECH) [백혜민](https://github.com/HyeminBaek) [이정혁](https://github.com/wjdgurrj)
+[김도영](https://github.com/kimdy003) [김병연](https://github.com/KBY-TECH) [백혜민](https://github.com/HyeminBaek) [이승재](https://github.com/raspberrypeach) [이정혁](https://github.com/wjdgurrj)
 
 
 <br> 📌 시작: 2020-12-27 
@@ -34,6 +34,11 @@
 KT 채용전환형 인턴 ~03.29 http://recruit.kt.com
 
 CJ 올리브 네트웍스 ~04.02 
+
+KISA 인슈어테크 서비스 개발 기초 과정 ~04.04 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17765.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
+
+KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17858.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
+
 네페스 https://nepes.saramin.co.kr/_service/zlight/apply_site/apply/intro.asp
 
 토스 https://toss.im/career/jobs
