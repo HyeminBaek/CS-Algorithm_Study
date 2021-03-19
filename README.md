@@ -33,6 +33,7 @@
 
 KT 채용전환형 인턴 ~03.29 http://recruit.kt.com
 
+CJ 올리브 네트웍스 ~04.02 
 네페스 https://nepes.saramin.co.kr/_service/zlight/apply_site/apply/intro.asp
 
 토스 https://toss.im/career/jobs
