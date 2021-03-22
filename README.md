@@ -25,11 +25,9 @@
 | 21 |      22        |       23       |         24              |  25  |  26  |  27  |
 | <p><b>코딩인터뷰 주제</b> 정렬</p>|삼성 그룹 서류 마감|<p></p>|<p><b>알고리즘 주제</b> 삼성기출,유클리드 호제법,DP,트리의 DP</p>||<p></p>|      |
 | 28 |29|30|31||||
-| <p><b>코딩인터뷰 주제</b>C,C++</p>|KT 채용전환형 인턴 서류 마감||<b>알고리즘 주제</b>||||
+| <p><b>코딩인터뷰 주제</b> C,C++</p>|KT 채용전환형 인턴 서류 마감||<b>알고리즘 주제</b>||||
 
 ** 채용 공고
-
-삼성 그룹 ~03.22  https://www.samsungcareers.com
 
 KT 채용전환형 인턴 ~03.29 http://recruit.kt.com
 
@@ -38,10 +36,6 @@ CJ 올리브 네트웍스 ~04.02
 KISA 인슈어테크 서비스 개발 기초 과정 ~04.04 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17765.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
 
 KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17858.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
-
-네페스 https://nepes.saramin.co.kr/_service/zlight/apply_site/apply/intro.asp
-
-토스 https://toss.im/career/jobs
 
 *배개민 메모장
 1.  [Kakao 추천팀 봄 인턴](https://careers.kakao.com/jobs/P-11901) V
@@ -53,7 +47,7 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020)
 8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st)
 9. [신세계 I&C](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422): 서류 제출
-10. [삼성 SDS]: 서류 제출
+10. [삼성 SDS](https://www.samsungcareers.com): 서류 제출
 11. 
 
 자격증,기타 증빙서류
