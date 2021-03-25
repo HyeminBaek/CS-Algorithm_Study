@@ -48,7 +48,7 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st)
 9. [신세계 I&C](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422): 서류 제출
 10. [삼성 SDS](https://www.samsungcareers.com): 서류 제출
-11. 
+11. ..sj
 
 자격증,기타 증빙서류
 제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
