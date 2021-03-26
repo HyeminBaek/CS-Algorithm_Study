@@ -40,7 +40,7 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 *배개민 메모장
 1.  [Kakao 추천팀 봄 인턴](https://careers.kakao.com/jobs/P-11901) V
 2.  [DB 금융투자 체험형 인턴십](http://www.jobkorea.co.kr/Recruit/GI_Read/33838831?rPageCode=SL) V
-3.  [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981)
+3.  [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981) V
 4. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=) V
 5. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=) 
 6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=) V
