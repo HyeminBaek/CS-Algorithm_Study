@@ -43,7 +43,7 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 5. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=) 
 6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=) V
 7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020)
-8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st)
+8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st) V
 9. [신세계 I&C](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422): 서류 제출
 10. [삼성 SDS](https://www.samsungcareers.com): 서류 제출
 11. [KT 채용전환형 인턴](http://recruit.kt.com)
