@@ -29,7 +29,7 @@
 
 ** 채용 공고
 
-CJ 올리브 네트웍스 ~04.02 
+CJ 올리브 네트웍스 ~04.02 http://recruit.cj.net/ 
 
 KISA 인슈어테크 서비스 개발 기초 과정 ~04.04 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17765.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
 
