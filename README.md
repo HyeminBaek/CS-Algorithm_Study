@@ -17,7 +17,7 @@
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |    28    |    29    |    30    |    31    |    1    |    2    |    3    |
-| |KT 채용전환형 인턴 서류 마감|<p></p> |<p><b>알고리즘 주제</b> 삼성기출,이분탐색,냅색,투포인터</p>  | <p></p>  |||
+| ||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,이분탐색,냅색,투포인터</p>  | <p></p>  |||
 | 4 |      5      |      6      |     7     |    8     |     9     | 10 |
 |<p><b>코딩인터뷰 주제</b> 프로그래밍 언어</p>|<p></p>||<p><b>알고리즘 주제</b> 삼성기출,</p>|||    |
 | 11 |      12       |      13       |      14       |     15     |     16     |17|
@@ -42,11 +42,11 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 4. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=) V
 5. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=) 
 6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=) V
-7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020)
+7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) 
 8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st) V
 9. [신세계 I&C](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422): 서류 제출
 10. [삼성 SDS](https://www.samsungcareers.com): 서류 제출
-11. [KT 채용전환형 인턴](http://recruit.kt.com)
+11. 
 
 자격증,기타 증빙서류 07200332
 제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
