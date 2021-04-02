@@ -14,7 +14,7 @@ int sum(vector<int> v)
 	for (int i = 0; i < v.size(); i++)
 	{
 		for (int j = 0; j < v.size(); j++)
-			total += arr[v[i]][v[j]] + arr[v[j]][v[i]]; //중복
+			total += arr[v[i]][v[j]] + arr[v[j]][v[i]]; //중복이 됨
 	}
 
 	return total;
