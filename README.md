@@ -29,8 +29,6 @@
 
 ** 채용 공고
 
-CJ 올리브 네트웍스 ~04.02 http://recruit.cj.net/ 
-
 KISA 인슈어테크 서비스 개발 기초 과정 ~04.04 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17765.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
 
 신한라이프 ~04.11 https://www.shinhanlife-recruit.com/Recruit/Detail?id=3
@@ -50,7 +48,7 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st) V
 9. [신세계 I&C](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422) V
 10. [삼성 SDS](https://www.samsungcareers.com): 서류 제출
-11. 
+11. [CJ 올리브 네트웍스](http://recruit.cj.net): 서류 제출 
 
 자격증,기타 증빙서류 07200332
 제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
