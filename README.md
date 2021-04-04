@@ -46,24 +46,3 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 
 네이버웹툰 하계 인턴 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
 
-*배개민 메모장
-1.  [Kakao 추천팀 봄 인턴](https://careers.kakao.com/jobs/P-11901) V
-2.  [DB 금융투자 체험형 인턴십](http://www.jobkorea.co.kr/Recruit/GI_Read/33838831?rPageCode=SL) V
-3.  [KIS 정보통신](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=46981) V
-4. [ETECH SmartEditor 개발 채용 연계형 인턴](https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005389&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=) V
-5. [KISA 블록체인 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17673.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=) 
-6. [NTS 춘계 SW개발 채용전제형 인턴](https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005266&classId=&jobId=&entTypeCd=&searchTxt=) V
-7. [KDB산업은행 2021년 1차 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) V
-8. [LINE FINTECH SERVER](https://careers.linecorp.com/ko/2021_1st) V
-9. [신세계 I&C](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?notino=5422) V
-10. [삼성 SDS](https://www.samsungcareers.com): 서류 제출
-11. [CJ 올리브 네트웍스](http://recruit.cj.net): 서류 제출 
-12. [KISA 인슈어테크 서비스 개발 기초 과정](https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17765.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=): 서류 제출
-
-자격증,기타 증빙서류 07200332
-
-제41회 SQL 전문가/개발자	5.3 ~ 5.7	5.14	5.29(토)	6.25	6.25 ~ 7.2
-
-제3회 빅데이터분석기사(필기)	9.6 ~ 9.10	9.24	10.2(토)	10.22	10.25 ~ 11.3
-
-제47회 DA준전문가 5.10 ~ 5.14	5.21	6.5(토)	7.2	7.2 ~ 7.9
