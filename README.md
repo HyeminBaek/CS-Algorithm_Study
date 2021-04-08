@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[김도영](https://github.com/kimdy003) [김병연](https://github.com/whyWhale) [백혜민](https://github.com/HyeminBaek) [이승재](https://github.com/raspberrypeach) [이정혁](https://github.com/wjdgurrj)
+[김도영](https://github.com/kimdy003) [김병연](https://github.com/KBY-TECH) [백혜민](https://github.com/HyeminBaek) [이승재](https://github.com/raspberrypeach) [이정혁](https://github.com/wjdgurrj)
 
 
 <br> 📌 시작: 2020-12-27 
