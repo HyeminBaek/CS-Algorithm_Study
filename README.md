@@ -49,6 +49,8 @@ DB 금융투자 ~04.15 https://dbgroup.recruiter.co.kr/app/jobnotice/view?system
 
 한국관광공사 ~04.15 https://kto21.incruit.com/hire/viewhire.asp?projectid=101
 
+TmaxSoft ~04.15 https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-20100510-0001&seq=251
+
 KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17858.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
 
 신한은행 ~04.18 https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52272
