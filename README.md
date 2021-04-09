@@ -27,9 +27,7 @@
 ||||<b>알고리즘 주제</b>||인터파크 서류 마감||
 
 ** 채용 공고
-<br> 새마을금고 중앙회 ~04.09 https://www.kfcc.co.kr/recruit/rec0095_view.do?seq=1160&pageNo=1
-
-신한신용정보 ~04.11 https://www.catch.co.kr/NCS/RecruitInfoDetails/172382
+<br> 신한신용정보 ~04.11 https://www.catch.co.kr/NCS/RecruitInfoDetails/172382
 
 신한라이프 ~04.11 https://www.shinhanlife-recruit.com/Recruit/Detail?id=3
 
