@@ -20,24 +20,20 @@
 | 4 |      5      |      6      |     7     |    8     |     9     | 10 |
 |<p><b>코딩인터뷰 주제</b> 프로그래밍 언어</p>|<p></p>||<p><b>알고리즘 주제</b> 삼성기출,그리디,냅색,집합</p>||새마을금고중앙회 서류 마감|    |
 | 11 |      12       |      13       |      14       |     15     |     16     |17|
-|신한라이프 서류 마감 |파수 채용연계형 인턴, 네이버 서류 마감|푸르덴셜 생명보험,아이디스,한국동서발전 체험형인턴 서류 마감|<p><b>알고리즘 주제</b>삼성기출,투 포인터, BFS,DP</p><p>대신 저축은행 서류 마감</p>|DB 금융투자,한국관광공사 서류 마감||새마을금고중앙회 코딩테스트|
+|신한라이프 서류 마감 |파수 채용연계형 인턴, 네이버 서류 마감|푸르덴셜 생명보험,아이디스 서류 마감|<p><b>알고리즘 주제</b>삼성기출,투 포인터, BFS,DP</p><p>대신 저축은행 서류 마감</p>|DB 금융투자,한국관광공사 서류 마감||새마을금고중앙회 코딩테스트|
 | 18 |      19        |       20       |         21              |  22  |  23  |  24  |
 |신한은행 서류 마감|한국성장금융투자,가톨릭중앙의료원 서류 마감|<p></p>|<p><b>알고리즘 주제</b> 삼성기출,</p>||<p></p>|네이버 코딩테스트|
 | 25 |26|27|28|29|30||
 ||||<b>알고리즘 주제</b>||인터파크 서류 마감||
 
 ** 채용 공고
-<br>신한라이프 ~04.11 https://www.shinhanlife-recruit.com/Recruit/Detail?id=3
-
-파수 채용 연계형 인턴 ~04.12 https://recruit.fasoo.com/apply/apply_recruit_board_view.asp?idx=135
+<br>파수 채용 연계형 인턴 ~04.12 https://recruit.fasoo.com/apply/apply_recruit_board_view.asp?idx=135
 
 네이버 ~04.12 https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005623&classId=&jobId=
 
 아이디스 ~04.13 https://recruit.idis.co.kr:1007/_service/idis/apply_site/apply/recruit_default.asp
 
 푸르덴셜 생명보험 ~04.13 https://prudential.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52603
-
-한국동서발전 체험형 인턴 ~04.13 https://ewp-intern.incruit.com/hire/viewhire.asp?projectid=101
 
 대신 저축은행 ~04.14 https://daishinsb.saramin.co.kr/service/daishinsb/1993/applicant/apply/recruit_default.asp
 
@@ -58,3 +54,5 @@ KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/use
 네이버웹툰 하계 인턴 04.20~ https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
 
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
+
+IBK기업은행 05.~
