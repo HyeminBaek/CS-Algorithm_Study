@@ -27,9 +27,7 @@
 ||||<b>알고리즘 주제</b>||인터파크 서류 마감||
 
 ** 채용 공고
-<br>네이버 ~04.12 https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005623&classId=&jobId=
-
-아이디스 ~04.13 https://recruit.idis.co.kr:1007/_service/idis/apply_site/apply/recruit_default.asp
+<br>아이디스 ~04.13 https://recruit.idis.co.kr:1007/_service/idis/apply_site/apply/recruit_default.asp
 
 DB 금융투자 ~04.15 https://dbgroup.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=51770
 
