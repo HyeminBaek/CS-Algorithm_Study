@@ -31,13 +31,13 @@
 
 TmaxSoft ~04.15 https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-20100510-0001&seq=251
 
-KISA 핀테크 프로젝트 개발 과정 ~04.18 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/17858.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
-
 신한은행 ~04.18 https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52272
 
 한국성장금융투자 ~04.19 https://kgrowth.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp
 
 가톨릭중앙의료원 ~04.19 https://recruit.cmcnu.or.kr/cmc/application/appView.do?seq_no=9135&cPage=1
+
+국민연금공단  ~04.20 https://www.nps.or.kr/jsppage/news/hr_news/hr_news_01.jsp
 
 네이버웹툰 하계 인턴 04.20~ https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
 
