@@ -39,6 +39,8 @@ TmaxSoft ~04.15 https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-2
 
 국민연금공단  ~04.20 https://www.nps.or.kr/jsppage/news/hr_news/hr_news_01.jsp
 
+교보생명 ~04.21 https://career.kyobo.co.kr/
+
 네이버웹툰 하계 인턴 04.20~ https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
 
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
@@ -46,3 +48,5 @@ TmaxSoft ~04.15 https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-2
 IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
+
+NICE 평가정보 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
