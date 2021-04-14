@@ -43,9 +43,13 @@ TmaxSoft ~04.15 https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-2
 
 네이버웹툰 하계 인턴 04.20~ https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
 
+IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
+
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
-IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
+공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
+
+카카오 Tech developers 채용연계형 인턴 ~05.03 https://careers.kakao.com/jobs/P-11983
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
