@@ -49,6 +49,8 @@ IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 
 공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
 
+카카오 Tech developers 채용연계형 인턴 ~05.03 https://careers.kakao.com/jobs/P-11983
+
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
 NICE 평가정보 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
