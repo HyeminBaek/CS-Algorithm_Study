@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[김도영](https://github.com/kimdy003) [김병연](https://github.com/KBY-TECH) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek) [이승재](https://github.com/raspberrypeach) [이정혁](https://github.com/wjdgurrj)
+[김병연](https://github.com/whyWhale) [김영훈](https://github.com/raspberrypeach) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek) 
 
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
