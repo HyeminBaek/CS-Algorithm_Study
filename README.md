@@ -27,9 +27,7 @@
 ||IBK 기업은행 서류 마감||<b>알고리즘 주제</b>삼성기출,||인터파크 서류 마감||
 
 ** 채용 공고
-<br>TmaxSoft ~04.15 https://kr.tmaxsoft.com/recruit/recruitNoticeView.do?no=TS-IRC-20100510-0001&seq=251
-
-신한은행 ~04.18 https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52272
+<br>신한은행 ~04.18 https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52272
 
 한국성장금융투자 ~04.19 https://kgrowth.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp
 
