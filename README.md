@@ -38,17 +38,17 @@
 교보생명 ~04.21 https://career.kyobo.co.kr/
 
 네이버웹툰 하계 인턴 04.20~ https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
-
-IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
-
+<br>한국정보인증 ~04.26 https://www.kica.co.kr/kica/recruit/notice/searchRecruitNoticeDetail.sg?page=&seq=210412-1088-6536
+<br>IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
+<br>모아 저축은행 ~04.26 https://www.jobkorea.co.kr/Recruit/GI_Read/34459724?rPageCode=SL
+<br>한국전력공사 ~04.29 http://recruit.kepco.co.kr/
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
-
-공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
+<br>공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
 
 카카오 Tech developers 채용연계형 인턴 ~05.03 https://careers.kakao.com/jobs/P-11983
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
-NICE 평가정보 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
+NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
 
-IBK 기업은행 체험형 인턴
+IBK 기업은행 체험형 인턴 채용예정
