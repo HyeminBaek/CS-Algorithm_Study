@@ -34,6 +34,7 @@
 가톨릭중앙의료원 ~04.19 https://recruit.cmcnu.or.kr/cmc/application/appView.do?seq_no=9135&cPage=1
 
 국민연금공단  ~04.20 https://www.nps.or.kr/jsppage/news/hr_news/hr_news_01.jsp
+<br>한국중부발전 1차 체험형 인턴 ~04.21 https://komipo2.saramin.co.kr/service/komipo2/2019/applicant/apply/recruit_default.asp
 
 교보생명 ~04.21 https://career.kyobo.co.kr/
 
