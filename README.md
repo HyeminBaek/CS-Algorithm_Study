@@ -27,9 +27,7 @@
 ||IBK 기업은행 서류 마감||<b>알고리즘 주제</b>삼성기출,||인터파크 서류 마감||
 
 ** 채용 공고
-<br>신한은행 ~04.18 https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52272
-
-한국성장금융투자 ~04.19 https://kgrowth.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp
+<br>한국성장금융투자 ~04.19 https://kgrowth.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp
 
 가톨릭중앙의료원 ~04.19 https://recruit.cmcnu.or.kr/cmc/application/appView.do?seq_no=9135&cPage=1
 
@@ -41,7 +39,9 @@
 네이버웹툰 하계 인턴 04.20~ https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
 <br>한국정보인증 ~04.26 https://www.kica.co.kr/kica/recruit/notice/searchRecruitNoticeDetail.sg?page=&seq=210412-1088-6536
 <br>IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
-<br>모아 저축은행 ~04.26 https://www.jobkorea.co.kr/Recruit/GI_Read/34459724?rPageCode=SL
+
+모아 저축은행 ~04.26 https://www.jobkorea.co.kr/Recruit/GI_Read/34459724?rPageCode=SL
+
 <br>한국전력공사 ~04.29 http://recruit.kepco.co.kr/
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 <br>공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
