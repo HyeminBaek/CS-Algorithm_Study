@@ -53,6 +53,8 @@
 
 동원그룹 채용연계형 인턴 ~05.10 https://dongwon2021.com/
 
+한국투자증권 채용연계형 인턴 ~05.12 https://kis-ceo2021.com/#utm_source=jasosol_ad&utm_medium=ad&utm_campaign=jasosol_Ad
+
 NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
 
 IBK 기업은행 체험형 인턴 채용예정
