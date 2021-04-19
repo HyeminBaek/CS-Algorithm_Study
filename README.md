@@ -37,7 +37,8 @@
 교보생명 ~04.21 https://career.kyobo.co.kr/
 
 네이버웹툰 하계 인턴 04.20~ https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
-<br>한국정보인증 ~04.26 https://www.kica.co.kr/kica/recruit/notice/searchRecruitNoticeDetail.sg?page=&seq=210412-1088-6536
+
+한국정보인증 ~04.26 https://www.kica.co.kr/kica/recruit/notice/searchRecruitNoticeDetail.sg?page=&seq=210412-1088-6536
 <br>IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 
 모아 저축은행 ~04.26 https://www.jobkorea.co.kr/Recruit/GI_Read/34459724?rPageCode=SL
@@ -49,6 +50,8 @@
 카카오 Tech developers 채용연계형 인턴 ~05.03 https://careers.kakao.com/jobs/P-11983
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
+
+동원그룹 채용연계형 인턴 ~05.10 https://dongwon2021.com/
 
 NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
 
