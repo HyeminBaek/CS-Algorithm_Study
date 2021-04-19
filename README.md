@@ -43,7 +43,8 @@ IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 
 모아 저축은행 ~04.26 https://www.jobkorea.co.kr/Recruit/GI_Read/34459724?rPageCode=SL
 
-<br>한국전력공사 ~04.29 http://recruit.kepco.co.kr/
+한국전력공사 ~04.29 http://recruit.kepco.co.kr/
+
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
 공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
