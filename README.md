@@ -27,9 +27,7 @@
 ||IBK 기업은행 서류 마감||<b>알고리즘 주제</b>삼성기출,||인터파크 서류 마감||
 
 ** 채용 공고
-<br>국민연금공단 청년인턴 추가모집 ~04.20 https://www.nps.or.kr/jsppage/news/hr_news/hr_news_01.jsp
-
-한국중부발전 1차 체험형 인턴 ~04.21 https://komipo2.saramin.co.kr/service/komipo2/2019/applicant/apply/recruit_default.asp
+<br>한국중부발전 1차 체험형 인턴 ~04.21 https://komipo2.saramin.co.kr/service/komipo2/2019/applicant/apply/recruit_default.asp
 
 교보생명 ~04.21 https://career.kyobo.co.kr/
 
@@ -48,6 +46,8 @@ IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
 공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
+
+미래에셋자산운용 ~05.02 https://www.jobkorea.co.kr/Recruit/GI_Read/34487991?Oem_Code=C1&PageGbn=ST
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
