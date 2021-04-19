@@ -45,9 +45,9 @@
 
 <br>한국전력공사 ~04.29 http://recruit.kepco.co.kr/
 인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
-<br>공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
 
-카카오 Tech developers 채용연계형 인턴 ~05.03 https://careers.kakao.com/jobs/P-11983
+공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
+
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
