@@ -25,7 +25,6 @@ int main() {
                 break;
             }
         }
-
         cout << "#" << tc << " " << answer << "\n";
     }
     return 0;
