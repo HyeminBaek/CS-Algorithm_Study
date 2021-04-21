@@ -1,0 +1,1 @@
+{"name":"Local: 1_15683","url":"/Users/mcm/CS-Algorithm_Study/17주차/문창무/1_15683.cpp","tests":[{"id":1618977852646,"input":"4 6\n0 0 0 0 0 0\n0 0 0 0 0 0\n0 0 1 0 6 0\n0 0 0 0 0 0","output":"20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mcm/CS-Algorithm_Study/17주차/문창무/1_15683.cpp","group":"local","local":true}
