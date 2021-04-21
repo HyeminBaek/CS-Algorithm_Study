@@ -31,11 +31,7 @@ void back(int cnt, int cur, int target, vector<int> v)
 {
 	if (cnt == target)
 	{
-		/*
-		for (int i = 0; i < v.size(); i++)
-			cout << v[i] << " ";
-		cout << endl;
-		*/
+
 		cal(v); return;
 	}
 	else
