@@ -24,7 +24,6 @@ int main() {
 
             }
         }
-
         printf("#%d %d\n", tc, dp[N][K]);
     }
     return 0;
