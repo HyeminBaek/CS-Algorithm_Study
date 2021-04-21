@@ -76,7 +76,6 @@ void Search(int h, int n, int pos[10]) {
 
 
 	}
-	
 }
 int main() {
 	scanf("%d%d%d", &N, &M, &H);
