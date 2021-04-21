@@ -52,7 +52,6 @@ int main() {
 
         }
 
-
         cout << "#" << t << " " << DFS(start.first, start.second) << "\n";
     }
     return 0;
