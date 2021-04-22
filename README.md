@@ -45,6 +45,8 @@ IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 
 미래에셋자산운용 ~05.02 https://www.jobkorea.co.kr/Recruit/GI_Read/34487991?Oem_Code=C1&PageGbn=ST
 
+NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
+
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
 동원그룹 채용연계형 인턴 ~05.10 https://dongwon2021.com/
