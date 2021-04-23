@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[감시](https://www.acmicpc.net/problem/15683)  ⑵[사다리 조작](https://www.acmicpc.net/problem/15684)  ⑶[음식 평론가](https://www.acmicpc.net/problem/1188)  ⑷[우수 마을](https://www.acmicpc.net/problem/1949)  ⑸[공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+✏️ `이번주 문제(백준)` : ⑴[드래곤 커브](https://www.acmicpc.net/problem/15685)  ⑵[치킨 거리](https://www.acmicpc.net/problem/15686)  ⑶[전화번호 목록](https://www.acmicpc.net/problem/5052)  ⑷[세부](https://www.acmicpc.net/problem/13905)  ⑸[나머지 합](https://www.acmicpc.net/problem/10986)
 
 <h3> 📅 4월 </h3>
 
@@ -45,6 +45,8 @@ IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 
 미래에셋자산운용 ~05.02 https://www.jobkorea.co.kr/Recruit/GI_Read/34487991?Oem_Code=C1&PageGbn=ST
 
+NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
+
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
 동원그룹 채용연계형 인턴 ~05.10 https://dongwon2021.com/
@@ -52,5 +54,7 @@ IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
 한국투자증권 채용연계형 인턴 ~05.12 https://kis-ceo2021.com/#utm_source=jasosol_ad&utm_medium=ad&utm_campaign=jasosol_Ad
 
 NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
+
+블록워터테크놀로지스 상시 https://url.kr/qp3x4i
 
 IBK 기업은행 체험형 인턴 채용예정
