@@ -16,12 +16,10 @@ int main() {
 
     getline(cin, s1);
     getline(cin, s2);
-    int len1 = s1.length();
-    int len2 = s2.length();
 
     int ans = 0;
-    for (int i = 1; i <= len1; ++i) {
-        for (int j = 1; j <= len2; ++j) {
+    for (int i = 1; i <= s1.length(); ++i) {
+        for (int j = 1; j <= s2.length(); ++j) {
             if (s1[i - 1] == s2[j - 1]) {
                 lcs[i][j] = lcs[i - 1][j - 1] + 1;
                 ans = max(ans, lcs[i][j]);
