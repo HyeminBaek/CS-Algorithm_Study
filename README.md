@@ -29,11 +29,7 @@
 ** 채용 공고
 <br>한국정보인증 ~04.26 https://www.kica.co.kr/kica/recruit/notice/searchRecruitNoticeDetail.sg?page=&seq=210412-1088-6536
 
-IBK 기업은행 ~04.26 http://ibk.incruit.com/hire/viewhire.asp?projectid=106
-
 라이징 프로그래머 3기 ~04.26 https://docs.google.com/forms/d/e/1FAIpQLSfYeFxvJmQP3Hwj1ytjb4KjbbupSvV3VWYcHcFySiEL-m4zdA/viewform
-
-모아 저축은행 ~04.26 https://www.jobkorea.co.kr/Recruit/GI_Read/34459724?rPageCode=SL
 
 한국전력공사 ~04.29 http://recruit.kepco.co.kr/
 
