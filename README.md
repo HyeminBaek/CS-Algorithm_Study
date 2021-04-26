@@ -45,6 +45,8 @@ NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
 
 한국투자증권 채용연계형 인턴 ~05.12 https://kis-ceo2021.com/#utm_source=jasosol_ad&utm_medium=ad&utm_campaign=jasosol_Ad
 
+SSAFY 6기 ~05.14 www.SSAFY.com
+
 NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
 
 블록워터테크놀로지스 상시 https://url.kr/qp3x4i
