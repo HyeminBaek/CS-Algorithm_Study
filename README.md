@@ -16,7 +16,7 @@
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |    25    |    26    |    27    |    28    |    29    |    30    |    1    |
-|||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,문자열,</p><p>최소스패닝트리,누적합</p>  ||공공 빅데이터 분석 청년인턴,네이버웹툰 하계 인턴,인터파크 서류 마감||
+|||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,문자열,</p><p>최소스패닝트리,누적합</p>  ||공공 빅데이터 분석 청년인턴,인터파크 서류 마감||
 | 2 |      3      |      4      |     5     |    6     |     7     | 8 |
 ||||<p><b>알고리즘 주제</b> 삼성기출,</p>|||    |
 | 9 |      10       |      11       |      12       |     13     |     14     |15|
@@ -29,9 +29,7 @@
 |||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>  ||||
 
 ** 채용 공고
-<br>네이버웹툰 하계 인턴 ~04.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
-
-인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
+<br>인터파크 ~04.30 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
 공공 빅데이터 분석 청년인재 양성사업 ~04.30 http://www.dataintern.or.kr/
 
