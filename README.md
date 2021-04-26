@@ -10,28 +10,26 @@
 
 ✏️ `이번주 문제(백준)` : ⑴[드래곤 커브](https://www.acmicpc.net/problem/15685)  ⑵[치킨 거리](https://www.acmicpc.net/problem/15686)  ⑶[전화번호 목록](https://www.acmicpc.net/problem/5052)  ⑷[세부](https://www.acmicpc.net/problem/13905)  ⑸[나머지 합](https://www.acmicpc.net/problem/10986)
 
-<h3> 📅 4월 </h3>
+<h3> 📅 5월 </h3>
 
 
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|    28    |    29    |    30    |    31    |    1    |    2    |    3    |
-| ||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,이분탐색,냅색,투포인터</p>  | |CJ 올리브 네트웍스 서류 마감||
-| 4 |      5      |      6      |     7     |    8     |     9     | 10 |
-|<p><b>코딩인터뷰 주제</b> 프로그래밍 언어</p>|<p></p>||<p><b>알고리즘 주제</b> 삼성기출,그리디,냅색,집합</p>||새마을금고중앙회 서류 마감|    |
-| 11 |      12       |      13       |      14       |     15     |     16     |17|
-|신한라이프 서류 마감 |네이버 서류 마감||<p><b>알고리즘 주제</b>삼성기출,투 포인터, BFS,DP</p>|DB 금융투자 서류 마감||새마을금고중앙회 코딩테스트|
-| 18 |      19        |       20       |         21              |  22  |  23  |  24  |
-|신한은행 서류 마감||<p>국민연금공단 청년인턴 추가모집 서류 마감</p>|<p><b>알고리즘 주제</b> 삼성기출,수학,트리의 DP,DP</p>||<p></p>|네이버 코딩테스트|
-| 25 |26|27|28|29|30||
-||IBK 기업은행 서류 마감||<b>알고리즘 주제</b>삼성기출,||인터파크 서류 마감||
+|    25    |    26    |    27    |    28    |    29    |    30    |    1    |
+|||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,문자열,최소스패닝트리,누적합</p>  ||인터파크 서류 마감||
+| 2 |      3      |      4      |     5     |    6     |     7     | 8 |
+||||<p><b>알고리즘 주제</b> 삼성기출,</p>|||    |
+| 9 |      10       |      11       |      12       |     13     |     14     |15|
+| |||<p><b>알고리즘 주제</b>삼성기출,</p>||||
+| 16 |      17        |       18       | 19|  20  |  21  |  22  |
+||||<p><b>알고리즘 주제</b> 삼성기출,</p>||<p></p>||
+| 23 |24|25|26|27|28|29|
+||||<b>알고리즘 주제</b>삼성기출,||||
+|30|31|1 |    2    |3 |   4  | 5 |
+|||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>  ||||
 
 ** 채용 공고
-<br>한국정보인증 ~04.26 https://www.kica.co.kr/kica/recruit/notice/searchRecruitNoticeDetail.sg?page=&seq=210412-1088-6536
-
-라이징 프로그래머 3기 ~04.26 https://docs.google.com/forms/d/e/1FAIpQLSfYeFxvJmQP3Hwj1ytjb4KjbbupSvV3VWYcHcFySiEL-m4zdA/viewform
-
-한국전력공사 ~04.29 http://recruit.kepco.co.kr/
+<br>한국전력공사 ~04.29 http://recruit.kepco.co.kr/
 
 네이버웹툰 하계 인턴 ~04.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20005643&classId=&jobId=&entTypeCd=&searchTxt=&searchSysComCd=
 
