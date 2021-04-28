@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[드래곤 커브](https://www.acmicpc.net/problem/15685)  ⑵[치킨 거리](https://www.acmicpc.net/problem/15686)  ⑶[전화번호 목록](https://www.acmicpc.net/problem/5052)  ⑷[세부](https://www.acmicpc.net/problem/13905)  ⑸[나머지 합](https://www.acmicpc.net/problem/10986)
+✏️ `이번주 문제(백준)` : ⑴[큐빙](https://www.acmicpc.net/problem/5373)  ⑵[인구 이동](https://www.acmicpc.net/problem/16234)  ⑶[색상환](https://www.acmicpc.net/problem/2482)  ⑷[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)  ⑸[인물이와 정수](https://www.acmicpc.net/problem/20666)
 
 <h3> 📅 5월 </h3>
 
@@ -18,7 +18,7 @@
 |    25    |    26    |    27    |    28    |    29    |    30    |    1    |
 |||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p><p>문자열,최소스패닝트리,누적합</p>  ||<p>공공 빅데이터 분석</p><p>청년인턴,인터파크 서류 마감</p>||
 | 2 |      3      |      4      |     5     |    6     |     7     | 8 |
-|<p>미래에셋자산운용 서류 마감</p>|||<p><b>알고리즘 주제</b> 삼성기출,</p>|||    |
+|<p>미래에셋자산운용 서류 마감</p>|||<p><b>알고리즘 주제</b> 삼성기출,DP</p>|||    |
 | 9 |      10       |      11       |      12       |     13     |     14     |15|
 | |||<p><b>알고리즘 주제</b>삼성기출,</p>||||
 | 16 |      17        |       18       | 19|  20  |  21  |  22  |
