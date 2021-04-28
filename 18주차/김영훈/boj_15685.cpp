@@ -38,8 +38,6 @@ int main() {
 			}
 		}
 
-
-
 	}
 	int answer = 0;
 
