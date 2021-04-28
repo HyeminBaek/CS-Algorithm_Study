@@ -7,7 +7,6 @@ int Search(int r, int c) {
     int ret = 2;
     int idx1 = c, idx2 = ((L % 2 == 1) ? c : c + 1);
     for (int i = 0; i <= (L - 1) / 2; i++) {
-
         if (idx1 < 0 || idx2 >= 8 || s[r][idx1] != s[r][idx2]) {
             ret--;
             break;
@@ -43,5 +42,5 @@ int main()
         }
         cout << "#" << tc << " " << answer << "\n";
     }
-    return 0;//Á¤»óÁ¾·á½Ã ¹İµå½Ã 0À» ¸®ÅÏÇØ¾ßÇÕ´Ï´Ù.
+    return 0;//ì •ìƒì¢…ë£Œì‹œ ë°˜ë“œì‹œ 0ì„ ë¦¬í„´í•´ì•¼í•©ë‹ˆë‹¤.
 }
