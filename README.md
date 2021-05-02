@@ -39,11 +39,21 @@ NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
+웍스모바일 하계 인턴 모집 ~05.10 https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005800&classId=&jobId=
+
+한국인정지원센터 ~05.10 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40083326&t_ref=main&t_ref_content=platinum_fix_expand
+
 동원그룹 채용연계형 인턴 ~05.10 https://dongwon2021.com/
+
+현대오토에버 ~05.11 https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=54926
 
 한국투자증권 채용연계형 인턴 ~05.12 https://kis-ceo2021.com/#utm_source=jasosol_ad&utm_medium=ad&utm_campaign=jasosol_Ad
 
+metlife ~05.12 https://brand.metlife.co.kr/ep/empmt/selectOnlnEmpmtDtl.do
+
 SSAFY 6기 ~05.14 www.SSAFY.com
+
+e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
 
 BOB 10기 ~06.04 
 
