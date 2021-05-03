@@ -18,7 +18,7 @@
 |    25    |    26    |    27    |    28    |    29    |    30    |    1    |
 |||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p><p>문자열,최소스패닝트리,누적합</p>  ||||
 | 2 |      3      |      4      |     5     |    6     |     7     | 8 |
-|<p>인터파크, 공공빅데이</p>터 청년인턴 서류 마감</p>||||<p><b>알고리즘 주제</b> 삼성기출,DP</p>||    |
+|<p>인터파크 서류 마감</p>||||<p><b>알고리즘 주제</b> 삼성기출,DP</p>||    |
 | 9 |      10       |      11       |      12       |     13     |     14     |15|
 | |||<p><b>알고리즘 주제</b>삼성기출,</p>||||
 | 16 |      17        |       18       | 19|  20  |  21  |  22  |
@@ -29,13 +29,7 @@
 |||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>  ||||
 
 ** 채용 공고
-<br>공공 빅데이터 분석 청년인재 양성사업 ~05.02 http://www.dataintern.or.kr/
-
-미래에셋자산운용 ~05.02 https://www.jobkorea.co.kr/Recruit/GI_Read/34487991?Oem_Code=C1&PageGbn=ST
-
-인터파크 ~05.02 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=47201
-
-NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
+<br>NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
 
 2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
 
@@ -52,6 +46,10 @@ NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
 metlife ~05.12 https://brand.metlife.co.kr/ep/empmt/selectOnlnEmpmtDtl.do
 
 SSAFY 6기 ~05.14 www.SSAFY.com
+
+SK C&C 인턴 ~05.16 https://www.skcareers.com/pos/jobViewOpenRecruit.aspx?_SKEP=WYb3DHDhhxLhD1ebrJo%2b5d3%2fxMOuG9O6SvRoUB9GIeRGplsOZZhdAtiZP38O1JSj%2bfQ4RB3fd9qBlarDkAg7nmLBMdqvn%2bQkUfk64h%2b%2fzMlQLQByq2C3PANaLgnfieQz
+
+베스핀 글로벌 ~05.21 https://bespinglobal.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56046
 
 e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
 
