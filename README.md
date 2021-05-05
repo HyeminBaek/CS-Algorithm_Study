@@ -49,6 +49,8 @@ SSAFY 6기 ~05.14 www.SSAFY.com
 
 SK C&C 인턴 ~05.16 https://www.skcareers.com/pos/jobViewOpenRecruit.aspx?_SKEP=WYb3DHDhhxLhD1ebrJo%2b5d3%2fxMOuG9O6SvRoUB9GIeRGplsOZZhdAtiZP38O1JSj%2bfQ4RB3fd9qBlarDkAg7nmLBMdqvn%2bQkUfk64h%2b%2fzMlQLQByq2C3PANaLgnfieQz
 
+노아에이티에스 ~05.17 https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40167528&recommend_ids=eJxdkMEBAyEIBKvJXwQWeKcQ%2B%2B8i5nKAuec4LujKIAj5WCZ42VsOXPI72OxoX5gejhELgQemt2lC7QsrH8ayNPSBl%2BfARo17%2F4mVhwfvAB6Yfg51al9YeSWzY39ienUduhT0w90Oz66jsOoy7GzXlVh1kKr2usL7uxah5sd8i%2Bs52Z44cKfZLTD5f9mYfXkjHVnwd%2FLGD1NZblc%3D&view_type=etc&gz=1#seq=0
+
 베스핀 글로벌 ~05.21 https://bespinglobal.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56046
 
 e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
