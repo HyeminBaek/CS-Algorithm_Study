@@ -20,20 +20,16 @@
 | 2 |      3      |      4      |     5     |    6     |     7     | 8 |
 |<p>인터파크 서류 마감</p>||||<p><b>알고리즘 주제</b> 삼성기출,DP</p>||<p>새마을금고중앙회 필기</p><p>카카오 채용연계형 인턴 코딩테스트</p>|
 | 9 |      10       |      11       |      12       |     13     |     14     |15|
-| |||<p><b>알고리즘 주제</b>삼성기출,DP,세그먼트 트리,구현</p>||||
+| |<p>웍스모바일 하계 인턴, 한국인정지원센터, 동원그룹 인턴 서류 마감</p>|<p>현대오토에버 서류 마감</p>|<p><b>알고리즘 주제</b>삼성기출,DP,세그먼트 트리,구현</p><p>한국투자증권 인턴,metlife 서류 마감</p>||<p>SSAFY 서류 마감</p>||
 | 16 |      17        |       18       | 19|  20  |  21  |  22  |
-||||<p><b>알고리즘 주제</b> 삼성기출,</p>||<p></p>||
+|<p>SK C&C 인턴 서류 마감</p>|||<p><b>알고리즘 주제</b> 삼성기출,</p>||<p></p>|SSAFY SW 역량테스트|
 | 23 |24|25|26|27|28|29|
 ||||<b>알고리즘 주제</b>삼성기출,||||
 |30|31|1 |    2    |3 |   4  | 5 |
 |||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>  ||||
 
 ** 채용 공고
-<br>NCSOFT SUMMER INTERN ~05.06 https://careers.ncsoft.com/
-
-2021 Summer Coding - 여름방학 스타트업 인턴 프로그램 ~05.07 https://programmers.co.kr/competitions/1043?slug=2021-summer-coding&utm_campaign=competition1043_introduce&utm_medium=banner&utm_source=programmers
-
-웍스모바일 하계 인턴 모집 ~05.10 https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005800&classId=&jobId=
+<br>웍스모바일 하계 인턴 모집 ~05.10 https://recruit.navercorp.com/naver/job/detail/developer/?annoId=20005800&classId=&jobId=
 
 한국인정지원센터 ~05.10 https://www.saramin.co.kr/zf_user/jobs/relay/pop-view?rec_idx=40083326&t_ref=main&t_ref_content=platinum_fix_expand
 
