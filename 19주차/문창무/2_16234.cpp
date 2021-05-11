@@ -65,7 +65,7 @@ int main() {
     }
 
     while (1) {
-        if (move() == false) break;
+        if (!move()) break;
         ans++;
     }
     cout << ans;
