@@ -39,7 +39,11 @@ SK C&C 인턴 ~05.16 https://www.skcareers.com/pos/jobViewOpenRecruit.aspx?_SKEP
 
 대구은행 채용연계형 인턴 ~05.21 https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56181
 
+농협정보시스템 ~05.24 https://nhit.career.co.kr/jobs/jobs_view.asp?ID=1025
+
 e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
+
+KB 증권 ~05.28 https://2021-kbsec.com/
 
 인터파크 정보보안 부문 수시채용 ~05.31 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
