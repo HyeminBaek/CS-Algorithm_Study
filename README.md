@@ -29,13 +29,7 @@
 |||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>  ||||
 
 ** 채용 공고
-<br>핀테크 서비스 개발 심화 과정 ~05.16 https://www.ksecurity.or.kr/user/bbs/kisis/36/122/bbsDataView/18122.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=
-
-SK C&C 인턴 ~05.16 https://www.skcareers.com/pos/jobViewOpenRecruit.aspx?_SKEP=WYb3DHDhhxLhD1ebrJo%2b5d3%2fxMOuG9O6SvRoUB9GIeRGplsOZZhdAtiZP38O1JSj%2bfQ4RB3fd9qBlarDkAg7nmLBMdqvn%2bQkUfk64h%2b%2fzMlQLQByq2C3PANaLgnfieQz
-
-노아에이티에스 ~05.17 https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40167528&recommend_ids=eJxdkMEBAyEIBKvJXwQWeKcQ%2B%2B8i5nKAuec4LujKIAj5WCZ42VsOXPI72OxoX5gejhELgQemt2lC7QsrH8ayNPSBl%2BfARo17%2F4mVhwfvAB6Yfg51al9YeSWzY39ienUduhT0w90Oz66jsOoy7GzXlVh1kKr2usL7uxah5sd8i%2Bs52Z44cKfZLTD5f9mYfXkjHVnwd%2FLGD1NZblc%3D&view_type=etc&gz=1#seq=0
-
-베스핀 글로벌 ~05.21 https://bespinglobal.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56046
+<br>베스핀 글로벌 ~05.21 https://bespinglobal.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56046
 
 대구은행 채용연계형 인턴 ~05.21 https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56181
 
