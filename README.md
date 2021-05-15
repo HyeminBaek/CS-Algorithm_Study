@@ -49,7 +49,7 @@ KB 증권 ~05.28 https://2021-kbsec.com/
 
 인터파크 정보보안 부문 수시채용 ~05.31 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
-BOB 10기 ~06.04 
+BOB 10기 ~06.04 https://www.kitribob.kr/
 
 LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
