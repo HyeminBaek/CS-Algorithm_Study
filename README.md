@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  ⑵[아기 상어](https://www.acmicpc.net/problem/16236)  ⑶[색상환](https://www.acmicpc.net/problem/2482)  ⑷[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)  ⑸[인물이와 정수](https://www.acmicpc.net/problem/20666)
+✏️ `이번주 문제(백준)` : ⑴[미세먼지 안녕!](https://www.acmicpc.net/problem/17144)  ⑵[낚시왕](https://www.acmicpc.net/problem/17143)  ⑶[배열 돌리기 6](https://www.acmicpc.net/problem/20327)  ⑷[백도어](https://www.acmicpc.net/problem/17396)  ⑸[성곽](https://www.acmicpc.net/problem/2234)
 
 <h3> 📅 5월 </h3>
 
@@ -39,6 +39,8 @@ SK C&C 인턴 ~05.16 https://www.skcareers.com/pos/jobViewOpenRecruit.aspx?_SKEP
 
 대구은행 채용연계형 인턴 ~05.21 https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56181
 
+현대 엔지니어링 ~05.24 https://hec.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=57118
+
 농협정보시스템 ~05.24 https://nhit.career.co.kr/jobs/jobs_view.asp?ID=1025
 
 e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
@@ -48,6 +50,8 @@ KB 증권 ~05.28 https://2021-kbsec.com/
 인터파크 정보보안 부문 수시채용 ~05.31 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
 BOB 10기 ~06.04 
+
+LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
 NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
 
