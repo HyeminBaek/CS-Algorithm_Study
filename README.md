@@ -49,6 +49,4 @@ LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
 NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
 
-블록워터테크놀로지스 상시 https://url.kr/qp3x4i
-
 IBK 기업은행 체험형 인턴 채용예정
