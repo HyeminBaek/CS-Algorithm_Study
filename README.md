@@ -33,11 +33,15 @@
 
 대구은행 채용연계형 인턴 ~05.21 https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56181
 
+동일 ~05.23 http://www.dong-il.com/recruit/news.asp
+
 현대 엔지니어링 ~05.24 https://hec.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=57118
 
 농협정보시스템 ~05.24 https://nhit.career.co.kr/jobs/jobs_view.asp?ID=1025
 
 e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
+
+우리은행 ~05.28 https://wooribank.incruit.com/pro_106/jobpost3.asp
 
 KB 증권 ~05.28 https://2021-kbsec.com/
 
@@ -46,6 +50,8 @@ KB 증권 ~05.28 https://2021-kbsec.com/
 BOB 10기 ~06.04 https://www.kitribob.kr/
 
 LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
+
+LINE FINTECH https://careers.linecorp.com/ko/jobs/537
 
 NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
 
