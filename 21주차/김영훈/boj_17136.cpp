@@ -41,7 +41,6 @@ void DFS(int r, int c, int k) {
 			}
 		}
 	}
-
 }
 int main() {
 	for (int i = 0; i < 5; i++) {
