@@ -22,7 +22,6 @@ int main() {
 			map[r - 1][c - 1].s %= (2 * C - 2);
 		}
 	}
-
 	int answer = 0;
 	for (int i = 0; i < C; i++) {
 		for (int j = 0; j < R; j++) {
