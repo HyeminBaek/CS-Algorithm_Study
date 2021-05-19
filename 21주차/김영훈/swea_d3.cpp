@@ -14,7 +14,6 @@ int main()
             check[i * j] = true;
         }
     }
-
     scanf("%d", &T);
     int N;
     for (int tc = 1; tc <= T; tc++) {
@@ -22,5 +21,5 @@ int main()
         printf("#%d %s\n", tc, (check[N] ? "Yes" : "No"));
 
     }
-    return 0;//Á¤»óÁ¾·á½Ã ¹Ýµå½Ã 0À» ¸®ÅÏÇØ¾ßÇÕ´Ï´Ù.
+    return 0;//ì •ìƒì¢…ë£Œì‹œ ë°˜ë“œì‹œ 0ì„ ë¦¬í„´í•´ì•¼í•©ë‹ˆë‹¤.
 }
