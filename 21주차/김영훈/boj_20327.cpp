@@ -24,7 +24,6 @@ void OpSwap(int r, int c, int l,int k) {
 	}
 	OpSwap(r + ((c + l) / sz) * l, (c + l) % sz,l,k);
 }
-
 void OpRotate(int r, int c, int l, int k) {
 	if (r >= sz) {
 		return;
