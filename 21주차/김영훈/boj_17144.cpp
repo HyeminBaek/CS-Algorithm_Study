@@ -69,7 +69,6 @@ int main() {
 			*flow[i][0] = 0;
 		}
 	}
-
 	int answer = 0;
 	for (int i = 0; i < R; i++) {
 		for (int j = 0; j < C; j++) {
