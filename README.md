@@ -37,6 +37,8 @@ e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice
 
 KB 증권 ~05.28 https://2021-kbsec.com/
 
+농협 물류 ~05.30 https://jrs.jobkorea.co.kr/nhlogis/nhlogis21/Agi/Invite
+
 인터파크 정보보안 부문 수시채용 ~05.31 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
 BOB 10기 ~06.04 https://www.kitribob.kr/
