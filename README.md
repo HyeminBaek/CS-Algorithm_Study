@@ -22,22 +22,14 @@
 | 9 |      10       |      11       |      12       |     13     |     14     |15|
 | |||<p><b>알고리즘 주제</b>삼성기출,DP,세그먼트 트리,구현</p><p>한국투자증권 인턴 서류 마감</p>||SSAFY 서류 마감||
 | 16 |      17        |       18       | 19|  20  |  21  |  22  |
-||노아에이티에스 서류 마감<p>인터파크 코딩테스트 마감</p>||<p><b>알고리즘 주제</b> 삼성기출,구현,그래프</p>|한국투자증권 인턴 서류 발표|<p></p>|SSAFY SW 역량테스트|
+||노아에이티에스 서류 마감<p>인터파크 코딩테스트 마감</p>||<p><b>알고리즘 주제</b> 삼성기출,구현,그래프</p>|한국투자증권 인턴 서류 발표|<p></p>|SSAFY SW 역량테스트<p>DEV_CARNIVAL 코딩 테스트</p>|
 | 23 |24|25|26|27|28|29|
 ||한국투자증권 AI 면접 마감(~15:00)|한국투자증권 AI 면접 결과 발표|<b>알고리즘 주제</b>삼성기출,||||
 |30|31|1 |    2    |3 |   4  | 5 |
 |||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>  ||||
 
 ** 채용 공고
-<br>베스핀 글로벌 ~05.21 https://bespinglobal.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56046
-
-대구은행 채용연계형 인턴 ~05.21 https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=56181
-
-동일 ~05.23 http://www.dong-il.com/recruit/news.asp
-
-현대 엔지니어링 ~05.24 https://hec.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=57118
-
-농협정보시스템 ~05.24 https://nhit.career.co.kr/jobs/jobs_view.asp?ID=1025
+<br>농협정보시스템 ~05.24 https://nhit.career.co.kr/jobs/jobs_view.asp?ID=1025
 
 e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
 
