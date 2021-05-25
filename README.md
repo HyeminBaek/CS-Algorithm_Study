@@ -26,14 +26,10 @@
 | 23 |24|25|26|27|28|29|
 ||한국투자증권 AI 면접 마감(~15:00)|한국투자증권 AI 면접 결과 발표|<b>알고리즘 주제</b>삼성기출,그래프,DP,문자열||||
 |30|31|1 |    2    |3 |   4  | 5 |
-|||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>  ||||
+|||<p></p> |<p><b>알고리즘 주제</b> 삼성기출,</p>새마을금고중앙회 1차 면접 결과 발표 ||||
 
 ** 채용 공고
-<br>농협정보시스템 ~05.24 https://nhit.career.co.kr/jobs/jobs_view.asp?ID=1025
-
-e1 채용연계형 하계 인턴 ~05.24 https://e1.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=55086
-
-우리은행 ~05.28 https://wooribank.incruit.com/pro_106/jobpost3.asp
+<br>우리은행 ~05.28 https://wooribank.incruit.com/pro_106/jobpost3.asp
 
 KB 증권 ~05.28 https://2021-kbsec.com/
 
