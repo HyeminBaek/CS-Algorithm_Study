@@ -38,6 +38,8 @@ KB 증권 ~05.28 https://2021-kbsec.com/
 
 인터파크 정보보안 부문 수시채용 ~05.31 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
 
+우리금융캐피탈 ~06.03 https://www.jobkorea.co.kr/Recruit/GI_Read/34868462?Oem_Code=C1&logpath=1
+
 ETRI ~06.04 https://etri.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=57633
 
 BOB 10기 ~06.04 https://www.kitribob.kr/
@@ -45,6 +47,10 @@ BOB 10기 ~06.04 https://www.kitribob.kr/
 LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
 IBK 기업은행 체험형 인턴 ~06.11 http://ibk1.incruit.com/hire/viewhire.asp?projectid=103
+
+SK 증권 공모전 ~06.30 https://www.sks.co.kr/company/html/HI_04002.htm
+
+코리아핀테크위크 https://2021.fintechweek.or.kr/fairContents.do?FAIRMENU_IDX=13187&hl=KOR
 
 LINE FINTECH https://careers.linecorp.com/ko/jobs/537
 
