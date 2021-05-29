@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[게리맨더링 2](https://www.acmicpc.net/problem/17779)  ⑵[연구소 3](https://www.acmicpc.net/problem/17142)  ⑶[빙산](https://www.acmicpc.net/problem/2573)  ⑷[좋은 대회](https://www.acmicpc.net/problem/14610)  ⑸[Contact](https://www.acmicpc.net/problem/1013)
+✏️ `이번주 문제(백준)` : ⑴[게리맨더링 2](https://www.acmicpc.net/problem/17779)  ⑵[새로운 게임2](https://www.acmicpc.net/problem/17837)  ⑶[얼음깨기 펭귄](https://www.acmicpc.net/problem/21738)  ⑷[싸지방에 간 준하](https://www.acmicpc.net/problem/12764)  ⑸[호텔 예약](https://www.acmicpc.net/problem/9203)
 
 <h3> 📅 6월 </h3>
 
@@ -16,7 +16,7 @@
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   30    |   31    |   1  |  2  |  3  |  4  |  5  |
-|     |     |   |<p><b>알고리즘 주제</b> 삼성기출,</p>새마을금고중앙회 1차 면접 결과 발표 |  | | |
+|     |     |   |<p><b>알고리즘 주제</b> 삼성기출,트리,PQ</p>새마을금고중앙회 1차 면접 결과 발표 |  | | |
 | 6 |      7      |      8      |     9     |    10     |     11     | 12 |
 ||||<p><b>알고리즘 주제</b> 삼성기출,</p>||||
 | 13 |      14       |      15       |      16      |     17     |     18     |19|
