@@ -28,11 +28,7 @@
 
 
 ** 채용 공고
-<br>농협 물류 ~05.30 https://jrs.jobkorea.co.kr/nhlogis/nhlogis21/Agi/Invite
-
-인터파크 정보보안 부문 수시채용 ~05.31 https://interpark.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=52356
-
-우리금융캐피탈 ~06.03 https://www.jobkorea.co.kr/Recruit/GI_Read/34868462?Oem_Code=C1&logpath=1
+<br>우리금융캐피탈 ~06.03 https://www.jobkorea.co.kr/Recruit/GI_Read/34868462?Oem_Code=C1&logpath=1
 
 ETRI ~06.04 https://etri.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=57633
 
