@@ -36,9 +36,15 @@ BOB 10기 ~06.04 https://www.kitribob.kr/
 
 LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
+KB 굿잡 ~06.11 https://kbgoodjob.kbstar.com/job/GW000010.kb
+
 IBK 기업은행 체험형 인턴 ~06.11 http://ibk1.incruit.com/hire/viewhire.asp?projectid=103
 
-SK 증권 공모전 ~06.30 https://www.sks.co.kr/company/html/HI_04002.htm
+SK 증권 ~06.13 https://sks.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=58682
+
+NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005989&classId=&jobId=&entTypeCd=001&searchTxt=
+
+유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
 
 코리아핀테크위크 https://2021.fintechweek.or.kr/fairContents.do?FAIRMENU_IDX=13187&hl=KOR
 
