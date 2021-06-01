@@ -36,6 +36,8 @@ BOB 10기 ~06.04 https://www.kitribob.kr/
 
 LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
 
+KIS채권평가 ~06.06 https://www.bond.co.kr/customer/recruit
+
 KB 굿잡 ~06.11 https://kbgoodjob.kbstar.com/job/GW000010.kb
 
 IBK 기업은행 체험형 인턴 ~06.11 http://ibk1.incruit.com/hire/viewhire.asp?projectid=103
