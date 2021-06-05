@@ -28,17 +28,7 @@
 
 
 ** 채용 공고
-<br>우리금융캐피탈 ~06.03 https://www.jobkorea.co.kr/Recruit/GI_Read/34868462?Oem_Code=C1&logpath=1
-
-ETRI ~06.04 https://etri.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=57633
-
-BOB 10기 ~06.04 https://www.kitribob.kr/
-
-LG CNS ~06.04 http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi
-
-KIS채권평가 ~06.06 https://www.bond.co.kr/customer/recruit
-
-KB 굿잡 ~06.11 https://kbgoodjob.kbstar.com/job/GW000010.kb
+<br>KB 굿잡 ~06.11 https://kbgoodjob.kbstar.com/job/GW000010.kb
 
 IBK 기업은행 체험형 인턴 ~06.11 http://ibk1.incruit.com/hire/viewhire.asp?projectid=103
 
