@@ -34,6 +34,8 @@ IBK 기업은행 체험형 인턴 ~06.11 http://ibk1.incruit.com/hire/viewhire.a
 
 SK 증권 ~06.13 https://sks.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=58682
 
+KB국민은행 ~06.17 https://kbstar.incruit.com/hire/viewhire.asp?projectid=105
+
 NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005989&classId=&jobId=&entTypeCd=001&searchTxt=
 
 유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
