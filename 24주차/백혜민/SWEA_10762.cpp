@@ -26,7 +26,6 @@ int main(int argc, char** argv)
             sum[i][0] = sum[i - 1][0]^v[i];
             sum[i][1] = sum[i - 1][1]+v[i];
         }
-
         cout << "#" << test_case << " ";
         if (sum[v.size()-1][0] == 0) cout << sum[v.size()-1][1]-min<<"\n";
         else cout <<"NO\n";
