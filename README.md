@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[원판 돌리기](https://www.acmicpc.net/problem/17822)  ⑵[주사위 윷놀이](https://www.acmicpc.net/problem/17825)  ⑶[가희와 로그 파일](https://www.acmicpc.net/problem/21774)  ⑷[오타](https://www.acmicpc.net/problem/5875)  ⑸[주사위 쌓기](https://www.acmicpc.net/problem/2116)
+✏️ `이번주 문제(백준)` : ⑴[모노미노도미노 2](https://www.acmicpc.net/problem/20061)  ⑵[청소년 상어](https://www.acmicpc.net/problem/19236)  ⑶[선수과목](https://www.acmicpc.net/problem/14567)  ⑷[IP 주소](https://www.acmicpc.net/problem/2064)  ⑸[암호 깨기](https://www.acmicpc.net/problem/9369)
 
 <h3> 📅 6월 </h3>
 
