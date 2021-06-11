@@ -30,8 +30,6 @@
 ** 채용 공고
 <br>KB 굿잡 ~06.11 https://kbgoodjob.kbstar.com/job/GW000010.kb
 
-IBK 기업은행 체험형 인턴 ~06.11 http://ibk1.incruit.com/hire/viewhire.asp?projectid=103
-
 SK 증권 ~06.13 https://sks.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=58682
 
 NH농협캐피탈 ~06.15 https://nhcapital.career.co.kr/jobs/jobs_view.asp?ID=1001
