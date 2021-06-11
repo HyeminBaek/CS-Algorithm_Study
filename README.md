@@ -32,11 +32,15 @@
 
 SK 증권 ~06.13 https://sks.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=58682
 
+제이티저축은행 ~06.13 https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40446806&recommend_ids=eJxNzr0RgFAMAuBp7JNAiK92EPffwp9CKb%2BD42CA6sTZym0OBtlcxgRCp7JeQjU1H5%2Fy%2FCkhwNlVuxEBYy2tNg4RzkIZ71OW5q5J4xRhFOJdvgCjvy9k&view_type=public-recruit&gz=1#seq=1
+
 NH농협캐피탈 ~06.15 https://nhcapital.career.co.kr/jobs/jobs_view.asp?ID=1001
 
 KB국민은행 ~06.17 https://kbstar.incruit.com/hire/viewhire.asp?projectid=105
 
 NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005989&classId=&jobId=&entTypeCd=001&searchTxt=
+
+네이버 Search CIC 연구/개발 체험형 인턴십 모집 ~06.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006044&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=KR
 
 유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
 
