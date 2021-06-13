@@ -20,7 +20,7 @@
 | 6 |      7      |      8      |     9     |    10     |     11     | 12 |
 |||새마을금고중앙회 최종 발표|<p><b>알고리즘 주제</b> 삼성기출,string,누적 합,브루트포스</p>||IBK기업은행 체험형 인턴 서류 마감||
 | 13 |      14       |      15       |      16      |     17     |     18     |19|
-| |||<p><b>알고리즘 주제</b>삼성기출,위상정렬,비트마스킹,구현</p>||||
+|SK 증권,JT 저축은행 서류 마감|||<p><b>알고리즘 주제</b>삼성기출,위상정렬,비트마스킹,구현</p>||||
 | 20 |      21        |      22       | 23|  24  |  25  |  26  |
 ||||<p><b>알고리즘 주제</b> 삼성기출,</p>||||
 | 27 |28|29|30|1|2|3|
@@ -28,13 +28,7 @@
 
 
 ** 채용 공고
-<br>KB 굿잡 ~06.11 https://kbgoodjob.kbstar.com/job/GW000010.kb
-
-SK 증권 ~06.13 https://sks.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=58682
-
-제이티저축은행 ~06.13 https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40446806&recommend_ids=eJxNzr0RgFAMAuBp7JNAiK92EPffwp9CKb%2BD42CA6sTZym0OBtlcxgRCp7JeQjU1H5%2Fy%2FCkhwNlVuxEBYy2tNg4RzkIZ71OW5q5J4xRhFOJdvgCjvy9k&view_type=public-recruit&gz=1#seq=1
-
-NH농협캐피탈 ~06.15 https://nhcapital.career.co.kr/jobs/jobs_view.asp?ID=1001
+<NH농협캐피탈 ~06.15 https://nhcapital.career.co.kr/jobs/jobs_view.asp?ID=1001
 
 KB국민은행 ~06.17 https://kbstar.incruit.com/hire/viewhire.asp?projectid=105
 
