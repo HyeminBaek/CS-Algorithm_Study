@@ -20,7 +20,7 @@
 | 6 |      7      |      8      |     9     |    10     |     11     | 12 |
 |||새마을금고중앙회 최종 발표|<p><b>알고리즘 주제</b> 삼성기출,string,누적 합,브루트포스</p>||IBK기업은행 체험형 인턴 서류 마감||
 | 13 |      14       |      15       |      16      |     17     |     18     |19|
-|SK 증권,JT 저축은행 서류 마감|||<p><b>알고리즘 주제</b>삼성기출,위상정렬,비트마스킹,구현</p>||||
+|SK 증권,JT 저축은행 서류 마감|||<p><b>알고리즘 주제</b>삼성기출,위상정렬,비트마스킹,구현</p>SSAFY 면접||||
 | 20 |      21        |      22       | 23|  24  |  25  |  26  |
 ||||<p><b>알고리즘 주제</b> 삼성기출,</p>||||
 | 27 |28|29|30|1|2|3|
@@ -28,9 +28,7 @@
 
 
 ** 채용 공고
-<NH농협캐피탈 ~06.15 https://nhcapital.career.co.kr/jobs/jobs_view.asp?ID=1001
-
-KB국민은행 ~06.17 https://kbstar.incruit.com/hire/viewhire.asp?projectid=105
+<br>KB국민은행 ~06.17 https://kbstar.incruit.com/hire/viewhire.asp?projectid=105
 
 티웨이항공 ~06.22 https://recruit.twayair.com/WiseRecruitWeb/
 
