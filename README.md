@@ -30,6 +30,8 @@
 ** 채용 공고
 <br>KB국민은행 ~06.17 https://kbstar.incruit.com/hire/viewhire.asp?projectid=105
 
+푸본현대생명 ~06.20 https://fubonhyundai.saramin.co.kr/apply_site/recruit/view
+
 티웨이항공 ~06.22 https://recruit.twayair.com/WiseRecruitWeb/
 
 NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005989&classId=&jobId=&entTypeCd=001&searchTxt=
@@ -41,6 +43,8 @@ NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/n
 유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
 
 오늘의 집 인턴 https://www.bucketplace.co.kr/recruit/2021-06-10-security-engineer-%EC%9D%B8%ED%84%B4/
+
+페퍼저축은행 https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40401818&recommend_ids=eJxdkEsWQyEIQ1fTufwCjLsQ97%2BLevoUbIeXYDDRIREGmZb%2B8rdeOPUZONlA64VbV5GEr4E9aCDGdMUfHrsQQrS%2BDAc1KltSHWs8x9gT49JVg%2FtvaTArs8ZzOyVJL%2F1guUcyKsp67%2FJjt3Gvr2A%2BriiCTO4iCut6rP2JPMlZf6JSuM1V1%2B5NwuJSTf1b4wefnV8V&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view#seq=0
 
 코리아핀테크위크 https://2021.fintechweek.or.kr/fairContents.do?FAIRMENU_IDX=13187&hl=KOR
 
