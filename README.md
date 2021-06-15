@@ -38,6 +38,8 @@ NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/n
 
 기아자동차 ~06.25 http://career.kia.com/kfront/webapply/applyView.do?recuYy=2021&recuType=63&recuCls=14
 
+한국예탁결제원 ~06.30 http://ksd2.incruit.com/hire/viewhire.asp?projectid=105
+
 네이버 Search CIC 연구/개발 체험형 인턴십 모집 ~06.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006044&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=KR
 
 유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
