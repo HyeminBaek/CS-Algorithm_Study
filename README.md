@@ -28,9 +28,7 @@
 
 
 ** 채용 공고
-<br>KB국민은행 ~06.17 https://kbstar.incruit.com/hire/viewhire.asp?projectid=105
-
-푸본현대생명 ~06.20 https://fubonhyundai.saramin.co.kr/apply_site/recruit/view
+<br>푸본현대생명 ~06.20 https://fubonhyundai.saramin.co.kr/apply_site/recruit/view
 
 티웨이항공 ~06.22 https://recruit.twayair.com/WiseRecruitWeb/
 
