@@ -42,7 +42,11 @@ NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/n
 
 네이버 Search CIC 연구/개발 체험형 인턴십 모집 ~06.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006044&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=KR
 
+KISA핀테크아카데미 인슈어테크 프로젝트 개발 과정 ~07.18 https://www.onoffmix.com/event/239668
+
 유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
+
+정보보호제품 CC평가자 교육~08.02 https://www.kisia.or.kr/announcement/association/262/
 
 오늘의 집 인턴 https://www.bucketplace.co.kr/recruit/2021-06-10-security-engineer-%EC%9D%B8%ED%84%B4/
 
