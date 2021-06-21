@@ -28,11 +28,7 @@
 
 
 ** 채용 공고
-<br>푸본현대생명 ~06.20 https://fubonhyundai.saramin.co.kr/apply_site/recruit/view
-
-티웨이항공 ~06.22 https://recruit.twayair.com/WiseRecruitWeb/
-
-NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005989&classId=&jobId=&entTypeCd=001&searchTxt=
+<br>NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/nts/job/detail/developer?annoId=20005989&classId=&jobId=&entTypeCd=001&searchTxt=
 
 기아자동차 ~06.25 http://career.kia.com/kfront/webapply/applyView.do?recuYy=2021&recuType=63&recuCls=14
 
@@ -43,6 +39,8 @@ NTS 하계 SW개발 채용전제형 인턴 ~06.24 https://recruit.nts-corp.com/n
 한국예탁결제원 ~06.30 http://ksd2.incruit.com/hire/viewhire.asp?projectid=105
 
 네이버 Search CIC 연구/개발 체험형 인턴십 모집 ~06.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006044&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=KR
+
+KDB산업은행 청년인턴 ~07.05 https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020
 
 KISA핀테크아카데미 인슈어테크 프로젝트 개발 과정 ~07.18 https://www.onoffmix.com/event/239668
 
