@@ -34,11 +34,17 @@
 
 한국타이어앤테크놀로지 채용연계형 인턴 ~06.27 https://hankooktire.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60677
 
+푸본현대생명 정보보안팀 ~06.27 https://fubonhyundai.saramin.co.kr/apply_site/apply/pre_confirm
+
 수협은행 ~06.28 https://suhyup-bank.saramin.co.kr/service/suhyup-bank/2086/applicant/apply/recruit_default.asp
 
 한국예탁결제원 ~06.30 http://ksd2.incruit.com/hire/viewhire.asp?projectid=105
 
 네이버 Search CIC 연구/개발 체험형 인턴십 모집 ~06.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006044&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=KR
+
+코스콤 ~07.02 https://www.koscom.co.kr/portal/bbs/B0000015/view.do;jsessionid=F4E104A6189942AE8F77D0378828E673.tomcat01?nttId=28150&searchCnd=&searchWrd=&gubun=&delcode=0&searchBgnDe=&searchEndDe=&useAt=&replyAt=&menuNo=200386&sdate=&edate=&deptId=&isk=&ise=&viewType=&type=&year=&pageIndex=1
+
+IBK시스템 ~07.05 http://recruit.ibksystem.co.kr/
 
 KDB산업은행 청년인턴 ~07.05 https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020
 
