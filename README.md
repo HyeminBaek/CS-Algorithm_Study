@@ -42,6 +42,8 @@
 
 네이버 Search CIC 연구/개발 체험형 인턴십 모집 ~06.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006044&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=KR
 
+생명보험협회 ~07.02 https://www.catch.co.kr/NCS/RecruitInfoDetails/183887
+
 코스콤 ~07.02 https://www.koscom.co.kr/portal/bbs/B0000015/view.do;jsessionid=F4E104A6189942AE8F77D0378828E673.tomcat01?nttId=28150&searchCnd=&searchWrd=&gubun=&delcode=0&searchBgnDe=&searchEndDe=&useAt=&replyAt=&menuNo=200386&sdate=&edate=&deptId=&isk=&ise=&viewType=&type=&year=&pageIndex=1
 
 IBK시스템 ~07.05 http://recruit.ibksystem.co.kr/
