@@ -47,7 +47,6 @@ void sol()
 		}
 		if (left >= K) break;
 	}
-
 	cout << cnt;
 }
 void init()
