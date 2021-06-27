@@ -28,13 +28,7 @@
 
 
 ** 채용 공고
-<br>한국타이어앤테크놀로지 채용연계형 인턴 ~06.27 https://hankooktire.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60677
-
-푸본현대생명 정보보안팀 ~06.27 https://fubonhyundai.saramin.co.kr/apply_site/apply/pre_confirm
-
-수협은행 ~06.28 https://suhyup-bank.saramin.co.kr/service/suhyup-bank/2086/applicant/apply/recruit_default.asp
-
-한국예탁결제원 ~06.30 http://ksd2.incruit.com/hire/viewhire.asp?projectid=105
+<br>한국예탁결제원 ~06.30 http://ksd2.incruit.com/hire/viewhire.asp?projectid=105
 
 네이버 Search CIC 연구/개발 체험형 인턴십 모집 ~06.30 https://recruit.navercorp.com/naver/job/detail/developer?annoId=20006044&classId=&jobId=&entTypeCd=004&searchTxt=&searchSysComCd=KR
 
