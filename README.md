@@ -36,6 +36,8 @@ IBK시스템 ~07.05 http://recruit.ibksystem.co.kr/
 
 KDB산업은행 청년인턴 ~07.05 https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020
 
+유안타증권 ~07.14 https://recruit.yuantakorea.com:4433/jobinfo/jobinfo_view.asp?ID=1622
+
 KISA핀테크아카데미 인슈어테크 프로젝트 개발 과정 ~07.18 https://www.onoffmix.com/event/239668
 
 유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
