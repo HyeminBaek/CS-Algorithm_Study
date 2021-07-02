@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)  ⑵[마법사 상어와 파이어볼](https://www.acmicpc.net/problem/20056)  ⑶[동전 분배](https://www.acmicpc.net/problem/1943)  ⑷[리조트](https://www.acmicpc.net/problem/13302)  ⑸[다리 만들기 2](https://www.acmicpc.net/problem/17472)
+✏️ `이번주 문제(백준)` : ⑴[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)  ⑵[상어 초등학교](https://www.acmicpc.net/problem/21608)  ⑶[네트워크 연결](https://www.acmicpc.net/problem/1922)  ⑷[뒤집힌 계산기](https://www.acmicpc.net/problem/20129)  ⑸[연속합 2](https://www.acmicpc.net/problem/13398)
 
 <h3> 📅 7월 </h3>
 
@@ -16,21 +16,23 @@
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   27    |   28    |   29  |  30  |  1  |  2  |  3  |
-|     |     |    |<p><b>알고리즘 주제</b> 삼성기출,DP,최소 스패닝 트리</p> |  | | |
+|     |     |    |<p><b>알고리즘 주제</b> 삼성기출,DP,최소 스패닝 트리</p> |  | |KB국민은행 코딩테스트|
 |   4   |      5      |      6      |     7     |    8     |     9     |   10   |
-||||<p><b>알고리즘 주제</b> 삼성기출,</p>||||
+||||||KB국민은행 코딩테스트, 수협은행 서류 결과 발표|<p><b>알고리즘 주제</b> 삼성기출,MST,문자열,DP</p>|
 | 11 |      12       |      13       |      14      |     15     |     16     |17|
-|    |||<p><b>알고리즘 주제</b>삼성기출,</p>||||
+|    ||||||<p><b>알고리즘 주제</b>삼성기출,</p>|
 | 18 |      19        |      20       | 21   |  22  |  23  |  24  |
-||||<p><b>알고리즘 주제</b> 삼성기출,</p>||||
+|||||||<p><b>알고리즘 주제</b>삼성기출,</p>|
 | 25 |26|27|28|29|30|31|
-|   |   |  |<b>알고리즘 주제</b>삼성기출,||||
+|   |   |  ||||<p><b>알고리즘 주제</b>삼성기출,</p>|
 
 
 ** 채용 공고
 <br>IBK시스템 ~07.05 http://recruit.ibksystem.co.kr/
 
 KDB산업은행 청년인턴 ~07.05 https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020
+
+카카오페이 채용연계형 인턴십 ~07.12 https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63003
 
 유안타증권 ~07.14 https://recruit.yuantakorea.com:4433/jobinfo/jobinfo_view.asp?ID=1622
 
