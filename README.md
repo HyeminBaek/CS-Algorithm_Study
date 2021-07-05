@@ -20,7 +20,7 @@
 |   4   |      5      |      6      |     7     |    8     |     9     |   10   |
 ||||||KB국민은행 코딩테스트, 수협은행 서류 결과 발표|<p><b>알고리즘 주제</b> 삼성기출,MST,문자열,DP</p>|
 | 11 |      12       |      13       |      14      |     15     |     16     |17|
-|    ||||||<p><b>알고리즘 주제</b>삼성기출,</p>|
+|    ||||KDB산업은행 청년인턴 서류 결과 발표||<p><b>알고리즘 주제</b>삼성기출,</p>|
 | 18 |      19        |      20       | 21   |  22  |  23  |  24  |
 |||||||<p><b>알고리즘 주제</b>삼성기출,</p>|
 | 25 |26|27|28|29|30|31|
@@ -28,13 +28,7 @@
 
 
 ** 채용 공고
-<br>IBK시스템 ~07.05 http://recruit.ibksystem.co.kr/
-
-아시아신탁 ~07.05 https://asiatrust.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=61740
-
-KDB산업은행 청년인턴 ~07.05 https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020
-
-한국신용정보원 ~07.07 https://www.jobkorea.co.kr/Recruit/GI_Read/35220376?Oem_Code=C1&PageGbn=ST
+<br>한국신용정보원 ~07.07 https://www.jobkorea.co.kr/Recruit/GI_Read/35220376?Oem_Code=C1&PageGbn=ST
 
 카카오페이 채용연계형 인턴십 ~07.12 https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63003
 
