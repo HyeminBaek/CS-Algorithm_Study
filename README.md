@@ -20,7 +20,7 @@
 |   4   |      5      |      6      |     7     |    8     |     9     |   10   |
 ||||||KB국민은행 코딩테스트, 수협은행 서류 결과 발표|<p><b>알고리즘 주제</b> 삼성기출,MST,문자열,DP</p>|
 | 11 |      12       |      13       |      14      |     15     |     16     |17|
-|    ||||KDB산업은행 청년인턴 서류 결과 발표||<p><b>알고리즘 주제</b>삼성기출,</p>|
+|    ||||KDB산업은행 청년인턴 서류 결과 발표||<p><b>알고리즘 주제</b>삼성기출,PQ,String,그리디</p>|
 | 18 |      19        |      20       | 21   |  22  |  23  |  24  |
 |||||||<p><b>알고리즘 주제</b>삼성기출,</p>|
 | 25 |26|27|28|29|30|31|
@@ -28,27 +28,4 @@
 
 
 ** 채용 공고
-<br>한국신용정보원 ~07.07 https://www.jobkorea.co.kr/Recruit/GI_Read/35220376?Oem_Code=C1&PageGbn=ST
-
-카카오페이 채용연계형 인턴십 ~07.12 https://kakaopay.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63003
-
-신영증권 인턴 ~07.12 https://shinrecruit.shinyoung.com/APN/DtlNoticeForm
-
-유안타증권 ~07.14 https://recruit.yuantakorea.com:4433/jobinfo/jobinfo_view.asp?ID=1622
-
-KISA핀테크아카데미 인슈어테크 프로젝트 개발 과정 ~07.18 https://www.onoffmix.com/event/239668
-
-유한건강생활 DBA 인턴 ~07.19 https://www.jobkorea.co.kr/Recruit/GI_Read/34516437?Oem_Code=C1&sc=7
-
-정보보호제품 CC평가자 교육~08.02 https://www.kisia.or.kr/announcement/association/262/
-
-오늘의 집 인턴 https://www.bucketplace.co.kr/recruit/2021-06-10-security-engineer-%EC%9D%B8%ED%84%B4/
-
-페퍼저축은행 https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40401818&recommend_ids=eJxdkEsWQyEIQ1fTufwCjLsQ97%2BLevoUbIeXYDDRIREGmZb%2B8rdeOPUZONlA64VbV5GEr4E9aCDGdMUfHrsQQrS%2BDAc1KltSHWs8x9gT49JVg%2FtvaTArs8ZzOyVJL%2F1guUcyKsp67%2FJjt3Gvr2A%2BriiCTO4iCut6rP2JPMlZf6JSuM1V1%2B5NwuJSTf1b4wefnV8V&view_type=list&gz=1&t_ref_content=ing_recruit&t_ref=company_info_view#seq=0
-
-코리아핀테크위크 https://2021.fintechweek.or.kr/fairContents.do?FAIRMENU_IDX=13187&hl=KOR
-
-LINE FINTECH https://careers.linecorp.com/ko/jobs/537
-
-NICE 평가정보 상시 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=53421
-
+<br>
