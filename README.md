@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058)  ⑵[상어 초등학교](https://www.acmicpc.net/problem/21608)  ⑶[네트워크 연결](https://www.acmicpc.net/problem/1922)  ⑷[뒤집힌 계산기](https://www.acmicpc.net/problem/20129)  ⑸[연속합 2](https://www.acmicpc.net/problem/13398)
+✏️ `이번주 문제(백준)` : ⑴[상어 중학교](https://www.acmicpc.net/problem/20058)  ⑵[마법사 상어와 비바라기](https://www.acmicpc.net/problem/21608)  ⑶[화장실의 규칙](https://www.acmicpc.net/problem/1922)  ⑷[링고와 순열](https://www.acmicpc.net/problem/20129)  ⑸[GCC의 유산](https://www.acmicpc.net/problem/13398)
 
 <h3> 📅 7월 </h3>
 
