@@ -28,4 +28,4 @@
 
 
 ** 채용 공고
-<br>
+<br>[NICE평가정보]2021년 하반기 수시채용 ~07.25 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63930
