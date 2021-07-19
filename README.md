@@ -29,3 +29,5 @@
 
 ** 채용 공고
 <br>[NICE평가정보]2021년 하반기 수시채용 ~07.25 https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63930
+<br>[SK C&C] ~07.26 https://www.skcareers.com/POS/jobViewOpenRecruit.aspx?_SKEP=qv0xqNXR7Eq%2BqPSIm4H4Gy%2BJ94ruMYWzboydXaYMP%2B%2BVWiebQKDvW1emvgsYhFMx11geFiSdWUwqE26p9uTRBNrphIy2T5jMe8MHUNbAJ10%3D
+<br>[구름 채용연계형 인턴] https://www.notion.so/46236f6890394c73a515f52f594d676b
