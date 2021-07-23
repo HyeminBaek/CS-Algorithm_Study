@@ -8,8 +8,9 @@
 <hr>
 🏆명예의 전당🏆
 
+<hr>
 
-<br> 📌 시작: 2020-12-27 
+<br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
 ✏️ `이번주 문제(백준)` : ⑴[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)  ⑵[괄호 추가하기](https://www.acmicpc.net/problem/16637)  ⑶[주식왕 동호](https://www.acmicpc.net/problem/1231)  ⑷[XOR Sum](https://www.acmicpc.net/problem/11338)  ⑸[트리의 지름](https://www.acmicpc.net/problem/1967)
