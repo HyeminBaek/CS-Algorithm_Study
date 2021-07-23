@@ -5,6 +5,9 @@
 
 [김병연](https://github.com/whyWhale) [김영훈](https://github.com/12311321) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek) [이명륜](https://github.com/auddl0756)
 
+🏆명예의 전당🏆
+
+
 <br> 📌 시작: 2020-12-27 
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
@@ -30,6 +33,6 @@
 ** 채용 공고
 <br>[NICE평가정보](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63930) 2021년 하반기 수시채용 ~07.25 
 <br>[SK C&C](https://www.skcareers.com/POS/jobViewOpenRecruit.aspx?_SKEP=qv0xqNXR7Eq%2BqPSIm4H4Gy%2BJ94ruMYWzboydXaYMP%2B%2BVWiebQKDvW1emvgsYhFMx11geFiSdWUwqE26p9uTRBNrphIy2T5jMe8MHUNbAJ10%3D) ~07.26
-<br>[기술보증기금] ~08.05 https://kibo.incruit.com/hire/viewhire.asp?projectid=101
+<br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05
 <br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08
 <br>[구름 채용연계형 인턴](https://www.notion.so/46236f6890394c73a515f52f594d676b)
