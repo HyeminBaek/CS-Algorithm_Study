@@ -5,6 +5,7 @@
 
 [김병연](https://github.com/whyWhale) [김영훈](https://github.com/12311321) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek) [이명륜](https://github.com/auddl0756)
 
+<hr>
 🏆명예의 전당🏆
 
 
