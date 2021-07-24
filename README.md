@@ -3,10 +3,10 @@
 
 ### 스터디원
 
-[김병연](https://github.com/whyWhale) [김영훈](https://github.com/12311321) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek) [이명륜](https://github.com/auddl0756)
+[김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek) [이명륜](https://github.com/auddl0756)
 
 <hr>
-🏆명예의 전당🏆
+🏆<b>명예의 전당</b>🏆
 
 <hr>
 
