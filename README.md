@@ -33,7 +33,6 @@
 
 
 ** 채용 공고
-<br>[NICE평가정보](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=63930) 2021년 하반기 수시채용 ~07.25 
 <br>[SK C&C](https://www.skcareers.com/POS/jobViewOpenRecruit.aspx?_SKEP=qv0xqNXR7Eq%2BqPSIm4H4Gy%2BJ94ruMYWzboydXaYMP%2B%2BVWiebQKDvW1emvgsYhFMx11geFiSdWUwqE26p9uTRBNrphIy2T5jMe8MHUNbAJ10%3D) ~07.26
 <br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05
 <br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08
