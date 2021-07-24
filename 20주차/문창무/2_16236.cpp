@@ -14,10 +14,10 @@ queue<pii> q;
 
 void solve() {
     int x, y, movex = 100, movey = 100, eat = 0;
-
     while (!q.empty()) {
         int qsize = q.size();
 
+        // 큐 사이즈만큼만 단계별로 진행
         while (qsize--) {
             const auto& [x, y] = q.front();
             q.pop();
@@ -55,7 +55,7 @@ void solve() {
             map[movex][movey] = 0;
             int time = visited[movex][movey];
 
-            q = queue<pii>();
+            q = queue<pii>(); // 다 잡아먹은 후에 큐 비우고 아기상어 위치 새로 넣고 다시 탐색
             memset(visited, 0, sizeof(visited));
 
             q.push({movex, movey});
