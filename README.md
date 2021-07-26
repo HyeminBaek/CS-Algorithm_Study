@@ -33,6 +33,7 @@
 
 
 ** 채용 공고
+<br>[NH농협은행 인턴-5급 신규 직원](https://nhbank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=62580) ~08.03
 <br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05
 <br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08
 <br>[구름 채용연계형 인턴](https://www.notion.so/46236f6890394c73a515f52f594d676b)
