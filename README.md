@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)  ⑵[괄호 추가하기](https://www.acmicpc.net/problem/16637)  ⑶[주식왕 동호](https://www.acmicpc.net/problem/1231)  ⑷[XOR Sum](https://www.acmicpc.net/problem/11338)  ⑸[트리의 지름](https://www.acmicpc.net/problem/1967)
+✏️ `이번주 문제(백준)` : ⑴[파이프 옮기기 1](https://www.acmicpc.net/problem/21611)  ⑵[캐슬 디펜스](https://www.acmicpc.net/problem/16637)  ⑶[Condition of deep sleep](https://www.acmicpc.net/problem/1231)  ⑷[검문](https://www.acmicpc.net/problem/2981)  ⑸[Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/1967)
 
 <h3> 📅 7월 </h3>
 
