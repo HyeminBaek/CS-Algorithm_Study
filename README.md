@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[파이프 옮기기 1](https://www.acmicpc.net/problem/21611)  ⑵[캐슬 디펜스](https://www.acmicpc.net/problem/16637)  ⑶[Condition of deep sleep](https://www.acmicpc.net/problem/1231)  ⑷[검문](https://www.acmicpc.net/problem/2981)  ⑸[Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/1967)
+✏️ `이번주 문제(백준)` : ⑴[파이프 옮기기 1](https://www.acmicpc.net/problem/17070)  ⑵[캐슬 디펜스](https://www.acmicpc.net/problem/17135)  ⑶[Condition of deep sleep](https://www.acmicpc.net/problem/11577)  ⑷[검문](https://www.acmicpc.net/problem/2981)  ⑸[Baaaaaaaaaduk2 (Easy)](https://www.acmicpc.net/problem/16988)
 
 <h3> 📅 7월 </h3>
 
