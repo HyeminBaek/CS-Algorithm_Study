@@ -14,7 +14,6 @@ int board[20][20];  //0빈칸 1나 2적
 int tmp[20][20];
 bool check[20][20];
 vector<pii> blank;
-vector<pii> enemy;
 
 int kill() {
     int cnt = 0;
@@ -65,7 +64,6 @@ int main() {
         for (int j = 0; j < m; ++j) {
             cin >> board[i][j];
             if (board[i][j] == 0) blank.push_back({i, j});
-            if (board[i][j] == 2) enemy.push_back({i, j});
         }
     }
 

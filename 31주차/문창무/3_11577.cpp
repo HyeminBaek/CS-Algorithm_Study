@@ -5,7 +5,7 @@ using namespace std;
 
 int n, k;  // 전구10만, 반전10만
 bool bit[100000];
-bool fastbit[100000]; // 
+bool fastbit[100000];  //
 
 int main() {
     ios_base::sync_with_stdio(false);
@@ -18,11 +18,12 @@ int main() {
     }
     for (int i = 0; i < n; ++i) {
         if (i == 0)
-            fastbit[i] = 0 ^ bit[i];
+            fastbit[i] = 0 ^ bit[i];  // 0^0=0, 0^1=1
         else
-            fastbit[i] = bit[i - 1] ^ bit[i];
+            fastbit[i] = bit[i - 1] ^ bit[i];  // 0^0=0, 0^1=1, 1^0=1, 1^1=0
     }
 
+    // fastbit[i] = bit[i-1]^bit[i] 
     // 꺼져있으면 켜기
     int cnt = 0;
     for (int i = 0; i <= n - k; ++i) {
