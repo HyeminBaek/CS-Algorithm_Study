@@ -33,10 +33,10 @@
 
 
 ** 채용 공고
-<br>[NH농협은행 인턴-5급 신규 직원](https://nhbank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=62580) ~08.03
+<br>[NH농협은행 인턴-5급 신규 직원](https://nhbank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=62580) ~08.03 18:00
 <br>[한국인터넷진흥원](https://kisa.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp) ~08.05 11:00
-<br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05
-<br>[KT ds](https://recruit.kt.com/apply/notifyView?seq=65593) ~08.05
-<br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08
+<br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05 14:00
+<br>[KT ds](https://recruit.kt.com/apply/notifyView?seq=65593) ~08.05 23:59
+<br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08 23:59
 <br>[현대오토에버 신입사원 수시채용](https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=66035) ~08.10 13:00
 <br>[구름 채용연계형 인턴](https://www.notion.so/46236f6890394c73a515f52f594d676b)
