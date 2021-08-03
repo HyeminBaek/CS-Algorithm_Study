@@ -40,5 +40,6 @@
 <br>[현대오토에버 신입사원 수시채용](https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=66035) ~08.10 13:00
 <br>[대외경제정책연구원 청년인턴](https://kiep.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=65949) ~08.13 23:59
 <br>[한국투자공사 청년인턴](https://www.jobkorea.co.kr/Recruit/GI_Read/35542860?Oem_Code=C1&PageGbn=ST) ~08.17 17:00
+<br>[예금보험공사](https://www.kdic.or.kr/introduce/recruitDetail.do) ~08.17 17:00
 <br>[한국거래소](https://jrs.jobkorea.co.kr/krx/krx212/Agi/Invite) ~08.18 18:00
 <br>[구름 채용연계형 인턴](https://www.notion.so/46236f6890394c73a515f52f594d676b)
