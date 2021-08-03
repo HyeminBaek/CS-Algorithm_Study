@@ -21,7 +21,7 @@
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   1    |   2    |   3  |  4  |  5  |  6  |  7  |
-|     |     |    | |  | |<p><b>알고리즘 주제</b> 삼성기출,브루트포스,정렬,외판원순회</p>|
+|     |     |NH농협은행 인턴-5급 신규 직원 서류 마감| |  | |<p><b>알고리즘 주제</b> 삼성기출,브루트포스,정렬,외판원순회</p>|
 |   8   |      9      |      10      |     11     |    12     |     13     |   14   |
 |||||||<p><b>알고리즘 주제</b> 삼성기출,</p>|
 | 15 |      16       |      17       |      18      |     19     |     20     |21|
@@ -33,7 +33,7 @@
 
 
 ** 채용 공고
-<br>[NH농협은행 인턴-5급 신규 직원](https://nhbank.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=62580) ~08.03 18:00
+<br>
 <br>[한국인터넷진흥원](https://kisa.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp) ~08.05 11:00
 <br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05 14:00
 <br>[KT ds](https://recruit.kt.com/apply/notifyView?seq=65593) ~08.05 23:59
