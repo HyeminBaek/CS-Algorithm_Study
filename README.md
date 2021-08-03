@@ -23,7 +23,7 @@
 |   1    |   2    |   3  |  4  |  5  |  6  |  7  |
 |     |     |NH농협은행 인턴-5급 신규 직원 서류 마감| |  | |<p><b>알고리즘 주제</b> 삼성기출,브루트포스,정렬,외판원순회</p>|
 |   8   |      9      |      10      |     11     |    12     |     13     |   14   |
-|||||||<p><b>알고리즘 주제</b> 삼성기출,</p>|
+|||||||<p><b>알고리즘 주제</b> 삼성기출,</p>토스 NEXT 개발자 챌린지 → 리뷰|
 | 15 |      16       |      17       |      18      |     19     |     20     |21|
 |    ||||||<p><b>알고리즘 주제</b>삼성기출,</p>|
 | 22 |      23        |      24       | 25   |  26  |  27  |  28  |
@@ -33,7 +33,6 @@
 
 
 ** 채용 공고
-<br>[한국인터넷진흥원](https://kisa.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp) ~08.05 11:00
 <br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05 14:00
 <br>[KT ds](https://recruit.kt.com/apply/notifyView?seq=65593) ~08.05 23:59
 <br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08 23:59
