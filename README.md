@@ -33,8 +33,6 @@
 
 
 ** 채용 공고
-<br>[기술보증기금](https://kibo.incruit.com/hire/viewhire.asp?projectid=101) ~08.05 14:00
-<br>[KT ds](https://recruit.kt.com/apply/notifyView?seq=65593) ~08.05 23:59
 <br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08 23:59
 <br>[현대오토에버 신입사원 수시채용](https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=66035) ~08.10 13:00
 <br>[대외경제정책연구원 청년인턴](https://kiep.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=65949) ~08.13 23:59
