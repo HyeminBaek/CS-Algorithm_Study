@@ -25,8 +25,8 @@ int main() {
         int nowL = a[i] - range;
         int nowR = a[i] + range;
 
-        if (l < nowL) l = nowL;  // 새 범위가 앞에 있으면 교체
-        if (l <= r) {            // 새범위랑 기존 범위R이랑 겹치면 겹치는 부분 추가
+        if (l < nowL) l = nowL;  // 새 범위가 카운트 했던 부분보다 앞에 있음
+        if (l <= r) {            // 새 범위랑 기존 범위R이랑 겹치면 그부분 카운트
             ans += (r - l);
             l = r;
         }
