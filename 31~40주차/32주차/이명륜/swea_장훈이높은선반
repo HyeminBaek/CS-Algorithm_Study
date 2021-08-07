@@ -1,0 +1,42 @@
+import java.util.Scanner;
+import java.io.FileInputStream;
+ 
+class Solution
+{
+    public static void main(String args[]) throws Exception
+    {
+        Scanner sc = new Scanner(System.in);
+        int T;
+        T=sc.nextInt();
+ 
+ 
+        for(int test_case = 1; test_case <= T; test_case++)
+        {
+            n= sc.nextInt();
+            B=sc.nextInt();
+            heights = new int[n];
+            for(int i=0;i<n;i++) heights[i] = sc.nextInt();
+            answer=(int)1e9;
+            pick(0,0);
+             
+            System.out.println("#"+test_case+" "+answer);
+        }
+    }
+     
+    private static int n,B;
+    private static int answer;
+    private static int[] heights;
+   
+    private static void pick(int idx,int totalHeight){
+        if(idx ==n){
+            if(totalHeight>=B){
+                answer =Math.min(answer,totalHeight-B);
+            }
+            return;
+        }
+         
+        pick(idx+1,totalHeight);
+        pick(idx+1,totalHeight+heights[idx]);
+    }
+     
+}

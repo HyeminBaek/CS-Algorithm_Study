@@ -1,0 +1,63 @@
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.*;
+import java.io.FileInputStream;
+ 
+class Solution {
+    public static void main(String args[]) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer("");
+ 
+        int T= Integer.parseInt(br.readLine());
+ 
+        for (int test_case = 1; test_case <= T; test_case++) {
+            n = Integer.parseInt(br.readLine());
+            List<int[]> inputs = new ArrayList<>();
+            distances = new int[n+2][n+2];
+ 
+            st = new StringTokenizer(br.readLine());
+ 
+            for (int i = 0; i < n+2; i++) {
+                int row = Integer.parseInt(st.nextToken());
+                int col = Integer.parseInt(st.nextToken());
+                inputs.add(new int[]{row, col});
+            }
+ 
+            for (int here = 0; here < n+2; here++) {
+                for (int nxt = 0; nxt < n+2; nxt++) {
+                    distances[here][nxt] = Math.abs(inputs.get(here)[0] - inputs.get(nxt)[0]);
+                    distances[here][nxt] += Math.abs(inputs.get(here)[1] - inputs.get(nxt)[1]);
+                }
+            }
+ 
+            answer = (int) 1e9;
+            visited = 0;
+ 
+           travel(0, 0);
+ 
+            System.out.println("#" + test_case + " " + answer);
+ 
+        }
+    }
+ 
+    private static int n, answer;
+    private static int[][] distances;
+    private static int visited;
+ 
+    private static void travel(int here, int totalDist) {
+        if (visited == ((1 << (n+2)) - 1 - 1 - 2)) {
+            answer = Math.min(answer, totalDist + distances[here][1]);
+            return;
+        }
+ 
+        for (int nxt = 2; nxt < n+2; nxt++) {
+            if ((visited & (1 << nxt)) != 0) continue;
+            if (here == nxt) continue;
+ 
+            visited ^= (1 << nxt);
+            travel(nxt, totalDist + distances[here][nxt]);
+ 
+            visited ^= (1 << nxt);
+        }
+    }
+}

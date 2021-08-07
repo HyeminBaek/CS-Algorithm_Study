@@ -1,0 +1,123 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer("");
+
+        //wrong approach
+        //작은 사각형일수록 만능이니까 큰 사각형부터 쓰는게 최적일거같은데
+        //그리고 행,열이 증가하는 순서로 붙여나가면 될듯한데..? 이건 조금 애매하다
+        // 위의 2번째 가정이 맞다면 1인 각 칸에 대해
+        // 5->1로 가면서 색종이 붙일 수 있으면 붙이는 시뮬레이션하면 답이 나올 것  xxxxxxxxxxxxxxxxxxxxxxx아니다xxxxxxxx
+
+        //2nd approach
+        //아니면 그냥 큰 색종이부터 쓰도록 루프돌수도 있는데 이러면 항상 답일지 장담할 수 있나?
+
+        //3rd approach
+        //모든 경우를 다 해봐야 될듯
+        //백트래킹? dfs써서
+        //시간 안에 되나??
+        //각 색종이가 몇개 남았는지 정보를 가지고 있어야겠고
+        //맵의 상태도 알아야하는데
+        //구현은 .. 일단 0인 칸은 넘어가고
+        //1인 칸에 대해서 색종이를 적용할지 말지..?
+
+        //이런 구조로 백트래킹
+        // 종료 조건 검사
+        //attach for 1~5 , 색종이 수 감소
+        // 재귀
+        //detach for applied 색종이 , 색종이 증가
+
+        map = new int[mapSize][mapSize];
+
+        for (int row = 0; row < mapSize; row++) {
+            st = new StringTokenizer(br.readLine());
+            for (int col = 0; col < mapSize; col++) {
+                map[row][col] = Integer.parseInt(st.nextToken());
+            }
+        }
+
+        backTrack(0, 0, 0);
+
+        System.out.println(minUsedCnt == 25 ? -1:minUsedCnt);
+    }
+
+    private static int[][] map;
+    private static int[] papers = new int[]{5, 5, 5, 5, 5};
+    private static int minUsedCnt = 25;
+    private static final int mapSize = 10;
+
+    private static void backTrack(int row, int col, int usedCnt) {
+        //가지치기
+        if (usedCnt >= minUsedCnt) return;
+
+        //종료검사
+        if (row == mapSize - 1 && col == mapSize) {
+            minUsedCnt = Math.min(minUsedCnt, usedCnt);
+            return;
+        }
+
+        if (col >= mapSize) {
+            backTrack(row + 1, 0, usedCnt);
+            return;     //이거 안 붙여서 오래 헤맸음.
+        }
+
+//        System.out.println(row+" "+col+" "+mapSize);
+
+        if (map[row][col] == State.NEED.value) {
+            for (int size = 5; size >= 1; size--) {
+
+                //유효 검사
+                if (row + size > mapSize || col + size > mapSize) continue;
+                if (papers[size - 1] == 0) continue;
+                if (canAttach(row, col, size) == false) continue;
+
+                //attach
+                papers[size - 1]--;
+
+                for (int r = row; r < row + size; r++) {
+                    for (int c = col; c < col + size; c++) {
+                        map[r][c] = State.PAPER.value;
+                    }
+                }
+
+                backTrack(row, col + 1, usedCnt + 1);
+
+                //detach
+                papers[size - 1]++;
+                for (int r = row; r < row + size; r++) {
+                    for (int c = col; c < col + size; c++) {
+                        map[r][c] = State.NEED.value;
+                    }
+                }
+            }
+        } else {
+            backTrack(row, col + 1, usedCnt);
+        }
+    }
+
+    private static boolean canAttach(int row, int col, int size) {
+        if (row + size > mapSize || col + size > mapSize) return false;
+
+        for (int r = row; r < row + size; r++) {
+            for (int c = col; c < col + size; c++) {
+                if (map[r][c] != State.NEED.value) {
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+    static enum State {
+        DONT_CARE(0), NEED(1), PAPER(2);
+
+        private final int value;
+
+        State(int value) {
+            this.value = value;
+        }
+    }
+}

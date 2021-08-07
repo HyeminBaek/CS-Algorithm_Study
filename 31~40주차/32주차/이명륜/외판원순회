@@ -1,0 +1,80 @@
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer("");
+
+        //visited 목록 필요. 각 도시를 bit로 표현하면 도시가 16개니까 하나의 인트형 숫자로 표현가능한데
+        //그냥 시뮬레이션하면 16!이라 안되고
+        // dp[from][to] = from 에서 to까지 가기 위한 최소 비용이라 하던가?
+        //넘으면 가지치기 해주면 경우의 수 많이 줄어들려나??
+
+        //xxxxxxxxxxxxxxxxxxxxxx
+        //dp[from][to]가 아니라 **************dp[from][visited]로 둬야하구나*************
+
+
+        N = Integer.parseInt(br.readLine());
+        weights = new int[N][N];
+        minWeightSum = new long[N][(1 << (N + 1))];
+
+        for (int from = 0; from < N; from++) {
+            st = new StringTokenizer(br.readLine());
+            for (int to = 0; to < N; to++) {
+                weights[from][to] = Integer.parseInt(st.nextToken());
+                if(weights[from][to]==0) weights[from][to]=MAX;
+            }
+        }
+
+        long answer = MAX;
+
+        for (int city = 0; city < N; city++) {
+            visitedAll |= (1 << city);
+        }
+
+        for (int start = 0; start < N; start++) {
+
+            for (int from = 0; from < N; from++) {
+                for (int visited = 0; visited < (1 << (N + 1)); visited++) {
+                    minWeightSum[from][visited] = -1;
+                }
+            }
+
+            answer = Math.min(answer, travel(start, start, (1 << start)));
+        }
+
+        System.out.println(answer);
+    }
+
+    private static final int MAX =(int)2e8;
+    private static int N;
+    private static int weights[][];
+    private static long minWeightSum[][];
+    private static int visitedAll;
+
+    private static long travel(int start, int here, int visited) {
+        if (visited == visitedAll) {
+            return weights[here][start];
+        }
+
+        if (minWeightSum[here][visited] != -1) return minWeightSum[here][visited];
+        minWeightSum[here][visited] = MAX;
+
+        for (int to = 0; to < N; to++) {
+            int nextCity = 1 << to;
+            if ((visited & nextCity) != 0) {
+                continue;
+            }
+
+            minWeightSum[here][visited] = Math.min(
+                            minWeightSum[here][visited],
+                            travel(start, to, visited | nextCity) + weights[here][to]
+                    );
+        }
+
+        return minWeightSum[here][visited];
+    }
+}

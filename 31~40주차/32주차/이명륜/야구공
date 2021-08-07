@@ -1,0 +1,104 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer("");
+
+        //4번 타자는 1번 선수가 들어간댔으니 고정
+        // 나머지는 순열로 구해서
+        // 가능한 모든 타순에 대해 시물레이션 해주면 되겠다
+
+        //시뮬레이션은 각 이닝에서 아웃카운트,현재 몇번 타자인지만 알면 되겠고
+        //가장 많은 득점을 찾으면 됨
+
+        INNING = Integer.parseInt(br.readLine());
+
+        hitResult = new int[INNING + 1][10];
+
+        for (int inning = 1; inning <= INNING; inning++) {
+            st = new StringTokenizer(br.readLine());
+            for (int idx = 0; idx < 9; idx++) {
+                hitResult[inning][idx] = Integer.parseInt(st.nextToken());
+            }
+        }
+
+        // 순열
+        constructPermutation();
+
+        System.out.println(maxScore);
+
+    }
+
+    private static int INNING;
+    private static int[][] hitResult;
+    private static boolean[] visited = new boolean[10];
+    private static List<Integer> permutation = new ArrayList<>();
+    private static int maxScore;
+
+    private static void constructPermutation() {
+        if (permutation.size() == 8) {
+            simulate();
+            return;
+        }
+
+        for (int idx = 1; idx <= 8; idx++) {
+            if (visited[idx]) continue;
+
+            visited[idx] = true;
+            permutation.add(idx);
+
+            constructPermutation();
+
+            visited[idx] = false;
+            permutation.remove(permutation.size() - 1);
+        }
+    }
+
+    private static void simulate() {
+        List<Integer> permutationHere = new ArrayList<>(permutation);
+        permutationHere.add(3, 0);
+
+        int nowHitterIdx = 0;
+        int score = 0;
+        int[] state = new int[4];
+
+        for (int inning = 1; inning <= INNING; inning++) {
+            int outCount = 0;
+
+            while (outCount < 3) {
+                int nowHitter = permutationHere.get(nowHitterIdx);
+                int hit = hitResult[inning][nowHitter];
+                nowHitterIdx++;
+                nowHitterIdx %= 9;
+
+                if (hit == 0) {
+                    outCount++;
+                    continue;
+                }
+
+                for (int base = 3; base >= 1; base--) {
+                    if (state[base] == 0) continue;
+
+                    int nxtBase = base + hit;
+
+                    if (nxtBase >= 4) score++;
+                    else state[nxtBase] = 1;
+
+                    state[base] = 0;
+                }
+
+                if (hit != 4) {
+                    state[hit] = 1;
+                } else {
+                    score++;
+                }
+            }
+
+            for (int si = 0; si <= 3; si++) state[si] = 0;
+        }
+
+        maxScore = Math.max(maxScore, score);
+    }
+}
