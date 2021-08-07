@@ -1,0 +1,119 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer("");
+
+        //놓고 시뮬레이션하면 되겠다
+        //놓는 경우는 15C3정도고..
+        //시뮬레이션은 시간에 따라 적들의 행이 증가함에 따라
+        //주어진 규칙에 따라 죽여주는 시뮬레이션
+        //어떤 궁수에서 가장 가까운 적을 찾는건 bfs할 필요없이 그냥 완탐해서 보면 됨
+        // 완탐해서 최소 거리인 (행,열) 찾을 수 있지
+
+        st = new StringTokenizer(br.readLine());
+        R = Integer.parseInt(st.nextToken());
+        C = Integer.parseInt(st.nextToken());
+        D = Integer.parseInt(st.nextToken());
+
+        map = new int[R][C];
+
+        for (int r = 0; r < R; r++) {
+            st = new StringTokenizer(br.readLine());
+            for (int c = 0; c < C; c++) {
+                map[r][c] = Integer.parseInt(st.nextToken());
+            }
+        }
+
+        pick();
+        System.out.println(answer);
+    }
+
+    private static int R, C, D;
+    private static List<Integer> picked = new ArrayList<>();
+    private static int[][] map;
+    private static int answer;
+
+    private static void pick() {
+        if (picked.size() == 3) {
+            //System.out.println(picked);
+            answer = Math.max(answer, killEnemy());
+            return;
+        }
+
+        int smallest = picked.isEmpty() ? 0 : picked.get(picked.size() - 1) + 1;
+
+        for (int nxt = smallest; nxt < C; nxt++) {
+            picked.add(nxt);
+            pick();
+            picked.remove(picked.size() - 1);
+        }
+    }
+
+    private static int killEnemy() {
+        int[][] tmpMap = new int[R][C];
+        for (int r = 0; r < R; r++) {
+            for (int c = 0; c < C; c++) {
+                tmpMap[r][c] = map[r][c];
+            }
+        }
+        int killedEnemy = 0;
+
+        for (int t = 0; t < R; t++) {
+            //1. 가장 가까운 적 찾아서 없애고
+            //2. 적들 접근(중력함수와 동일한)
+
+            List<int[]> toKill = new ArrayList<>();
+
+            for (int p : picked) {
+                int minDist = (int) 1e9;
+                int[] enemy = new int[]{-1, -1};
+
+                for (int r = 0; r < R; r++) {
+                    for (int c = 0; c < C; c++) {
+                        if (tmpMap[r][c] == 0) continue;
+
+                        int distHere = (R - r) + Math.abs(p - c);
+                        if (distHere > D) continue;
+
+                        if (distHere < minDist) {
+                            minDist = distHere;
+                            enemy[0] = r;
+                            enemy[1] = c;
+                        } else if (distHere == minDist) {
+                            if (c < enemy[1]) {
+                                enemy[0] = r;
+                                enemy[1] = c;
+                            }
+                        }
+                    }
+                }
+
+                if (enemy[0] != -1 && enemy[1] != -1) {
+                    toKill.add(enemy);
+                }
+            }
+
+            for (int[] enemy : toKill) {
+                int row = enemy[0];
+                int col = enemy[1];
+                if (tmpMap[row][col] != 0) killedEnemy++;
+                tmpMap[row][col] = 0;
+            }
+
+            //중력 함수
+            for (int r = R - 2; r >= 0; r--) {
+                for (int c = 0; c < C; c++) {
+                    tmpMap[r + 1][c] = tmpMap[r][c];
+                }
+            }
+            for (int c = 0; c < C; c++) tmpMap[0][c] = 0;
+
+        }
+
+        return killedEnemy;
+    }
+
+}

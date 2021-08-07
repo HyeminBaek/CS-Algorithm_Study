@@ -1,0 +1,125 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+
+        //400C2 하면  6만개의 경우의 수 정도. ( 근데 빈칸만 선택한다면 경우의 수 좀 더 작을 것)
+        //그리고 각각의 경우에서 모든 적의 돌에서 bfs를 진행해서 인전한 모든 칸을 찾고..
+
+        //둘러 싸인 줄 어떻게 알지...
+        //=> 어느 그룹이 빈틈없이 에워싸였다는 것은 그 그룹 내에 빈 칸과 인접해있는 돌이 하나도 없다는 것과 동치이다.
+        //그럼 쉽지
+
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer("");
+
+        st = new StringTokenizer(br.readLine());
+        R=Integer.parseInt(st.nextToken());
+        C=Integer.parseInt(st.nextToken());
+        mapSize =R*C;
+
+        map = new int[R][C];
+
+        for(int i=0;i<R;i++){
+            st = new StringTokenizer(br.readLine());
+            for(int j=0;j<C;j++){
+                map[i][j] = Integer.parseInt(st.nextToken());
+            }
+        }
+
+        pick();
+
+        System.out.println(answer);
+    }
+
+    private static int R,C,mapSize;
+    private static int[][] map;
+    private static List<Integer> picked = new ArrayList<>();
+
+    private static void pick(){
+        if(picked.size()==2){
+            simulate();
+            return;
+        }
+
+        int smallest = picked.isEmpty() ? 0:picked.get(picked.size()-1)+1;
+
+        for(int nxt=smallest;nxt<=mapSize-1;nxt++){
+            picked.add(nxt);
+            pick();
+            picked.remove(picked.size()-1);
+        }
+    }
+
+
+    private static int[][] tmpMap;
+
+    private static void simulate(){
+        tmpMap = new int[R][C];
+        for(int r=0;r<R;r++){
+            for(int c=0;c<C;c++){
+                tmpMap[r][c] = map[r][c];
+            }
+        }
+
+        List<int[]> positions = new ArrayList<>();
+        for(int i=0;i<2;i++){
+            positions.add(new int[]{picked.get(i)/C,picked.get(i)%C});
+        }
+
+        for(int i=0;i<2;i++){
+            int row =positions.get(i)[0];
+            int col =positions.get(i)[1];
+            if(tmpMap[row][col]!=0) return ;
+            tmpMap[row][col]=1;
+        }
+
+        int cnt=0;
+        visited= new boolean[R][C];
+
+        for(int r=0;r<R;r++){
+            for(int c=0;c<C;c++){
+                if(tmpMap[r][c]!=2) continue;
+                if(visited[r][c]) continue;
+
+                emptyExists =false;
+                cntEnemy=0;
+
+                dfs(r,c);
+
+                if(emptyExists==false){
+                    cnt+=cntEnemy;
+                }
+            }
+        }
+
+        answer =Math.max(answer,cnt);
+    }
+
+    private static int answer;
+
+    //dfs 탐색하며 체크.. 빈칸 있는지와 갇힌 적이 몇명인지
+    private static int cntEnemy;
+    private static boolean emptyExists;
+    private static int[][] DIRS = new int[][]{{0,-1},{-1,0},{0,1},{1,0}};
+    private static boolean[][] visited;
+
+    private static void dfs(int r,int c){
+        cntEnemy++;
+        visited[r][c]=true;
+
+        for(int d=0;d<4;d++){
+            int nr = r+DIRS[d][0];
+            int nc= c+DIRS[d][1];
+
+            if(nr<0 || nr>=R || nc<0 || nc>=C) continue;
+            if(tmpMap[nr][nc]==0) emptyExists =true;
+            if(visited[nr][nc]==false && tmpMap[nr][nc]==2) dfs(nr,nc);
+        }
+    }
+
+
+
+
+}

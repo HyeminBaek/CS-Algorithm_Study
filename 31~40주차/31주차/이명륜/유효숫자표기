@@ -1,0 +1,45 @@
+import java.util.Scanner;
+import java.io.FileInputStream;
+ 
+class Solution
+{
+    public static void main(String args[]) throws Exception
+    {
+ 
+        Scanner sc = new Scanner(System.in);
+        int T;
+        T=sc.nextInt();
+ 
+        for(int test_case = 1; test_case <= T; test_case++)
+        {
+                String num= sc.next();
+             
+                int nowNumber =0;
+                //StringBuilder answer = new StringBuilder();
+                String answer ="";
+             
+                System.out.print("#"+test_case+" ");
+                int carry = (num.charAt(2)-'0' >=5 ? 1:0);
+                for(int i=1;i>=0;i--){
+                    int here=num.charAt(i)-'0';
+                    nowNumber=here+carry;
+                    carry=(nowNumber/10);
+                    nowNumber%=10;
+                 answer=(""+(char)(nowNumber+'0'))+answer;
+                }
+                int expo = num.length()-1;
+                if(carry!=0){
+                    answer=(""+(char)(carry+'0'))+answer;
+                    expo+=1;
+                }
+                 
+                System.out.print(answer.charAt(0));
+                System.out.print(".");
+                System.out.print(answer.charAt(1));
+                System.out.print("*10^");
+                System.out.println(expo);
+            }
+ 
+         
+    }
+}

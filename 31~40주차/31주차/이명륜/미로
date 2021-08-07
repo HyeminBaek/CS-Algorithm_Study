@@ -1,0 +1,64 @@
+import java.util.Scanner;
+import java.io.FileInputStream;
+ 
+class Solution
+{
+    public static void main(String args[]) throws Exception
+    {
+ 
+        Scanner sc = new Scanner(System.in);
+         
+         
+        for(int test_case = 1; test_case <= 10; test_case++)
+        {
+            int T;
+        T=sc.nextInt();
+            int[] from = new int[]{0,0};
+             
+            map = new int[16][16];
+            for(int row=0;row<16;row++){
+                String input = sc.next();
+                for(int col=0;col<16;col++){
+                    map[row][col] = input.charAt(col)-'0';
+                    if(map[row][col] ==2) {
+                        from[0] = row;
+                        from[1] = col;
+                    }
+                }
+            }
+ 
+            visited = new boolean[16][16];
+            answer=0;
+            dfs(from[0],from[1]);
+             
+            System.out.println("#"+test_case+" "+answer);
+        }
+    }
+     
+     
+    private static int[][] map;
+    private static int[] to;
+    private static boolean[][] visited;
+    private static int[][] DIRS = new int[][]{{-1,0},{0,1},{1,0},{0,-1}};
+    private static int answer;
+     
+    private static void dfs(int row,int col){
+        visited[row][col] =true;
+        //System.out.println(row+" "+col);
+        if(answer==1) return;
+         
+        if(map[row][col]==3){
+            answer=1;
+            return;
+        }
+ 
+        for(int d=0;d<4;d++){
+            int nr = row+DIRS[d][0];
+            int nc = col+DIRS[d][1];
+            if(nr<0 || nr>=16 || nc<0 || nc>=16) continue;
+            if(visited[nr][nc]==false && map[nr][nc]!=1) dfs(nr,nc);
+        }
+    }
+     
+}
+

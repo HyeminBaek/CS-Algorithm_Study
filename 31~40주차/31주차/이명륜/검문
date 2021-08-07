@@ -1,0 +1,63 @@
+import java.io.*;
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) throws IOException {
+
+        //나머지는 0~가장 작은 수 까지 나올 수 있겠네.
+        // 근데 또 수 -1은 못나오네
+        //5 => 0,1,2,3,4,5
+        //  => 5,4,3,2,x,(5보다 큰 수)
+        //14 => 0~14 (except 13)
+
+        //나누는 수 M은 몫*피제수 +나머지 꼴일텐데..
+        //어떤 두 수 A,B를 M으로 나눠서 나머지가 같다는 말은
+        // A=M*몫1 +r
+        // B=M*몫2 +r
+        //=> A-B = M*(몫1-몫2)
+        // A-B는 M으로 나눠떨어져야 하네
+        //==> 걍 모든 경우의 수 쌍들의 차의 gcd구하면 되겠네
+        //그렇게 구한 최대공약수의 1을 제외한 약수는 모두 식을 만족하겠네
+
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringTokenizer st = new StringTokenizer("");
+
+        int n = Integer.parseInt(br.readLine());
+        List<Integer> list = new ArrayList<>();
+        for(int i=0;i<n;i++){
+            list.add(Integer.parseInt(br.readLine()));
+        }
+
+        list.sort(Integer::compareTo);
+
+        List<Integer> diff = new ArrayList<>();
+
+        for(int i=0;i<n;i++){
+            for(int j=i+1;j<n;j++){
+                diff.add(list.get(j)-list.get(i));
+            }
+        }
+
+        int gcd =diff.get(0);
+        for(int i=1;i<diff.size();i++) gcd = gcd(gcd,diff.get(i));
+
+        List<Integer> divisors = new ArrayList<>();
+
+        for(int i=2;i*i<=gcd;i++){
+            if(gcd%i==0){
+                divisors.add(i);
+                if(gcd/i !=i) divisors.add(gcd/i);
+            }
+        }
+
+        divisors.add(gcd);
+        divisors.sort(Integer::compareTo);
+
+        for(int div:divisors) System.out.print(div+" ");
+    }
+
+    private static int gcd(int a,int b){
+        if(a%b !=0) return gcd(b,a%b);
+        else return b;
+    }
+}

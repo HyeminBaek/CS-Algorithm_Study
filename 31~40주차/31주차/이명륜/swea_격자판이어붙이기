@@ -1,0 +1,53 @@
+import java.util.*;
+import java.io.FileInputStream;
+ 
+class Solution
+{
+    public static void main(String args[]) throws Exception
+    {
+     
+        Scanner sc = new Scanner(System.in);
+        int T;
+        T=sc.nextInt();
+         
+        for(int test_case = 1; test_case <= T; test_case++)
+        {
+            map = new int[4][4];
+            for(int r=0;r<4;r++){
+                for(int c=0;c<4;c++){
+                    map[r][c] = sc.nextInt();
+                }
+            }
+             
+            set = new HashSet<>();
+           
+            for(int r=0;r<4;r++){
+                for(int c=0;c<4;c++){
+                    dfs(0,r,c,map[r][c]);
+                }
+            }
+             
+            System.out.println("#"+test_case+" "+set.size());
+        }
+    }
+     
+    private static Set<Integer> set;
+    private static int[][] DIRS = new int[][] { {0,-1},{-1,0}, {0,1} , {1,0}};
+    private static int[][] map;
+     
+    private static void dfs(int depth,int r,int c,int number){
+        if(depth==6){
+            set.add(number);
+            return;
+        }
+         
+        for(int d=0;d<4;d++){
+            int nr = r+DIRS[d][0];
+            int nc = c+ DIRS[d][1];
+            if(nr<0 || nr>=4 || nc<0 || nc>=4) continue;
+            int nxtNumber = number*10;
+            nxtNumber+=map[nr][nc];
+            dfs(depth+1,nr,nc,nxtNumber);
+        }
+    }
+}
