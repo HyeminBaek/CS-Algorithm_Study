@@ -25,7 +25,7 @@
 |   8   |      9      |      10      |     11     |    12     |     13     |   14   |
 |||||||<p><b>알고리즘 주제</b> 삼성기출,스택,그래프,PQ,이분탐색</p>토스 NEXT 개발자 챌린지 → 리뷰|
 | 15 |      16       |      17       |      18      |     19     |     20     |21|
-|    ||||||<p><b>알고리즘 주제</b>삼성기출,</p>|
+|    ||KDB산업은행 청년인턴 최종 발표|||하나금융TI 서류 발표|<p><b>알고리즘 주제</b>삼성기출,</p>|
 | 22 |      23        |      24       | 25   |  26  |  27  |  28  |
 |||||||<p><b>알고리즘 주제</b>삼성기출,</p>2021년 2차 Softeer 정기 역량 진단|
 | 29 |30|31|1|2|3|4|
@@ -33,7 +33,6 @@
 
 
 ** 채용 공고
-<br>[하나금융TI](https://hanati.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=60379) ~08.08 23:59
 <br>[현대오토에버 신입사원 수시채용](https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=66035) ~08.10 13:00
 <br>[대외경제정책연구원 청년인턴](https://kiep.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=65949) ~08.13 23:59
 <br>[한국투자공사 청년인턴](https://www.jobkorea.co.kr/Recruit/GI_Read/35542860?Oem_Code=C1&PageGbn=ST) ~08.17 17:00
