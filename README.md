@@ -33,9 +33,12 @@
 
 
 ** 채용 공고
-<br>[현대오토에버 신입사원 수시채용](https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=66035) ~08.10 13:00
 <br>[대외경제정책연구원 청년인턴](https://kiep.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=65949) ~08.13 23:59
+<br>[ADT캡스 정보보안 개발직군 채용연계형 인턴](https://linkareer.com/activity/66762?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~08.16
+<br>[윈스 수시 채용](https://wins21.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=66769) ~08.16 23:59
 <br>[한국투자공사 청년인턴](https://www.jobkorea.co.kr/Recruit/GI_Read/35542860?Oem_Code=C1&PageGbn=ST) ~08.17 17:00
 <br>[예금보험공사](https://www.kdic.or.kr/introduce/recruitDetail.do) ~08.17 17:00
 <br>[한국거래소](https://jrs.jobkorea.co.kr/krx/krx212/Agi/Invite) ~08.18 18:00
-<br>[구름 채용연계형 인턴](https://www.notion.so/46236f6890394c73a515f52f594d676b)
+<br>[안랩 자소서Free 신입채용](https://ahnlab.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=67017) ~08.22 23:59
+<br>[금융보안원](https://fsec.saramin.co.kr/service/fsec/2108/applicant/apply/recruit_default.asp) ~09.03 17:00
+<br>[NHN 서비스보안 인턴](https://linkareer.com/activity/66687?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~10.31 //단, 채용시 내려갈 수 있음에 유의
