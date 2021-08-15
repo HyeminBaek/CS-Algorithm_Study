@@ -33,8 +33,6 @@
 
 
 ** 채용 공고
-<br>[ADT캡스 정보보안 개발직군 채용연계형 인턴](https://linkareer.com/activity/66762?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~08.16
-<br>[윈스 수시 채용](https://wins21.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=66769) ~08.16 23:59
 <br>[한국투자공사 청년인턴](https://www.jobkorea.co.kr/Recruit/GI_Read/35542860?Oem_Code=C1&PageGbn=ST) ~08.17 17:00
 <br>[예금보험공사](https://www.kdic.or.kr/introduce/recruitDetail.do) ~08.17 17:00
 <br>[한국거래소](https://jrs.jobkorea.co.kr/krx/krx212/Agi/Invite) ~08.18 18:00
