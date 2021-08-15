@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[Brainf**k 인터프리터](https://www.acmicpc.net/problem/3954)  ⑵[배열 돌리기](https://www.acmicpc.net/problem/17406)  ⑶[미로 탈출하기](https://www.acmicpc.net/problem/17090)  ⑷[Cow Dance Show](https://www.acmicpc.net/problem/14452)  ⑸[문자열 잘라내기](https://www.acmicpc.net/problem/2866)
+✏️ `이번주 문제(백준)` : ⑴[게리맨더링](https://www.acmicpc.net/problem/3954)  ⑵[풀자](https://www.acmicpc.net/problem/17406)  ⑶[방탈출](https://www.acmicpc.net/problem/17090)  ⑷[간선 추가](https://www.acmicpc.net/problem/14452)  ⑸[임계 경로](https://www.acmicpc.net/problem/2866)
 
 <h3> 📅 8월 </h3>
 
