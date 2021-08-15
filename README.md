@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[게리맨더링](https://www.acmicpc.net/problem/3954)  ⑵[풀자](https://www.acmicpc.net/problem/17406)  ⑶[방탈출](https://www.acmicpc.net/problem/17090)  ⑷[간선 추가](https://www.acmicpc.net/problem/14452)  ⑸[임계 경로](https://www.acmicpc.net/problem/2866)
+✏️ `이번주 문제(백준)` : ⑴[게리맨더링](https://www.acmicpc.net/problem/17471)  ⑵[풀자](https://www.acmicpc.net/problem/1332)  ⑶[방탈출](https://www.acmicpc.net/problem/15729)  ⑷[간선 추가](https://www.acmicpc.net/problem/1178)  ⑸[임계 경로](https://www.acmicpc.net/problem/1948)
 
 <h3> 📅 8월 </h3>
 
@@ -25,7 +25,7 @@
 |   8   |      9      |      10      |     11     |    12     |     13     |   14   |
 |||||||<p><b>알고리즘 주제</b> 삼성기출,스택,그래프,PQ,이분탐색</p>토스 NEXT 개발자 챌린지 → 리뷰|
 | 15 |      16       |      17       |      18      |     19     |     20     |21|
-|    ||KDB산업은행 청년인턴 최종 발표|||하나금융TI 서류 발표|<p><b>알고리즘 주제</b>삼성기출,</p>|
+|    ||KDB산업은행 청년인턴 최종 발표|||하나금융TI 서류 발표|<p><b>알고리즘 주제</b>삼성기출,브루트포스,그리디,그래프</p>|
 | 22 |      23        |      24       | 25   |  26  |  27  |  28  |
 |||||||<p><b>알고리즘 주제</b>삼성기출,</p>2021년 2차 Softeer 정기 역량 진단|
 | 29 |30|31|1|2|3|4|
