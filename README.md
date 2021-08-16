@@ -37,5 +37,7 @@
 <br>[예금보험공사](https://www.kdic.or.kr/introduce/recruitDetail.do) ~08.17 17:00
 <br>[한국거래소](https://jrs.jobkorea.co.kr/krx/krx212/Agi/Invite) ~08.18 18:00
 <br>[안랩 자소서Free 신입채용](https://ahnlab.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=67017) ~08.22 23:59
+<br>[LG전자 채용연계형 인턴십](https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi) ~08.23 10:00
+<br>[신한DS](https://shinhands.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=67100) ~08.26 23:59
 <br>[금융보안원](https://fsec.saramin.co.kr/service/fsec/2108/applicant/apply/recruit_default.asp) ~09.03 17:00
 <br>[NHN 서비스보안 인턴](https://linkareer.com/activity/66687?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~10.31 //단, 채용시 내려갈 수 있음에 유의
