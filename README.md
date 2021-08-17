@@ -33,8 +33,6 @@
 
 
 ** 채용 공고
-<br>[한국투자공사 청년인턴](https://www.jobkorea.co.kr/Recruit/GI_Read/35542860?Oem_Code=C1&PageGbn=ST) ~08.17 17:00
-<br>[예금보험공사](https://www.kdic.or.kr/introduce/recruitDetail.do) ~08.17 17:00
 <br>[한국거래소](https://jrs.jobkorea.co.kr/krx/krx212/Agi/Invite) ~08.18 18:00
 <br>[안랩 자소서Free 신입채용](https://ahnlab.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=67017) ~08.22 23:59
 <br>[LG전자 채용연계형 인턴십](https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi) ~08.23 10:00
