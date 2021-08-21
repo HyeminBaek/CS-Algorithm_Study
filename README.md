@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : ⑴[게리맨더링](https://www.acmicpc.net/problem/17471)  ⑵[풀자](https://www.acmicpc.net/problem/1332)  ⑶[방탈출](https://www.acmicpc.net/problem/15729)  ⑷[간선 추가](https://www.acmicpc.net/problem/1178)  ⑸[임계 경로](https://www.acmicpc.net/problem/1948)
+✏️ `이번주 문제(백준)` : ⑴[스티커 정리 1](https://www.acmicpc.net/problem/1101)  ⑵[영훈이의 색칠공부](https://www.acmicpc.net/problem/14578)  ⑶[장난꾸러기 영훈](https://www.acmicpc.net/problem/12025)  ⑷[트리의 기둥과 가지](https://www.acmicpc.net/problem/20924)  ⑸[시계 사진들](https://www.acmicpc.net/problem/10266)
 
 <h3> 📅 8월 </h3>
 
@@ -27,7 +27,7 @@
 | 15 |      16       |      17       |      18      |     19     |     20     |21|
 |    ||KDB산업은행 청년인턴 최종 발표|||하나금융TI 서류 발표|<p><b>알고리즘 주제</b>삼성기출,브루트포스,그리디,그래프</p>|
 | 22 |      23        |      24       | 25   |  26  |  27  |  28  |
-|||||||<p><b>알고리즘 주제</b>삼성기출,</p>2021년 2차 Softeer 정기 역량 진단|
+|||||||<p><b>알고리즘 주제</b>영훈이 시리즈(그리디,브루트포스,DP,수학),트리,kmp</p>2021년 2차 Softeer 정기 역량 진단|
 | 29 |30|31|1|2|3|4|
 |||하나금융TI 코딩테스트||||<p><b>알고리즘 주제</b>삼성기출,</p>|
 
