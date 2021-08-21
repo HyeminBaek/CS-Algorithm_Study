@@ -33,7 +33,6 @@
 
 
 ** 채용 공고
-<br>[안랩 자소서Free 신입채용](https://ahnlab.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=67017) ~08.22 23:59
 <br>[LG전자 채용연계형 인턴십](https://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi) ~08.23 10:00
 <br>[신한DS](https://shinhands.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=67100) ~08.26 23:59
 <br>[새마을금고중앙회](https://www.kfcc.co.kr/recruit/rec0095.do) ~08.30 14:00
