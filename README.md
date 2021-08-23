@@ -41,5 +41,6 @@
 <br>[금융보안원](https://fsec.saramin.co.kr/service/fsec/2108/applicant/apply/recruit_default.asp) ~09.03 17:00
 <br>[KAKAO](https://programmers.co.kr/competitions/1571) ~09.06 17:00 
 <br>[LINE](https://www.careers-2021-liner.com/) ~09.06 17:00
+<br>[롯데정보통신](https://recruit.lotte.co.kr/apply/announcement/detail/20288001?compcd=30007) ~09.07 17:00
 <br>[한화생명보험](https://www.hanwhalife.com) SSAFY 특별채용 ~09.10
 <br>[NHN 서비스보안 인턴](https://linkareer.com/activity/66687?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~10.31 //단, 채용시 내려갈 수 있음에 유의
