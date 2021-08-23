@@ -36,6 +36,7 @@
 <br>[신한DS](https://shinhands.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=67100) ~08.26 23:59
 <br>[새마을금고중앙회](https://www.kfcc.co.kr/recruit/rec0095.do) ~08.30 14:00
 <br>[금융감독원](https://www.saramin.co.kr/zf_user/jobs/relay/view?isMypage=no&rec_idx=40962726&recommend_ids=eJxNjLsNxFAMw6a53n%2FJdQbJ%2FlvcQwLErgyCpkLgQMtN1R%2BukHPF7SAf7Aqv%2FJAMw9gTesXYSO5ndYIzpRnEWAhltZmwZVO7uabOcA1a9Nv%2BAawBKbo%3D&view_type=search&searchword=%EA%B8%88%EC%9C%B5%EA%B0%90%EB%8F%85%EC%9B%90&searchType=search&gz=1&t_ref_content=generic&t_ref=search&paid_fl=n#seq=0) ~08.31 17:00
+<br>[키스채권평가](https://kispricing.saramin.co.kr/_service/zlight/apply_site/apply/recruit_default.asp) ~08.31 23:00
 <br>[웰컴에프앤디(웰컴금융그룹)](SSAFY 특별채용) ~08.31
 <br>[한국수력원자력](https://www.khnp.co.kr/RECU_NEW/RECU_NEW?cmdn=NEW_BQ11) ~09.03 15:00
 <br>[금융보안원](https://fsec.saramin.co.kr/service/fsec/2108/applicant/apply/recruit_default.asp) ~09.03 17:00
