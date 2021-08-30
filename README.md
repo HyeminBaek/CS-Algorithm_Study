@@ -41,4 +41,5 @@
 <br>[신용보증기금](https://kodit.saramin.co.kr/service/kodit/2146/applicant/apply/recruit_default.asp) ~09.07 14:00
 <br>[롯데정보통신](https://recruit.lotte.co.kr/apply/announcement/detail/20288001?compcd=30007) ~09.07 17:00
 <br>[한화생명보험](https://www.hanwhalife.com) SSAFY 특별채용 ~09.10
+<br>[교보증권](https://iprovest.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=68911) ~09.13 17:00
 <br>[NHN 서비스보안 인턴](https://linkareer.com/activity/66687?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~10.31 //단, 채용시 내려갈 수 있음에 유의
