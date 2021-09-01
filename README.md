@@ -33,6 +33,17 @@
 
 
 ** 채용 공고
+신한카드(9월6일)
+
+c&c(9월8일)
+부산은행(9월8일)
+경남은행 (9월 8일)
+
+미래에셋 (9월12일)
+lg 유플러스(9월 13일)
+
+기업은행(9월24일)
+DB그룹(10월7일)
 <br>[한국수력원자력](https://www.khnp.co.kr/RECU_NEW/RECU_NEW?cmdn=NEW_BQ11) ~09.03 15:00
 <br>[신한카드](http://shcard2.incruit.com/hire/viewhire.asp?projectid=104) ~09.06 17:00 
 <br>[LINE](https://www.careers-2021-liner.com/) ~09.06 17:00
