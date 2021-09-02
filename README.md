@@ -33,17 +33,13 @@
 
 
 ** 채용 공고
-신한카드(9월6일)
-
 c&c(9월8일)
-부산은행(9월8일)
-경남은행 (9월 8일)
 
 미래에셋 (9월12일)
 lg 유플러스(9월 13일)
 
 기업은행(9월24일)
-DB그룹(10월7일)
+
 <br>[한국수력원자력](https://www.khnp.co.kr/RECU_NEW/RECU_NEW?cmdn=NEW_BQ11) ~09.03 15:00
 <br>[신한카드](http://shcard2.incruit.com/hire/viewhire.asp?projectid=104) ~09.06 17:00 
 <br>[LINE](https://www.careers-2021-liner.com/) ~09.06 17:00
@@ -51,4 +47,5 @@ DB그룹(10월7일)
 <br>[롯데정보통신](https://recruit.lotte.co.kr/apply/announcement/detail/20288001?compcd=30007) ~09.07 17:00
 <br>[한화생명보험](https://www.hanwhalife.com) SSAFY 특별채용 ~09.10
 <br>[교보증권](https://iprovest.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=68911) ~09.13 17:00
+<br>[DB그룹](https://dbgroup.recruiter.co.kr/app/jobnotice/list) ~10.07 17:00
 <br>[NHN 서비스보안 인턴](https://linkareer.com/activity/66687?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~10.31 //단, 채용시 내려갈 수 있음에 유의
