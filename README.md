@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek) [이명륜](https://github.com/auddl0756)
+[김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek)
 
 <hr>
 🏆<b>명예의 전당</b>🏆
@@ -33,13 +33,12 @@
 
 
 ** 채용 공고
-c&c(9월8일)
-
 미래에셋 (9월12일)
 lg 유플러스(9월 13일)
 
 <br>[신용보증기금](https://kodit.saramin.co.kr/service/kodit/2146/applicant/apply/recruit_default.asp) ~09.07 14:00
 <br>[롯데정보통신](https://recruit.lotte.co.kr/apply/announcement/detail/20288001?compcd=30007) ~09.07 17:00
+<br>[SK C&C](https://www.skcareers.com/POS/jobViewOpenRecruit.aspx?_SKEP=qv0xqNXR7Eq%2BqPSIm4H4Gy%2BJ94ruMYWzboydXaYMP%2B%2BVWiebQKDvW1emvgsYhFMxnArKLnhgeddHDQRhzEPw1yJfCxGWFLzyRKcWLv54I5I%3D) ~09.08 23:59
 <br>[한화생명보험](https://www.hanwhalife.com) SSAFY 특별채용 ~09.10
 <br>[교보증권](https://iprovest.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=68911) ~09.13 17:00
 <br>[기업은행](http://ibk.incruit.com/hire/viewhire.asp?projectid=108) ~09.24 14:00
