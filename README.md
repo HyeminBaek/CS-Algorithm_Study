@@ -36,7 +36,6 @@
 미래에셋 (9월12일)
 lg 유플러스(9월 13일)
 
-<br>[신용보증기금](https://kodit.saramin.co.kr/service/kodit/2146/applicant/apply/recruit_default.asp) ~09.07 14:00
 <br>[롯데정보통신](https://recruit.lotte.co.kr/apply/announcement/detail/20288001?compcd=30007) ~09.07 17:00
 <br>[SK C&C](https://www.skcareers.com/POS/jobViewOpenRecruit.aspx?_SKEP=qv0xqNXR7Eq%2BqPSIm4H4Gy%2BJ94ruMYWzboydXaYMP%2B%2BVWiebQKDvW1emvgsYhFMxnArKLnhgeddHDQRhzEPw1yJfCxGWFLzyRKcWLv54I5I%3D) ~09.08 23:59
 <br>[한화생명보험](https://www.hanwhalife.com) SSAFY 특별채용 ~09.10
