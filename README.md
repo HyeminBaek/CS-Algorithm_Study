@@ -33,12 +33,10 @@
 
 
 ** 채용 공고
-미래에셋 (9월12일)
-lg 유플러스(9월 13일)
-
 <br>[롯데정보통신](https://recruit.lotte.co.kr/apply/announcement/detail/20288001?compcd=30007) ~09.07 17:00
 <br>[SK C&C](https://www.skcareers.com/POS/jobViewOpenRecruit.aspx?_SKEP=qv0xqNXR7Eq%2BqPSIm4H4Gy%2BJ94ruMYWzboydXaYMP%2B%2BVWiebQKDvW1emvgsYhFMxnArKLnhgeddHDQRhzEPw1yJfCxGWFLzyRKcWLv54I5I%3D) ~09.08 23:59
 <br>[한화생명보험](https://www.hanwhalife.com) SSAFY 특별채용 ~09.10
+미래에셋 (9월12일)
 <br>[교보증권](https://iprovest.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=68911) ~09.13 17:00
 <br>[기업은행](http://ibk.incruit.com/hire/viewhire.asp?projectid=108) ~09.24 14:00
 <br>[DB그룹](https://dbgroup.recruiter.co.kr/app/jobnotice/list) ~10.07 17:00
