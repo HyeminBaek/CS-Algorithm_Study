@@ -33,8 +33,7 @@
 
 
 ** 채용 공고
-<br>[한화생명보험](https://www.hanwhalife.com) SSAFY 특별채용 ~09.10
-미래에셋 (9월12일)
+<br>미래에셋 (9월12일)
 <br>[교보증권](https://iprovest.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=68911) ~09.13 17:00
 <br>[삼성전자](https://www.samsungcareers.com/main.html) ~09.13 17:00
 <br>[SGI서울보증](https://sgic.recruiter.co.kr/app/jobnotice/list) ~09.16 18:00
