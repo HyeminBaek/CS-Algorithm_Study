@@ -33,7 +33,6 @@
 
 
 ** 채용 공고
-<br>[삼성전자](https://www.samsungcareers.com/main.html) ~09.13 17:00
 <br>[SGI서울보증](https://sgic.recruiter.co.kr/app/jobnotice/list) ~09.16 18:00
 <br>[신한은행](https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=70178) ~09.23 18:00
 <br>[기업은행](http://ibk.incruit.com/hire/viewhire.asp?projectid=108) ~09.24 14:00
