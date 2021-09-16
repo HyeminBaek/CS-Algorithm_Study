@@ -33,12 +33,12 @@
 
 
 ** 채용 공고
-<br>[SGI서울보증](https://sgic.recruiter.co.kr/app/jobnotice/list) ~09.16 18:00
 <br>[신한은행](https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=70179) ~09.23 18:00
 <br>[기업은행](http://ibk.incruit.com/hire/viewhire.asp?projectid=108) ~09.24 14:00
 <br>[CJ올리브네트웍스](https://recruit.cj.net/) ~09.27 19:00
 <br>[한국투자증권](https://kis-talkon2021.com/?utm_source=jasosol_recruit&utm_medium=jasosol_recruit&utm_campaign=21h&utm_id=jasosol_recruit) ~09.28 17:00
 <br>[NAVER](https://www.naver-recruit.com/) ~09.29
+<br>[NICE 평가정보](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=71560) ~09.30 18:00
 <br>[LG CNS](https://apply.lg.com/app/job/RetrieveJobNotices.rpi) ~09.30 23:00
 <br>[DB그룹](https://dbgroup.recruiter.co.kr/app/jobnotice/list) ~10.07 17:00
 <br>[NHN 서비스보안 인턴](https://linkareer.com/activity/66687?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~10.31 //단, 채용시 내려갈 수 있음에 유의
