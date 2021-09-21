@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(프로그래머스)` : 2019 KAKAO BLIND RECRUITMENT
+✏️ `이번주 문제(프로그래머스)` : [동전 2](https://www.acmicpc.net/problem/2294),[우주선 만들기](https://www.acmicpc.net/problem/15912),[전깃줄](https://www.acmicpc.net/problem/2565),[Cubeditor](https://www.acmicpc.net/problem/1701),[종점](https://www.acmicpc.net/problem/22867)
 
 <h3> 📅 9월 </h3>
 
