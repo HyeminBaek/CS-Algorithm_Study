@@ -33,7 +33,6 @@
 
 
 ** 채용 공고
-<br>[신한은행](https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=70179) ~09.23 18:00
 <br>[기업은행](http://ibk.incruit.com/hire/viewhire.asp?projectid=108) ~09.24 14:00
 <br>[CJ올리브네트웍스](https://recruit.cj.net/) ~09.27 19:00
 <br>[한국투자증권](https://kis-talkon2021.com/?utm_source=jasosol_recruit&utm_medium=jasosol_recruit&utm_campaign=21h&utm_id=jasosol_recruit) ~09.28 17:00
