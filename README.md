@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [백혜민](https://github.com/HyeminBaek)
+[김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [박진호](https://github.com/zinozino1) [백혜민](https://github.com/HyeminBaek)
 
 <hr>
 🏆<b>명예의 전당</b>🏆
@@ -29,11 +29,10 @@
 |   19   |   20   |   21   |   22   |   23   |   24   |   25   |
 |||||||<p>2022 KAKAO BLIND RECRUITMENT</p>|
 |   26   |   27   |   28   |   29   |   30   |   1   |   2   |
-||||새마을금고중앙회 서류 발표|||<p><b>알고리즘 주제</b> DP,kmp,파싱</p>|
+||||새마을금고중앙회 서류 발표<p>마이데이터 비즈니스 아이디어 공모전 시상식</p>|||<p><b>알고리즘 주제</b> DP,kmp,파싱</p>|
 
 
 ** 채용 공고
-<br>[CJ올리브네트웍스](https://recruit.cj.net/) ~09.27 19:00
 <br>[한국투자증권](https://kis-talkon2021.com/?utm_source=jasosol_recruit&utm_medium=jasosol_recruit&utm_campaign=21h&utm_id=jasosol_recruit) ~09.28 17:00
 <br>[NAVER](https://www.naver-recruit.com/) ~09.29
 <br>[NICE 평가정보](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=71560) ~09.30 18:00
