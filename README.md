@@ -25,7 +25,7 @@
 |   3   |   4   |   5   |   6   |   7   |   8   |   9   |
 ||||신한은행 서류 발표|KDB산업은행 서류 발표||<p><b>알고리즘 주제</b> </p>|
 |   10   |   11   |   12   |   13   |   14   |   15   |   16   |
-||||||IBK기업은행 서류 발표|<p><b>알고리즘 주제</b> </p>|
+|||||한국투자증권 서류 발표|IBK기업은행 서류 발표|<p><b>알고리즘 주제</b> </p>|
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
 |    ||||||<p><b>알고리즘 주제</b> </p>NHN 공채 → 리뷰|
 |   24   |   25   |   26   |   27   |   28   |   29   |   30   |
@@ -36,7 +36,6 @@
 
 
 ** 채용 공고
-<br>[한국투자증권](https://kis-talkon2021.com/?utm_source=jasosol_recruit&utm_medium=jasosol_recruit&utm_campaign=21h&utm_id=jasosol_recruit) ~09.28 17:00
 <br>[NAVER](https://www.naver-recruit.com/) ~09.29
 <br>[NICE 평가정보](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=71560) ~09.30 18:00
 <br>[LG CNS](https://apply.lg.com/app/job/RetrieveJobNotices.rpi) ~09.30 23:00
