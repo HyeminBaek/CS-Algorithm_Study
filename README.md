@@ -36,8 +36,5 @@
 
 
 ** 채용 공고
-<br>[NICE 평가정보](https://nice.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=71560) ~09.30 18:00
-<br>[LG CNS](https://apply.lg.com/app/job/RetrieveJobNotices.rpi) ~09.30 23:00
 <br>[DB그룹](https://dbgroup.recruiter.co.kr/app/jobnotice/list) ~10.07 17:00
 <br>[NHN](https://recruit.nhn.com/ent/landing) ~10.18 17:00
-<br>[NHN 서비스보안 인턴](https://linkareer.com/activity/66687?utm_source=cafe_specup&utm_medium=weeklist_intern&utm_campaign=weekly_list) ~10.31 //단, 채용시 내려갈 수 있음에 유의
