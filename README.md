@@ -37,4 +37,3 @@
 
 ** 채용 공고
 <br>[DB그룹](https://dbgroup.recruiter.co.kr/app/jobnotice/list) ~10.07 17:00
-<br>[NHN](https://recruit.nhn.com/ent/landing) ~10.18 17:00
