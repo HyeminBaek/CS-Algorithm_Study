@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(프로그래머스)` : [동전 2](https://www.acmicpc.net/problem/2294),[우주선 만들기](https://www.acmicpc.net/problem/15912),[전깃줄](https://www.acmicpc.net/problem/2565),[Cubeditor](https://www.acmicpc.net/problem/1701),[종점](https://www.acmicpc.net/problem/22867)
+✏️ `이번주 문제(프로그래머스)` : [Web Pages](https://www.acmicpc.net/problem/5076),[무한 수열](https://www.acmicpc.net/problem/1351),[HTML 파싱](https://www.acmicpc.net/problem/22859),[서울 지하철 2호선](https://www.acmicpc.net/problem/16947),[두 동전](https://www.acmicpc.net/problem/16197)
 
 <h3> 📅 10월 </h3>
 
@@ -23,7 +23,7 @@
 |   26   |   27   |   28   |   29   |   30   |   1   |   2   |
 ||||새마을금고중앙회 서류 발표<p><br>마이데이터 비즈니스 아이디어 공모전 시상식</p>|||<p><b>알고리즘 주제</b> DP,kmp,파싱</p><br>새마을금고중앙회 필기|
 |   3   |   4   |   5   |   6   |   7   |   8   |   9   |
-||||신한은행 서류 발표|KDB산업은행 서류 발표||<p><b>알고리즘 주제</b> </p>NAVER 공채 코딩테스트|
+||||신한은행 서류 발표|KDB산업은행 서류 발표||<p><b>알고리즘 주제</b> 파싱, DP, 그래프</p>NAVER 공채 코딩테스트|
 |   10   |   11   |   12   |   13   |   14   |   15   |   16   |
 |||||한국투자증권 서류 발표|IBK기업은행, NICE평가정보 서류 발표</p>|<p><b>알고리즘 주제</b> </p>|
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
