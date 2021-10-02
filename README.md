@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(프로그래머스)` : [Web Pages](https://www.acmicpc.net/problem/5076),[무한 수열](https://www.acmicpc.net/problem/1351),[HTML 파싱](https://www.acmicpc.net/problem/22859),[서울 지하철 2호선](https://www.acmicpc.net/problem/16947),[두 동전](https://www.acmicpc.net/problem/16197)
+✏️ `이번주 문제(백준)` : [Web Pages](https://www.acmicpc.net/problem/5076),[무한 수열](https://www.acmicpc.net/problem/1351),[HTML 파싱](https://www.acmicpc.net/problem/22859),[서울 지하철 2호선](https://www.acmicpc.net/problem/16947),[두 동전](https://www.acmicpc.net/problem/16197)
 
 <h3> 📅 10월 </h3>
 
