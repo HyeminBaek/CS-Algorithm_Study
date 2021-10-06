@@ -36,4 +36,3 @@
 
 
 ** 채용 공고
-<br>[DB Inc.](https://dbgroup.recruiter.co.kr/app/jobnotice/list) ~10.07 17:00
