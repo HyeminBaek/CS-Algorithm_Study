@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [박진호](https://github.com/zinozino1) [백혜민](https://github.com/HyeminBaek)
+[강태훈]() [김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [박진호](https://github.com/zinozino1) [백혜민](https://github.com/HyeminBaek)
 
 <hr>
 🏆<b>명예의 전당</b>🏆
@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [Web Pages](https://www.acmicpc.net/problem/5076),[무한 수열](https://www.acmicpc.net/problem/1351),[HTML 파싱](https://www.acmicpc.net/problem/22859),[서울 지하철 2호선](https://www.acmicpc.net/problem/16947),[두 동전](https://www.acmicpc.net/problem/16197)
+✏️ `이번주 문제(백준)` : [이분 그래프](https://www.acmicpc.net/problem/1707),[틱택토](https://www.acmicpc.net/problem/7682),[한 번 남았다](https://www.acmicpc.net/problem/13317),[택배](https://www.acmicpc.net/problem/8980),[IPv6](https://www.acmicpc.net/problem/16197)
 
 <h3> 📅 10월 </h3>
 
@@ -25,9 +25,9 @@
 |   3   |   4   |   5   |   6   |   7   |   8   |   9   |
 |||한국투자증권 서류 발표|신한은행 서류 발표|KDB산업은행 서류 발표||<p><b>알고리즘 주제</b> 파싱, DP, 그래프</p>NAVER 공채 코딩테스트 → 리뷰|
 |   10   |   11   |   12   |   13   |   14   |   15   |   16   |
-||신한은행 코딩테스트||||IBK기업은행, NICE평가정보 서류 발표</p>|<p><b>알고리즘 주제</b> </p>|
+||신한은행 코딩테스트||||IBK기업은행, NICE평가정보 서류 발표</p>|<p><b>알고리즘 주제</b> 그래프,백트래킹,그리디,문자열</p>|
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
-|    |||신한은행 1차 면접||한국투자증권 AI 면접 발표|<p><b>알고리즘 주제</b> </p>NHN 공채 → 리뷰<p>KDB산업은행 필기</p>|
+|    |||신한은행 1차 면접<p>DB Inc. 서류 발표</p>||한국투자증권 AI 면접 발표|<p><b>알고리즘 주제</b> </p>NHN 공채 → 리뷰<p>KDB산업은행 필기</p>|
 |   24   |   25   |   26   |   27   |   28   |   29   |   30   |
 ||||||신한은행 1차 면접 결과 발표|<p><b>알고리즘 주제</b></p>|
 |   31   |   1   |   2   |   3   |   4   |   5   |   6   |
