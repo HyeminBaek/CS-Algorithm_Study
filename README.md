@@ -36,5 +36,5 @@
 
 
 ** 채용 공고
-[DGB캐피탈](https://dgbcapital.saramin.co.kr/service/dgbcapital/2218/applicant/apply/recruit_default.asp) ~10.13 18:00
-[BC Card 채용전환형 인턴](https://www.bccard.com/card/html/company/kr/recruit/recruit/announce/1208102_36777.jsp) ~10.19 15:00
+<br>[DGB캐피탈](https://dgbcapital.saramin.co.kr/service/dgbcapital/2218/applicant/apply/recruit_default.asp) ~10.13 18:00
+<br>[BC Card 채용전환형 인턴](https://www.bccard.com/card/html/company/kr/recruit/recruit/announce/1208102_36777.jsp) ~10.19 15:00
