@@ -36,9 +36,9 @@
 
 
 ** 채용 공고
-<br>[DGB캐피탈](https://dgbcapital.saramin.co.kr/service/dgbcapital/2218/applicant/apply/recruit_default.asp) ~10.13 18:00
 <br>[에셋플러스](https://www.assetplus.co.kr/introduce/recruitView.do?seq=240) ~10.17
 <br>[하나펀드서비스](https://m.incruit.com/jobdb_info/jobpost.asp?job=2110120005645) ~10.18
 <br>[BC Card 채용전환형 인턴](https://www.bccard.com/card/html/company/kr/recruit/recruit/announce/1208102_36777.jsp) ~10.19 15:00
 <br>[OK금융그룹](https://ok.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=73589) ~10.24 17:00
-<br>[우리FIS](http://www.woorifis.com/kor/recruit/noticeDetail?boardId=571) ~10.25 18:00
+<br>[우리카드](https://www.woorifg.com/kor/recruit/recruit-announcement/view.do?seq=40&f=&q=) ~10.25 18:00
+<br>[하이투자증권](https://hi-ib.recruitin.co.kr/jobs/41322868/view) ~10.26 17:00
