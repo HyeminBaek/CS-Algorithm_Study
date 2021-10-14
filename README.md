@@ -41,3 +41,4 @@
 <br>[하나펀드서비스](https://m.incruit.com/jobdb_info/jobpost.asp?job=2110120005645) ~10.18
 <br>[BC Card 채용전환형 인턴](https://www.bccard.com/card/html/company/kr/recruit/recruit/announce/1208102_36777.jsp) ~10.19 15:00
 <br>[OK금융그룹](https://ok.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=73589) ~10.24 17:00
+<br>[우리FIS](http://www.woorifis.com/kor/recruit/noticeDetail?boardId=571) ~10.25 18:00
