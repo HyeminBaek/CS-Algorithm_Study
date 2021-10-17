@@ -36,8 +36,6 @@
 
 
 ** 채용 공고
-<br>[에셋플러스](https://www.assetplus.co.kr/introduce/recruitView.do?seq=240) ~10.17
-<br>[하나펀드서비스](https://m.incruit.com/jobdb_info/jobpost.asp?job=2110120005645) ~10.18
 <br>[BC Card 채용전환형 인턴](https://www.bccard.com/card/html/company/kr/recruit/recruit/announce/1208102_36777.jsp) ~10.19 15:00
 <br>[OK금융그룹](https://ok.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=73589) ~10.24 17:00
 <br>[우리카드](https://www.woorifg.com/kor/recruit/recruit-announcement/view.do?seq=40&f=&q=) ~10.25 18:00
@@ -45,4 +43,4 @@
 <br>[하이투자증권](https://hi-ib.recruitin.co.kr/jobs/41322868/view) ~10.26 17:00
 <br>[교보생명](https://career.kyobo.co.kr/home) ~10.26 18:00
 <br>[신세계아이앤씨](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?isSearch=&tabKey0=&currentPage=1&rowsPerPage=11&notino=5973&recrtpnm=%25EC%258B%25A0%25EC%259E%2585&searchWord0=&searchKey0=&searchKey1=&searchWord1=) ~10.28 18:00
-<br>[산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
+<br>[KDB산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
