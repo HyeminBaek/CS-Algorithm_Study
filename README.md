@@ -36,7 +36,6 @@
 
 
 ** 채용 공고
-<br>[OK금융그룹](https://ok.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=73589) ~10.24 17:00
 <br>[우리카드](https://www.woorifg.com/kor/recruit/recruit-announcement/view.do?seq=40&f=&q=) ~10.25 18:00
 <br>[현대오토에버](https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=74199) ~10.26 13:00
 <br>[하이투자증권](https://hi-ib.recruitin.co.kr/jobs/41322868/view) ~10.26 17:00
