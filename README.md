@@ -43,3 +43,4 @@
 <br>[KDB산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
 <br>[네이버파이낸셜 개발자 채용 챌린지](https://programmers.co.kr/competitions/1868?slug=2021-naver_fc-challenge) ~10.29 17:00
 <br>[DAOU](https://recruit.daou.co.kr/) ~11.01 18:00
+<br>[2021 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/1771?slug=2021-winter-coding) ~11.18 17:00
