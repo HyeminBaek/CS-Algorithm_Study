@@ -37,8 +37,6 @@
 
 ** 채용 공고
 <br>[현대오토에버](https://hyundai-autoever.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=74199) ~10.26 13:00
-<br>[하이투자증권](https://hi-ib.recruitin.co.kr/jobs/41322868/view) ~10.26 17:00
-<br>[교보생명](https://career.kyobo.co.kr/home) ~10.26 18:00
 <br>[신세계아이앤씨](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?isSearch=&tabKey0=&currentPage=1&rowsPerPage=11&notino=5973&recrtpnm=%25EC%258B%25A0%25EC%259E%2585&searchWord0=&searchKey0=&searchKey1=&searchWord1=) ~10.28 18:00
 <br>[KDB산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
 <br>[네이버파이낸셜 개발자 채용 챌린지](https://programmers.co.kr/competitions/1868?slug=2021-naver_fc-challenge) ~10.29 17:00
