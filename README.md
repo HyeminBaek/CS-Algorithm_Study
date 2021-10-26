@@ -27,7 +27,7 @@
 |   10   |   11   |   12   |   13   |   14   |   15   |   16   |
 ||신한은행 코딩테스트||LG CNS 서류 발표|새마을금고중앙회 필기 발표|IBK기업은행, NICE평가정보, CJ 올리브네트웍스 서류 발표</p>|<p><b>알고리즘 주제</b> 그래프,백트래킹,그리디,문자열</p>|
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
-|    |||신한은행 1차 면접<p>DB Inc. 서류 발표</p>||한국투자증권 AI 면접 발표|NHN 공채<p>KDB산업은행 필기</p>|
+|    ||<p>DB Inc. 서류 발표</p>|신한은행 1차 면접||한국투자증권 AI 면접 발표|NHN 공채<p>KDB산업은행 필기</p>|
 |   24   |   25   |   26   |   27   |   28   |   29   |   30   |
 ||||새마을금고중앙회 1차 면접||신한은행 1차 면접 결과 발표|<p><b>알고리즘 주제</b> 슬라이딩 윈도우, 구현, 그래프</p><p>IBK기업은행 필기</p>|
 |   31   |   1   |   2   |   3   |   4   |   5   |   6   |
@@ -38,6 +38,5 @@
 ** 채용 공고
 <br>[신세계아이앤씨](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?isSearch=&tabKey0=&currentPage=1&rowsPerPage=11&notino=5973&recrtpnm=%25EC%258B%25A0%25EC%259E%2585&searchWord0=&searchKey0=&searchKey1=&searchWord1=) ~10.28 18:00
 <br>[KDB산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
-<br>[네이버파이낸셜 개발자 채용 챌린지](https://programmers.co.kr/competitions/1868?slug=2021-naver_fc-challenge) ~10.29 17:00
 <br>[DAOU](https://recruit.daou.co.kr/) ~11.01 18:00
 <br>[2021 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/1771?slug=2021-winter-coding) ~11.18 17:00
