@@ -36,7 +36,6 @@
 
 
 ** 채용 공고
-<br>[신세계아이앤씨](http://job.shinsegae.com/recruit_info/notice/notice01_view.jsp?isSearch=&tabKey0=&currentPage=1&rowsPerPage=11&notino=5973&recrtpnm=%25EC%258B%25A0%25EC%259E%2585&searchWord0=&searchKey0=&searchKey1=&searchWord1=) ~10.28 18:00
 <br>[KDB산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
 <br>[DAOU](https://recruit.daou.co.kr/) ~11.01 18:00
 <br>[농협중앙회](https://nonghyup.career.co.kr/jobs/jobs_view.asp?ID=1061) ~11.03 18:00
