@@ -37,6 +37,10 @@
 
 ** 채용 공고
 <br>[KDB산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
+<br>[KDB캐피탈] (https://job.incruit.com/jobdb_info/jobpost.asp?job=2110130001472) ~10.31 20:00
 <br>[DAOU](https://recruit.daou.co.kr/) ~11.01 18:00
 <br>[농협중앙회](https://nonghyup.career.co.kr/jobs/jobs_view.asp?ID=1061) ~11.03 18:00
+<br>[상상인그룹](https://m.saramin.co.kr/job-search/view?rec_idx=41431046&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.07 24:00
+<br>[IBK기업은행 청년인턴](https://www.ibk.co.kr/engage/recruitDetailEngage.ibk?pageId=IR04020100&srno=151503) ~11.15 14:00
 <br>[2021 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/1771?slug=2021-winter-coding) ~11.18 17:00
+<br>[KG모빌리언스](https://m.saramin.co.kr/job-search/view?rec_idx=41402616&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.20 24:00
