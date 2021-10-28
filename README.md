@@ -37,7 +37,7 @@
 
 ** 채용 공고
 <br>[KDB산업은행 청년인턴](https://recruit.kdb.co.kr/re/simpleJsp.do?actionId=REREBBD&actionTg=RERE&menuId=RERERE0020) ~10.29 16:00
-<br>[KDB캐피탈] (https://job.incruit.com/jobdb_info/jobpost.asp?job=2110130001472) ~10.31 20:00
+<br>[KDB캐피탈](https://job.incruit.com/jobdb_info/jobpost.asp?job=2110130001472) ~10.31 20:00
 <br>[DAOU](https://recruit.daou.co.kr/) ~11.01 18:00
 <br>[농협중앙회](https://nonghyup.career.co.kr/jobs/jobs_view.asp?ID=1061) ~11.03 18:00
 <br>[상상인그룹](https://m.saramin.co.kr/job-search/view?rec_idx=41431046&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.07 24:00
