@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[강태훈](https://github.com/shuttlecock0) [김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [문창무](https://github.com/ChangmooMoon) [박진호](https://github.com/zinozino1) [백혜민](https://github.com/HyeminBaek)
+[강태훈](https://github.com/shuttlecock0) [김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [박진호](https://github.com/zinozino1) [백혜민](https://github.com/HyeminBaek)
 
 <hr>
 🏆<b>명예의 전당</b>🏆
@@ -36,7 +36,6 @@
 
 
 ** 채용 공고
-<br>[KDB캐피탈](https://job.incruit.com/jobdb_info/jobpost.asp?job=2110130001472) ~10.31 20:00
 <br>[DAOU](https://recruit.daou.co.kr/) ~11.01 18:00
 <br>[농협중앙회](https://nonghyup.career.co.kr/jobs/jobs_view.asp?ID=1061) ~11.03 18:00
 <br>[상상인그룹](https://m.saramin.co.kr/job-search/view?rec_idx=41431046&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.07 24:00
