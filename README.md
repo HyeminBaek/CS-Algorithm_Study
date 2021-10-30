@@ -13,7 +13,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [회전 초밥](https://www.acmicpc.net/problem/15961),[빙산](https://www.acmicpc.net/problem/2573),[비밀 메세지](https://www.acmicpc.net/problem/9992),[컨설팅](https://www.acmicpc.net/problem/20292),[공주님을 구해라!](https://www.acmicpc.net/problem/17836)
+✏️ `이번주 문제(백준)` : [나이](https://www.acmicpc.net/problem/1375),[문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939),[인싸들의 가위바위보](https://www.acmicpc.net/problem/16986)
 
 <h3> 📅 11월 </h3>
 
@@ -21,7 +21,7 @@
 |　  SUN　  |　  MON　  |　  TUE　  |　  WED　  |　  THU　  |　  FRI　  |　  SAT　  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |   31   |   1   |   2   |   3   |   4   |   5   |   6   |
-||||||신한은행 2차 면접|<p><b>알고리즘 주제</b>위상 정렬,PQ,브루트포스</p>|
+||||||신한은행 2차 면접|<p><b>알고리즘 주제</b> 위상 정렬,PQ,브루트포스</p>|
 |   7   |   8   |   9   |   10   |   11   |   12   |   13   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 |   14   |   15   |   16   |   17   |   18   |   19   |   20   |
