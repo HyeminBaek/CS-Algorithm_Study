@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[강태훈](https://github.com/shuttlecock0) [김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [박진호](https://github.com/zinozino1) [백혜민](https://github.com/HyeminBaek)
+[강태훈](https://github.com/shuttlecock0) [김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [백혜민](https://github.com/HyeminBaek)
 
 <hr>
 🏆<b>명예의 전당</b>🏆
