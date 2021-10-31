@@ -5,11 +5,6 @@
 
 [강태훈](https://github.com/shuttlecock0) [김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [백혜민](https://github.com/HyeminBaek)
 
-<hr>
-🏆<b>명예의 전당</b>🏆
-
-<hr>
-
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
