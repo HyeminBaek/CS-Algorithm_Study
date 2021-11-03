@@ -29,7 +29,6 @@
 
 
 ** 채용 공고
-<br>[NH농협은행](https://nonghyup.career.co.kr/jobs/jobs_view.asp?ID=1078) ~11.03 18:00
 <br>[상상인그룹](https://m.saramin.co.kr/job-search/view?rec_idx=41431046&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.07 24:00
 <br>[KB손해보험](https://kbinsure.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=75631) ~11.14 22:00
 <br>[IBK기업은행 청년인턴](https://www.ibk.co.kr/engage/recruitDetailEngage.ibk?pageId=IR04020100&srno=151503) ~11.15 14:00
