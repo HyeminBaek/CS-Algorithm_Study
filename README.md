@@ -33,5 +33,7 @@
 <br>[KB손해보험](https://kbinsure.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=75631) ~11.14 22:00
 <br>[IBK기업은행 청년인턴](https://www.ibk.co.kr/engage/recruitDetailEngage.ibk?pageId=IR04020100&srno=151503) ~11.15 14:00
 <br>[2021 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/1771?slug=2021-winter-coding) ~11.18 17:00
+<br>[SGI저축은행](https://sbisb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=75922) ~11.18
 <br>[KG모빌리언스](https://m.saramin.co.kr/job-search/view?rec_idx=41402616&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.20 24:00
 <br>[가비아](https://careers.gabia.com/recruit/view/?seq=ZlVvwKJxt4d2U9QwWU0eHoJrqmSCSERL2%2F5wVABo19r5UcRutyHjVEW2dlSeUWL9dBaCyS8RhuI7bmUhcQOEzg%3D%3D) ~11.21
+<br>[뱅크웨어글로벌](https://www.jobkorea.co.kr/Recruit/GI_Read/36351248?cmpid=vm_viral_bebettergirls&Oem_Code=C1&rPageCode=PL) ~11.21
