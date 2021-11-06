@@ -18,7 +18,7 @@
 |   31   |   1   |   2   |   3   |   4   |   5   |   6   |
 |||우리FIS 서류 발표|||신한은행 2차 면접|<p><b>알고리즘 주제</b> 위상 정렬,PQ,브루트포스</p>|
 |   7   |   8   |   9   |   10   |   11   |   12   |   13   |
-|||||||<p>우리FIS 필기</p>|
+||DAOU 서류 발표|OK금융그룹,KDB 청년인턴 서류 발표||||<p>우리FIS 필기</p>|
 |   14   |   15   |   16   |   17   |   18   |   19   |   20   |
 |||||||<p><b>알고리즘 주제</b> 구현,정렬,분리집합</p>|
 |   21   |   22   |   23   |   24   |   25   |   26   |   27   |
@@ -29,7 +29,6 @@
 
 
 ** 채용 공고
-<br>[상상인그룹](https://m.saramin.co.kr/job-search/view?rec_idx=41431046&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.07 24:00
 <br>[KB손해보험](https://kbinsure.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=75631) ~11.14 22:00
 <br>[IBK기업은행 청년인턴](https://www.ibk.co.kr/engage/recruitDetailEngage.ibk?pageId=IR04020100&srno=151503) ~11.15 14:00
 <br>[2021 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/1771?slug=2021-winter-coding) ~11.18 17:00
