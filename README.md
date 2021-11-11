@@ -37,3 +37,4 @@
 <br>[KG모빌리언스](https://m.saramin.co.kr/job-search/view?rec_idx=41402616&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.20 24:00
 <br>[가비아](https://careers.gabia.com/recruit/view/?seq=ZlVvwKJxt4d2U9QwWU0eHoJrqmSCSERL2%2F5wVABo19r5UcRutyHjVEW2dlSeUWL9dBaCyS8RhuI7bmUhcQOEzg%3D%3D) ~11.21
 <br>[뱅크웨어글로벌](https://www.jobkorea.co.kr/Recruit/GI_Read/36351248?cmpid=vm_viral_bebettergirls&Oem_Code=C1&rPageCode=PL) ~11.21
+<br>[KCC정보통신](https://kcc.recruiter.co.kr) ~11.22 12:00
