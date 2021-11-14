@@ -29,7 +29,6 @@
 
 
 ** 채용 공고
-<br>[KB손해보험](https://kbinsure.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=75631) ~11.14 22:00
 <br>[IBK기업은행 청년인턴](https://www.ibk.co.kr/engage/recruitDetailEngage.ibk?pageId=IR04020100&srno=151503) ~11.15 14:00
 <br>[키움증권](https://kiwoom1.saramin.co.kr/service/kiwoom1/2247/applicant/apply/recruit_default.asp) ~11.15 24:00
 <br>[2021 Winter Coding - 겨울방학 스타트업 인턴 프로그램](https://programmers.co.kr/competitions/1771?slug=2021-winter-coding) ~11.18 17:00
