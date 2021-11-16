@@ -37,3 +37,4 @@
 <br>[신한금융투자](https://recruit.shinhaninvest.com/recruit/view.do) ~11.22 10:00
 <br>[KCC정보통신](https://kcc.recruiter.co.kr) ~11.22 12:00
 <br>[케이뱅크 채용연계형 인턴십](https://kbank-cms.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=77914) ~11.24 24:00
+<br>[OK저축은행 싸피 특별 전형](https://welcome.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=78089) ~11.28 24:00
