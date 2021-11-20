@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [주사위 굴리기2](https://www.acmicpc.net/problem/23288),[버블 정렬](https://www.acmicpc.net/problem/1838),[도서관](https://www.acmicpc.net/problem/1461),[네트워크 연결](https://www.acmicpc.net/problem/3780)
+✏️ `이번주 문제(백준)` : [K번째 수](https://www.acmicpc.net/problem/1300),[환승](https://www.acmicpc.net/problem/5214),[누텔라 트리 (Easy)](https://www.acmicpc.net/problem/23040),[로또](https://www.acmicpc.net/problem/2758)
 
 <h3> 📅 11월 </h3>
 
@@ -22,14 +22,13 @@
 |   14   |   15   |   16   |   17   |   18   |   19   |   20   |
 ||||현대오토에버 코딩테스트 결과 발표|||<p><b>알고리즘 주제</b> 구현,정렬,분리집합</p>2021 Winter Coding - 겨울방학 스타트업 인턴 프로그램 코딩 테스트|
 |   21   |   22   |   23   |   24   |   25   |   26   |   27   |
-|||OK금융그룹, 현대오토에버 1차 면접||||<p><b>알고리즘 주제</b> </p>|
+|||OK금융그룹, 현대오토에버 1차 면접||||<p><b>알고리즘 주제</b> 이분탐색, 그래프, 트리, DP</p>|
 |   28   |   29   |   30   |   1   |   2   |   3   |   4   |
 |||||||<p><b>알고리즘 주제</b></p>|
 
 
 
 ** 채용 공고
-<br>[KG모빌리언스](https://m.saramin.co.kr/job-search/view?rec_idx=41402616&cn=group-job&cns=top1000&t_ref=top1000&t_ref_content=generic) ~11.20 24:00
 <br>[가비아](https://careers.gabia.com/recruit/view/?seq=ZlVvwKJxt4d2U9QwWU0eHoJrqmSCSERL2%2F5wVABo19r5UcRutyHjVEW2dlSeUWL9dBaCyS8RhuI7bmUhcQOEzg%3D%3D) ~11.21
 <br>[뱅크웨어글로벌](https://www.jobkorea.co.kr/Recruit/GI_Read/36351248?cmpid=vm_viral_bebettergirls&Oem_Code=C1&rPageCode=PL) ~11.21
 <br>[노아에이티에스](https://www.jobkorea.co.kr/Recruit/GI_Read/36527689?Oem_Code=C1&PageGbn=ST) ~11.21 24:00
