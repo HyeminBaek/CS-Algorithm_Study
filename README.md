@@ -29,10 +29,5 @@
 
 
 ** 채용 공고
-<br>[가비아](https://careers.gabia.com/recruit/view/?seq=ZlVvwKJxt4d2U9QwWU0eHoJrqmSCSERL2%2F5wVABo19r5UcRutyHjVEW2dlSeUWL9dBaCyS8RhuI7bmUhcQOEzg%3D%3D) ~11.21
-<br>[뱅크웨어글로벌](https://www.jobkorea.co.kr/Recruit/GI_Read/36351248?cmpid=vm_viral_bebettergirls&Oem_Code=C1&rPageCode=PL) ~11.21
-<br>[노아에이티에스](https://www.jobkorea.co.kr/Recruit/GI_Read/36527689?Oem_Code=C1&PageGbn=ST) ~11.21 24:00
-<br>[신한금융투자](https://recruit.shinhaninvest.com/recruit/view.do) ~11.22 10:00
-<br>[KCC정보통신](https://kcc.recruiter.co.kr) ~11.22 12:00
 <br>[케이뱅크 채용연계형 인턴십](https://kbank-cms.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=77914) ~11.24 24:00
 <br>[OK저축은행 싸피 특별 전형](https://welcome.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=78089) ~11.28 24:00
