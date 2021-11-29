@@ -29,4 +29,3 @@
 
 
 ** 채용 공고
-<br>[웰컴저축은행 싸피 특별 전형](https://welcome.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=78089) ~11.28 24:00
