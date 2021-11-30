@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [K번째 수](https://www.acmicpc.net/problem/1300),[환승](https://www.acmicpc.net/problem/5214),[누텔라 트리 (Easy)](https://www.acmicpc.net/problem/23040),[로또](https://www.acmicpc.net/problem/2758)
+✏️ `이번주 문제(백준)` : [전화번호 수수께끼 (Small)](https://www.acmicpc.net/problem/14369),[실행 시간](https://www.acmicpc.net/problem/22947),[트리의 기둥과 가지](https://www.acmicpc.net/problem/20924),[줄 세우기](https://www.acmicpc.net/problem/7570)
 
 <h3> 📅 11월 </h3>
 
@@ -24,8 +24,9 @@
 |   21   |   22   |   23   |   24   |   25   |   26   |   27   |
 |||OK금융그룹, 현대오토에버 1차 면접||신한은행 2차 면접 결과|신세계아이앤씨 서류 발표|<p><b>알고리즘 주제</b> 이분탐색, 그래프, 트리, DP</p>|
 |   28   |   29   |   30   |   1   |   2   |   3   |   4   |
-||||발란 면접|||<p><b>알고리즘 주제</b></p>|
+||||발란 면접|에너지엑스 면접||<p><b>알고리즘 주제</b> 문자열, 위상정렬, 트리, </p>|
 
 
 
 ** 채용 공고
+<br>[KB데이타시스템 싸피 특별전형](https://kbds.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=79306) 12/08 20:00
