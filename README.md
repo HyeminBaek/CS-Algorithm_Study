@@ -26,8 +26,5 @@
 |   26   |   27   |   28   |   29   |   30   |   31   |   1   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 
-
-
-
 ** 채용 공고
 <br>[KB데이타시스템 싸피 특별전형](https://kbds.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=79306) 12/08 20:00
