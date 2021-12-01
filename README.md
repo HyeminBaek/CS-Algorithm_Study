@@ -27,4 +27,6 @@
 |||||||<p><b>알고리즘 주제</b> </p>|
 
 ** 채용 공고
-<br>[KB데이타시스템 싸피 특별전형](https://kbds.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=79306) 12/08 20:00
+<br>[KB데이타시스템 싸피 특별전형](https://kbds.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=79306) ~12/08 20:00
+<br>[미래에셋 인턴](http://fs.miraeasset.com/recruit/view.do) ~12/12 24:00
+<br>[저축은행중앙회](https://fsb.incruit.com/hire/viewhire.asp?projectid=104) ~12/19 24:00
