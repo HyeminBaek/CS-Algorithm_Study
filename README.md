@@ -3,7 +3,7 @@
 
 ### 스터디원
 
-[강태훈](https://github.com/shuttlecock0) [김병연](https://github.com/whyWhale) [김영훈](https://github.com/kim0hoon) [백혜민](https://github.com/HyeminBaek) [조성진](https://github.com/noel7781)
+[강태훈](https://github.com/shuttlecock0) [김영훈](https://github.com/kim0hoon) [백혜민](https://github.com/HyeminBaek) [조성진](https://github.com/noel7781)
 
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
