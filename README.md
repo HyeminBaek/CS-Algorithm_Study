@@ -27,5 +27,4 @@
 |||||||<p><b>알고리즘 주제</b> </p>|
 
 ** 채용 공고
-<br>[미래에셋 인턴](http://fs.miraeasset.com/recruit/view.do) ~12/12 24:00
 <br>[저축은행중앙회](https://fsb.incruit.com/hire/viewhire.asp?projectid=104) ~12/19 24:00
