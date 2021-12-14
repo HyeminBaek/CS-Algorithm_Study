@@ -29,3 +29,4 @@
 ** 채용 공고
 <br>[저축은행중앙회](https://fsb.incruit.com/hire/viewhire.asp?projectid=104) ~12/19 24:00
 <br>[NH농협은행](https://oras.jobkorea.co.kr/nhbank/main.asp) ~12/22 18:00
+<br>[한화손해보험 it인턴](https://www.hanwhain.com/web/apply/notification/view.do?rtSeq=6390) ~12/24 15:00
