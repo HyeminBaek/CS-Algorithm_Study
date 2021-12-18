@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [통나무 자르기](https://www.acmicpc.net/problem/1114),[사과나무](https://www.acmicpc.net/problem/20002),[미친 아두이노](https://www.acmicpc.net/problem/8972),[변신로봇](https://www.acmicpc.net/problem/14630)
+✏️ `이번주 문제(백준)` : [개근상](https://www.acmicpc.net/problem/1563),[보석 줍기](https://www.acmicpc.net/problem/2001),[장난감 조립](https://www.acmicpc.net/problem/2637),[트리 복구](https://www.acmicpc.net/problem/6597),[어떤 우유의 배달목록 (Easy)](https://www.acmicpc.net/problem/23835), [사과와 바나나](https://www.acmicpc.net/problem/3114)
 
 <h3> 📅 12월 </h3>
 
@@ -24,9 +24,9 @@
 |   19   |   20   |   21   |   22   |   23   |   24   |   25   |
 ||신세계아이앤씨 2차 면접||OK금융그룹 최종 발표|||즐거운 크리스마스|
 |   26   |   27   |   28   |   29   |   30   |   31   |   1   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|||||||<p><b>알고리즘 주제</b> DP, 비트마스킹, 위상정렬, 재귀, 트리</p>|
 
 ** 채용 공고
 <br>[저축은행중앙회](https://fsb.incruit.com/hire/viewhire.asp?projectid=104) ~12/19 24:00
 <br>[NH농협은행](https://oras.jobkorea.co.kr/nhbank/main.asp) ~12/22 18:00
-<br>[한화손해보험 it인턴](https://www.hanwhain.com/web/apply/notification/view.do?rtSeq=6390) ~12/24 15:00
+
