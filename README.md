@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [가짜소수](https://www.acmicpc.net/problem/4233),[보석 줍기](https://www.acmicpc.net/problem/2001),[계곡이 넘쳐흘러](https://www.acmicpc.net/problem/17260),[네 개의 소수](https://www.acmicpc.net/problem/1153)
+✏️ `이번주 문제(백준)` : [가짜소수](https://www.acmicpc.net/problem/4233),[프로젝트 스케줄링](https://www.acmicpc.net/problem/14907),[계곡이 넘쳐흘러](https://www.acmicpc.net/problem/17260),[네 개의 소수](https://www.acmicpc.net/problem/1153)
 
 <h3> 📅 1월 </h3>
 
