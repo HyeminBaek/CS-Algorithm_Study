@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [가짜소수](https://www.acmicpc.net/problem/4233),[프로젝트 스케줄링](https://www.acmicpc.net/problem/14907),[계곡이 넘쳐흘러](https://www.acmicpc.net/problem/17260),[네 개의 소수](https://www.acmicpc.net/problem/1153)
+✏️ `이번주 문제(백준)` : [도시 건설](https://www.acmicpc.net/problem/21924),[팔굽혀펴기](https://www.acmicpc.net/problem/10564),[드래곤 앤 던전](https://www.acmicpc.net/problem/16434),[비밀 모임](https://www.acmicpc.net/problem/13424)
 
 <h3> 📅 1월 </h3>
 
@@ -22,10 +22,10 @@
 |   9   |   10   |   11   |   12   |   13   |   14   |   15   |
 |<p><b>알고리즘 주제</b> 페르마의 소정리, DP, BFS, 에라토스테네스의 체 </p>|||||||
 |   16   |   17   |   18   |   19   |   20   |   21   |   22   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|||||||<p><b>알고리즘 주제</b> 트리 DP, 그리디, 이분탐색, 수학</p>|
 |   23   |   24   |   25   |   26   |   27   |   28   |   29   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|||||||휴식|
 |   30   |   31   |   1   |   2   |   3   |   4   |   5   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|||||||<p><b>알고리즘 주제</b> MST, DP, 그리디, </p>|
 
 ** 채용 공고
