@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [도시 건설](https://www.acmicpc.net/problem/21924),[팔굽혀펴기](https://www.acmicpc.net/problem/10564),[드래곤 앤 던전](https://www.acmicpc.net/problem/16434),[비밀 모임](https://www.acmicpc.net/problem/13424)
+✏️ `이번주 문제(백준)` : [온풍기 안녕!](https://www.acmicpc.net/problem/23289),[개미굴](https://www.acmicpc.net/problem/14725),[스티커 붙이기](https://www.acmicpc.net/problem/18808),[K진 트리](https://www.acmicpc.net/problem/11812)
 
 <h3> 📅 2월 </h3>
 
@@ -17,7 +17,7 @@
 |   30   |   31   |   1   |   2   |   3   |   4   |   5   |
 |||||||<p><b>알고리즘 주제</b> MST, DP, 그리디, 다익스트라</p>|
 |   6   |   7   |   8   |   9   |   10   |   11   |   12   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|||||||<p><b>알고리즘 주제</b> 구현, 트라이, 최소공통조상</p>|
 |   13   |   14   |   15   |   16   |   17   |   18   |   19   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 |   20   |   21   |   22   |   23   |   24   |   25   |   26   |
