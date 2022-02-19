@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [수상 택시](https://www.acmicpc.net/problem/2836),[행성 X3](https://www.acmicpc.net/problem/2830),[방법을 출력하지 않는 숫자 맞추기](https://www.acmicpc.net/problem/13392),[공격](https://www.acmicpc.net/problem/1430)
+✏️ `이번주 문제(백준)` : [자두나무](https://www.acmicpc.net/problem/2240),[시장 선거 포스터](https://www.acmicpc.net/problem/2370),[보드게임](https://www.acmicpc.net/problem/2572),[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 
 <h3> 📅 2월 </h3>
 
@@ -21,9 +21,9 @@
 |   13   |   14   |   15   |   16   |   17   |   18   |   19   |
 |||||||<p><b>알고리즘 주제</b> 스위핑, 비트마스킹, DP, 너비우선탐색 </p>|
 |   20   |   21   |   22   |   23   |   24   |   25   |   26   |
-|||||||<p><b>알고리즘 주제</b>  </p>|
+||||||||
 |   27   |   28   |   1   |   2   |   3   |   4   |   5   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|<p><b>알고리즘 주제</b> DP, 그리디</p>||||||<p><b>알고리즘 주제</b> </p>|
 
 
 ** 채용 공고
