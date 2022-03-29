@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [두 배열의 합](https://www.acmicpc.net/problem/2143),[집 구하기](https://www.acmicpc.net/problem/13911),[꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181),[종이 접기](https://www.acmicpc.net/problem/12979)
+✏️ `이번주 문제(백준)` : [RGB거리 2](https://www.acmicpc.net/problem/17404),[집 구하기](https://www.acmicpc.net/problem/13911),[꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181),[종이 접기](https://www.acmicpc.net/problem/12979)
 
 <h3> 📅 3월 </h3>
 
@@ -21,12 +21,10 @@
 |   13   |   14   |   15   |   16   |   17   |   18   |   19   |
 |||||||<p><b>알고리즘 주제</b> 누적 합, 다익스트라, DP, 이분탐색</p>|
 |   20   |   21   |   22   |   23   |   24   |   25   |   26   |
-||삼성SDS,LINE 서류 마감|||||LINE 코딩테스트|
+||||||||
 |   27   |   28   |   29   |   30   |   31   |   1   |   2   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+||||||금융결제원 서류 마감|<p><b>알고리즘 주제</b> </p>|
 
 
 ** 채용 공고
-[삼성SDS](https://www.samsungcareers.com/rec/apply/ComResumeServlet?cmd=pstMain&gbncd=A) ~03.21 17:00
-[LINE](https://careers.linecorp.com/ko/jobs/1165) ~03.21 17:00
-[금융결제원](https://kftc.career.co.kr/jobs/jobs_view.asp?ID=1008) ~04.01 17:00 
+<br>[금융결제원](https://kftc.career.co.kr/jobs/jobs_view.asp?ID=1008) ~04.01 17:00 
