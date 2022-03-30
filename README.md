@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [RGB거리 2](https://www.acmicpc.net/problem/17404),[집 구하기](https://www.acmicpc.net/problem/13911),[꿈틀꿈틀 호석 애벌레 - 효율성](https://www.acmicpc.net/problem/20181),[종이 접기](https://www.acmicpc.net/problem/12979)
+✏️ `이번주 문제(백준)` : [RGB거리 2](https://www.acmicpc.net/problem/17404),[ACM Craft](https://www.acmicpc.net/problem/1005),[리조트](https://www.acmicpc.net/problem/13302),[창업](https://www.acmicpc.net/problem/16890),[입국심사](https://www.acmicpc.net/problem/3079),[지각하면 안 돼](https://www.acmicpc.net/problem/12763),[A와 B 2](https://www.acmicpc.net/problem/12919),[구간 자르기](https://www.acmicpc.net/problem/2283)
 
 <h3> 📅 4월 </h3>
 
@@ -17,7 +17,7 @@
 |   27   |   28   |   29   |   30   |   31   |   1   |   2   |
 ||||||금융결제원 서류 마감||
 |   3   |   4   |   5   |   6   |   7   |   8   |   9   |
-|||||||<p><b>알고리즘 주제</b> 위상정렬,DP</p>|
+|||||||<p><b>알고리즘 주제</b> 위상정렬,DP,그리디,이분탐색,다익스트라,재귀,투포인터</p>|
 |   10   |   11   |   12   |   13   |   14   |   15   |   16   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
