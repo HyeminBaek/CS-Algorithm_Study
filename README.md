@@ -27,5 +27,5 @@
 
 
 ** 채용 공고
-<br>[NH투자증권](https://nhqv.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=92852) ~04.10 
+<br>[NH투자증권](https://nhqv.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=92852) ~04.10 18:00
 <br>[KB국민은행](https://kbstar.incruit.com/hire/viewhire.asp?projectid=118) ~04.12 18:00 
