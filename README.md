@@ -19,12 +19,13 @@
 |   3   |   4   |   5   |   6   |   7   |   8   |   9   |
 |||||||<p><b>알고리즘 주제</b> 위상정렬,DP,그리디,이분탐색,다익스트라,재귀,투포인터</p>|
 |   10   |   11   |   12   |   13   |   14   |   15   |   16   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|NH투자증권 서류 마감||KB국민은행 서류 마감||||<p><b>알고리즘 주제</b> </p>|
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 |   24   |   25   |   26   |   27   |   28   |   29   |   30   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+||||NH투자증권 서류 발표|||<p><b>알고리즘 주제</b> </p>|
 
 
 ** 채용 공고
-<br>[금융결제원](https://kftc.career.co.kr/jobs/jobs_view.asp?ID=1008) ~04.01 17:00 
+<br>[NH투자증권](https://nhqv.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=92852) ~04.10 
+<br>[KB국민은행](https://kbstar.incruit.com/hire/viewhire.asp?projectid=118) ~04.12 18:00 
