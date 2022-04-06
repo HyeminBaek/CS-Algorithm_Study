@@ -23,9 +23,10 @@
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 |   24   |   25   |   26   |   27   |   28   |   29   |   30   |
-||||NH투자증권 서류 발표|||<p><b>알고리즘 주제</b> </p>|
+||신한은행 서류 마감||NH투자증권 서류 발표|||<p><b>알고리즘 주제</b> </p>|
 
 
 ** 채용 공고
 <br>[NH투자증권](https://nhqv.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=92852) ~04.10 18:00
 <br>[KB국민은행](https://kbstar.incruit.com/hire/viewhire.asp?projectid=118) ~04.12 18:00 
+<br>[신한은행](https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=94089) ~04.25 18:00
