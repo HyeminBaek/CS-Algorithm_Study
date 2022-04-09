@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [RGB거리 2](https://www.acmicpc.net/problem/17404),[ACM Craft](https://www.acmicpc.net/problem/1005),[리조트](https://www.acmicpc.net/problem/13302),[창업](https://www.acmicpc.net/problem/16890),[입국심사](https://www.acmicpc.net/problem/3079),[지각하면 안 돼](https://www.acmicpc.net/problem/12763),[A와 B 2](https://www.acmicpc.net/problem/12919),[구간 자르기](https://www.acmicpc.net/problem/2283)
+✏️ `이번주 문제(백준)` : [1의 개수 세기](https://www.acmicpc.net/problem/9527),[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366),[불우이웃돕기](https://www.acmicpc.net/problem/1414),[불켜기](https://www.acmicpc.net/problem/11967)
 
 <h3> 📅 4월 </h3>
 
@@ -19,7 +19,7 @@
 |   3   |   4   |   5   |   6   |   7   |   8   |   9   |
 |||||||<p><b>알고리즘 주제</b> 위상정렬,DP,그리디,이분탐색,다익스트라,재귀,투포인터</p>|
 |   10   |   11   |   12   |   13   |   14   |   15   |   16   |
-|NH투자증권 서류 마감||KB국민은행 서류 마감||||<p><b>알고리즘 주제</b> </p>|
+|NH투자증권 서류 마감||KB국민은행 서류 마감||||<p><b>알고리즘 주제</b>누적 합,투포인터,MST,BFS </p>|
 |   17   |   18   |   19   |   20   |   21   |   22   |   23   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 |   24   |   25   |   26   |   27   |   28   |   29   |   30   |
