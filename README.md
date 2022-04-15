@@ -27,5 +27,4 @@
 
 
 ** 채용 공고
-<br>[KB국민은행](https://kbstar.incruit.com/hire/viewhire.asp?projectid=118) ~04.12 18:00 
 <br>[신한은행](https://shinhan.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=94089) ~04.25 18:00
