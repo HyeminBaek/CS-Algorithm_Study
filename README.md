@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [1의 개수 세기](https://www.acmicpc.net/problem/9527),[같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366),[불우이웃돕기](https://www.acmicpc.net/problem/1414),[불켜기](https://www.acmicpc.net/problem/11967)
+✏️ `이번주 문제(백준)` : [스타트택시](https://www.acmicpc.net/problem/19238),[뮤탈리스크](https://www.acmicpc.net/problem/12869),[피리 부는 사나이](https://www.acmicpc.net/problem/16724),[나누기](https://www.acmicpc.net/problem/21757)
 
 <h3> 📅 5월 </h3>
 
