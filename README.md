@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [스타트택시](https://www.acmicpc.net/problem/19238),[뮤탈리스크](https://www.acmicpc.net/problem/12869),[피리 부는 사나이](https://www.acmicpc.net/problem/16724),[나누기](https://www.acmicpc.net/problem/21757)
+✏️ `이번주 문제(백준)` : [스타트택시](https://www.acmicpc.net/problem/19238),[뮤탈리스크](https://www.acmicpc.net/problem/12869),[금고 테스트](https://www.acmicpc.net/problem/2266),[부품 대여장](https://www.acmicpc.net/problem/21942)
 
 <h3> 📅 5월 </h3>
 
@@ -19,9 +19,9 @@
 |   1   |   2   |   3   |   4   |   5   |   6   |   7   |
 ||||||||
 |   8   |   9   |   10   |   11   |   12   |   13   |   14   |
-||||신한은행 서류 발표|||신한은행 코딩테스트|
+||||신한은행 서류 발표|||신한은행 코딩테스트<p><b>알고리즘 주제</b> DP,문자열</p>|
 |   15   |   16   |   17   |   18   |   19   |   20   |   21   |
-||||한국투자증권 서류 마감|||<p><b>알고리즘 주제</b> </p>|
+||새마을금고중앙회 서류 마감||한국투자증권 서류 마감|||<p><b>알고리즘 주제</b> </p>|
 |   22   |   23   |   24   |   25   |   26   |   27   |   28   |
 |||||||<p><b>알고리즘 주제</b></p>|
 |   29   |   30   |   31   |   1   |   2   |   3   |   4   |
@@ -29,5 +29,6 @@
 
 
 
-** 채용 공고
+** 채용 공고]
+<br>[새마을금고중앙회](https://www.kfcc.co.kr/recruit/rec0095_view.do?seq=1192&pageNo=1) ~05/16 14:00
 <br>[한국투자증권](https://kis-ceo2022.com/) ~05/18 17:00
