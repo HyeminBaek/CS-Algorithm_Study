@@ -31,3 +31,4 @@
 
 ** 채용 공고]
 <br>[한국투자증권](https://kis-ceo2022.com/) ~05/18 17:00
+<br>[KB증권](https://www.2022-kbsec.com/?utm_source=jasoseol&utm_medium=cpc&utm_campaign=cpc) ~05/27 17:00
