@@ -30,4 +30,3 @@
 
 
 ** 채용 공고
-<br>[KB증권](https://www.2022-kbsec.com/?utm_source=jasoseol&utm_medium=cpc&utm_campaign=cpc) ~05/27 17:00
