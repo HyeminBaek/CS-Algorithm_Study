@@ -8,7 +8,7 @@
 <br> 📌 시작: 2020-12-27 ~
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [전구를 켜라](https://www.acmicpc.net/problem/2423),[지뢰제거](https://www.acmicpc.net/problem/9077),[분수뺄셈](https://www.acmicpc.net/problem/4782),[싸지방에 간 준하](https://www.acmicpc.net/problem/12764)
+✏️ `이번주 문제(백준)` : [유니온 파인드 복원](https://www.acmicpc.net/problem/22996),[마트료시카](https://www.acmicpc.net/problem/23845),[고스택](https://www.acmicpc.net/problem/3425),[소코반](https://www.acmicpc.net/problem/4577)
 
 <h3> 📅 6월 </h3>
 
@@ -17,7 +17,7 @@
 |   29   |   30   |   31   |   1   |   2   |   3   |   4   |
 ||||||신한은행 1차 면접 발표||
 |   5   |   6   |   7   |   8   |   9   |   10   |   11   |
-|||||||<p><b>알고리즘 주제</b> </p>|
+|||||||<p><b>알고리즘 주제</b> 트리,그리디,구현</p>|
 |   12   |   13   |   14   |   15   |   16   |   17   |   18   |
 |||||||<p><b>알고리즘 주제</b> </p>|
 |   19   |   20   |   21   |   22   |   23   |   24   |   25   |
