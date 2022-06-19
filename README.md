@@ -8,7 +8,7 @@
 <br> 📌 시작-끝: 2020-12-27 ~ 2022-06-19
 <br> 💻 문제 선정: 백준,프로그래머스,LeetCode, SWEA
 
-✏️ `이번주 문제(백준)` : [유니온 파인드 복원](https://www.acmicpc.net/problem/22996),[마트료시카](https://www.acmicpc.net/problem/23845),[고스택](https://www.acmicpc.net/problem/3425),[소코반](https://www.acmicpc.net/problem/4577)
+✏️ `이번주 문제(백준)` : 
 
 <h3> 📅 6월 </h3>
 
