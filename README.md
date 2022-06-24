@@ -26,3 +26,4 @@
 |마이 핀테크 서비스 개발 경진대회 본선 결과 발표|||||||
 
 ** 채용 공고
+<br>[우리은행](https://wooribank.incruit.com/hire/viewhire.asp?projectid=110) ~07.01 18:00
